@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 340" role="img" aria-label="ChBopcy z Placu Broni">
+  <rect width="240" height="340" rx="18" fill="#0e6b62"/>
+  <rect x="16" y="16" width="208" height="308" rx="12" fill="none" stroke="#f4efe4" stroke-width="2"/>
+  <text x="120" y="148" text-anchor="middle" fill="#f4efe4" font-family="Georgia, serif" font-size="26">ChBopcy</text>
+  <text x="120" y="182" text-anchor="middle" fill="#f4efe4" font-family="Georgia, serif" font-size="26">z Placu</text>
+  <text x="120" y="216" text-anchor="middle" fill="#f4efe4" font-family="Georgia, serif" font-size="26">Broni</text>
+  <text x="120" y="276" text-anchor="middle" fill="#f4efe4" font-family="Georgia, sans-serif" font-size="14" opacity="0.85">Ferenc Molnár</text>
+</svg>

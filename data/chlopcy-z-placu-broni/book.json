@@ -1,0 +1,18 @@
+{
+  "id": "chlopcy-z-placu-broni",
+  "title": "Chłopcy z Placu Broni",
+  "author": "Ferenc Molnár",
+  "cover": "images/chlopcy-z-placu-broni/cover.svg",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Rozdział I",
+      "file": "chapter-01.json"
+    },
+    {
+      "id": 2,
+      "title": "Rozdział II",
+      "file": "chapter-02.json"
+    }
+  ]
+}

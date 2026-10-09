@@ -1,0 +1,780 @@
+{
+  "id": 1,
+  "title": "Rozdział I",
+  "audio": "../../audio/chlopcy-z-placu-broni/videoplayback (2).mp4",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Lekcja chemii i katarynka",
+      "description": "",
+      "paragraphs": [
+        "Za kwadrans pierwsza, w pełnej napięcia chwili, kiedy długie oczekiwanie uwieńczone zostało wreszcie sukcesem i w bezbarwnym dotąd płomieniu palnika Bunsena rozbłysła nagle przepiękna, szmaragdowa smuga - na podwórku sąsiedniej kamienicy rozległy się dźwięki katarynki. W tym samym momencie, za piętnaście pierwsza, runęła w proch cała powaga triumfu naukowego eksperymentu, który miał udowodnić, i rzeczywiście udowodnił, iż odczyn chemiczny jest w stanie zabarwić ogień. Był ciepły, marcowy dzień i przez szeroko otwarte okno, wraz z powiewem wiatru, napłynęły do klasy radosne tony. Jakiś kataryniarz zagrał bowiem skoczną, węgierską melodię w tak marszowym rytmie, że uczniowie z trudem powstrzymali śmiech. Kilku chłopców nie opanowało zresztą wesołości. W palniku Bunsena nadal figlarnie migotał zielony wężyk, ale teraz wpatrywało się w niego zaledwie kilku chłopców z pierwszych ławek. Pozostali skupili uwagę na dachach sąsiednich domów i na błyszczącej w oddali, oświetlonej słońcem wieży kościelnej. Duża wskazówka kościelnego zegara radośnie zbliżała się do cyfry dwanaście. Prysło zatem skupienie i wraz z melodią katarynki zaczęły docierać do klasy również inne dźwięki. Trąbiły i turkotały tramwaje konne, a na jednym z podwórek jakaś dziewczyna, zapewne służąca, nuciła zupełnie inną melodię niż ta, którą wygrywał kataryniarz. Cała klasa zaczęła się wiercić i kręcić. Część uczniów porządkowała w ławkach książki, inni starannie wycierali stalówki. [b]Boka[/b] zakręcił malutki, obciągnięty pokrowcem z czerwonej skórki kałamarz kieszonkowy, tak sprytnie skonstruowany, że atrament wylewał się natychmiast po schowaniu kałamarza do kieszeni. [b]Czele[/b] zbierał porozrzucane kartki, które zastępowały mu książki, bo przecież elegantowi - za jakiego się uważał - nie wypadało nosić ze sobą całej biblioteki. Zabierał więc do szkoły tylko luźne, powyrywane z książek kartki potrzebne na daną lekcję. Rozkładał starannie te kartki po różnych kieszeniach, aby żadnej nie wypychać ponad miarę. [b]Czonakosz[/b] w ostatniej ławce ziewał potężnie, niczym zaspany hipopotam, a Weiss wysypywał z kieszeni okruchy po rogalu, który po kawałeczku łamał i zajadał od dziesiątej aż do dwunastej. [b]Gereb[/b] zaczął szurać nogami, jakby lada chwila miał wstać, Barabasz zaś, bez żenady rozłożył na kolanach ceratową płachtę i układał w niej książki podług wielkości, po czym z taką siłą ściągnął je paskiem, że aż ławka skrzypnęła, a on sam poczerwieniał. Jednym słowem wszyscy gorączkowo przygotowywali się do opuszczenia szkoły i tylko nauczyciel nie zdawał sobie sprawy, że już za pięć minut kończy się lekcja. Uniósł głowę, łagodnym spojrzeniem zlustrował klasę i zapytał:",
+        "- Co się stało?",
+        "Zapadła martwa cisza. Barabasz zmuszony był poluzować pasek, Gereb przestał szurać nogami, Weiss wepchnął wywrócone na lewą stronę kieszenie, Czonakosz zakrył dłonią rozdziawione usta, Czele przestał układać karteluszki, Boka zaś schował do kieszeni kałamarz, z którego natychmiast zaczął się sączyć i plamić spodnie piękny, niebieski atrament."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "w pełnej napięcia chwili",
+          "match": "w pełnej napięcia chwili",
+          "uk": "у напружену мить",
+          "ru": "в напряжённый момент"
+        },
+        {
+          "phrase": "uwieńczone",
+          "match": "uwieńczone",
+          "uk": "завершений",
+          "ru": "завершённый"
+        },
+        {
+          "phrase": "płomieniu palnika Bunsena rozbłysła",
+          "match": "płomieniu palnika Bunsena rozbłysła",
+          "uk": "у полум’ї пальника Бунзена спалахнула",
+          "ru": "в пламени горелки Бунзена вспыхнула"
+        },
+        {
+          "phrase": "runęła w proch cała powaga triumfu",
+          "match": "runęła w proch cała powaga triumfu",
+          "uk": "розсипалася на порох уся урочистість тріумфу",
+          "ru": "рухнула в прах вся торжественность триумфа"
+        },
+        {
+          "phrase": "katarynka",
+          "match": "katarynki",
+          "uk": "катеринка",
+          "ru": "шарманка"
+        },
+        {
+          "phrase": "udowodnić",
+          "match": "udowodnić",
+          "uk": "довести",
+          "ru": "доказать"
+        },
+        {
+          "phrase": "prysło skupienie",
+          "match": "Prysło zatem skupienie",
+          "uk": "зникла зосередженість",
+          "ru": "исчезла сосредоточенность"
+        },
+        {
+          "phrase": "turkotać",
+          "match": "turkotały",
+          "uk": "гуркотіти",
+          "ru": "грохотать, тарахтеть"
+        },
+        {
+          "phrase": "nadal figlarnie migotał zielony wężyk",
+          "match": "nadal figlarnie migotał zielony wężyk",
+          "uk": "все ще грайливо мерехтів зелений шнурок",
+          "ru": "всё ещё игриво мерцал зелёный шнурок"
+        }
+      ],
+      "audio": {
+        "start": 0,
+        "end": 224
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/01.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Na co czekali uczniowie?",
+          "answer": "Na zakończenie lekcji."
+        },
+        {
+          "question": "Co rozległo się na podwórku sąsiedniej kamienicy?",
+          "answer": "Dźwięki katarynki."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Kartka do Boki",
+      "description": "",
+      "paragraphs": [
+        "- Co się stało? - powtórzył nauczyciel, ale wszyscy już tkwili nieruchomo na swoich miejscach. Profesor spojrzał w okno, przez które figlarnie wdzierały się do klasy dźwięki katarynki, i powiedział surowym tonem:",
+        "- Czengey, zamknij okno!",
+        "Mały Czengey, który był pierwszym z najpierwszych prymusów i siedział w pierwszej ławce, podniósł się i z poważną, jak zawsze, miną ruszył w stronę okna, żeby je zamknąć.",
+        "W tej samej chwili siedzący na skraju Czonakosz wychylił się z ławki i szepnął do małego jasnowłosego chłopca:",
+        "- Uwaga, Nemeczek!",
+        "Nemeczek spojrzał ukradkiem do tyłu, po czym natychmiast przeniósł wzrok na podłogę. Po podłodze toczyła się właśnie zwinięta kulka papieru. Nemeczek podniósł ją, rozprostował. Po jednej stronie karteczki było napisane: [b][i]„Podaj dalej do Boki”[/i][/b].",
+        "Nemeczek wiedział, że właściwa wiadomość znajduje się na drugiej stronie kartki, ale jako człowiek honoru nie zamierzał czytać cudzego listu. Dlatego ponownie zwinął kartkę w kulkę, poczekał na właściwy moment i wychyliwszy się z rzędu szepnął:",
+        "- Uwaga, Boka!",
+        "Teraz Boka spojrzał na podłogę, która jak zawsze pełniła rolę szlaku komunikacyjnego podczas lekcji. Papierowa kulka potoczyła się dalej. Na drugiej stronie kartki, na tej, której Nemeczek jako człowiek honoru nie przeczytał, było napisane: [b][i]„Dziś o trzeciej zbiórka na Placu. Wybieramy przewodniczącego. Ogłosić”[/i][/b].",
+        "Boka schował karteczkę do kieszeni i jeszcze raz ściągnął paskiem spakowane książki. Była pierwsza. Elektryczny zegar zaczął brzęczeć i teraz również nauczyciel zdał sobie sprawę, że oto lekcja dobiegła końca. Zgasił palnik Bunsena, zadał pracę do domu i udał się do pracowni przyrodniczej. Zza uchylonych drzwi gabinetu przyrodniczego wyzierały wypchane zwierzęta, z półek gapiły się swymi nieruchomymi, szklanymi oczyma rzędy wypchanego ptactwa, a w kącie cicho i dostojnie stał pożółkły, wiecznie tajemniczy i groźny kościotrup."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "ukradkiem",
+          "match": "ukradkiem",
+          "uk": "нишком, крадькома",
+          "ru": "украдкой"
+        },
+        {
+          "phrase": "zwinięta",
+          "match": "zwinięta",
+          "uk": "згорнута",
+          "ru": "свёрнутая"
+        },
+        {
+          "phrase": "wychylić się",
+          "match": "wychyliwszy się",
+          "uk": "висунувшись, нахилившись",
+          "ru": "высунувшись, наклонившись"
+        },
+        {
+          "phrase": "właściwy moment",
+          "match": "właściwego momentu",
+          "uk": "відповідний момент",
+          "ru": "подходящий момент"
+        },
+        {
+          "phrase": "pełniła rolę szlaku",
+          "match": "pełniła rolę szlaku",
+          "uk": "слугувала за стежку",
+          "ru": "служила в качестве тропы"
+        }
+      ],
+      "audio": {
+        "start": 225,
+        "end": 362
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/02.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Komu Nemeczek podał kartkę?",
+          "answer": "Boce."
+        },
+        {
+          "question": "Co napisano na kartce dla Boki?",
+          "answer": "Dziś o trzeciej zbiórka na Placu."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Koniec lekcji i wyjście ze szkoły",
+      "description": "",
+      "paragraphs": [
+        "Klasa opustoszała niemal natychmiast. Przestronna, zdobiona kolumnami klatka schodowa zadudniła od dzikiego galopu, który słabł tylko wówczas, gdy wśród młodzieży pojawiała się nagle wysoka, górująca nad tłumem sylwetka któregoś z nauczycieli. Pędzący na złamanie karku chłopcy hamowali wtedy w biegu, na sekundę zapadała cisza, ale gdy profesor znikał za zakrętem, szaleńczy wyścig rozpoczynał się od nowa.",
+        "Tłum chłopców niczym rwący potok wylewał się przez bramę i tu dopiero rozdzielał się na dwa nurty. Jedni szli w prawo, drudzy w lewo. Uczniowie kłaniali się wychodzącym wraz z nimi nauczycielom, zmęczeni i głodni kroczyli powoli zalanymi słońcem ulicami. Byli jeszcze trochę oszołomieni, ale pod wpływem radośnie ożywionej ulicy stopniowo otrząsali się z otępienia. Pławili się w słońcu jak wypuszczeni na wolność mali więźniowie, zanurzali się w głąb ruchliwego i hałaśliwego miasta, które nie było dla nich niczym innym, jak tylko labiryntem ulic, sklepów, powozów i torowisk tramwajów konnych, wśród których należało wybrać ścieżki wiodące do domów."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "zadudnieć",
+          "match": "zadudniła",
+          "uk": "загуркотіти",
+          "ru": "загрохотать"
+        },
+        {
+          "phrase": "na złamanie karku",
+          "match": "na złamanie karku",
+          "uk": "щодуху, стрімголов",
+          "ru": "сломя голову"
+        },
+        {
+          "phrase": "górująca nad tłumem",
+          "match": "górująca nad tłumem",
+          "uk": "що височіє над натовпом",
+          "ru": "возвышающаяся над толпой"
+        },
+        {
+          "phrase": "otępienie",
+          "match": "otępienia",
+          "uk": "заціпеніння",
+          "ru": "оцепенение"
+        },
+        {
+          "phrase": "otrząsnąć się",
+          "match": "otrząsali się",
+          "uk": "оговтатися",
+          "ru": "прийти в себя"
+        },
+        {
+          "phrase": "torowisko",
+          "match": "torowisk tramwajów konnych",
+          "uk": "трамвайна колія",
+          "ru": "трамвайный путь"
+        }
+      ],
+      "audio": {
+        "start": 362,
+        "end": 438
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/03.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co stało się z klasą zaraz po lekcji?",
+          "answer": "Klasa opustoszała niemal natychmiast."
+        },
+        {
+          "question": "Dokąd szli chłopcy po wyjściu ze szkoły?",
+          "answer": "Do domów."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Czele i sprzedawca słodyczy",
+      "description": "",
+      "paragraphs": [
+        "W bramie sąsiadującego ze szkołą domu Czele targował się zawzięcie ze sprzedawcą wschodnich łakoci, który ni stąd, ni zowąd w bezczelny wprost sposób podniósł nagle ceny. Jak świat światem wiadomo było, ze kawałek chałwy kosztował do tej pory jednego grajcara. Był to mały kawałek, akurat taki, jaki jednym uderzeniem tasaka można było odrąbać z dużego, porowatego bloku nadzianej orzechami białej chałwy. I taki właśnie kawałek kosztował jednego grajcara; jeden grajcar stanowił w zasadzie podstawową cenę wszystkiego, co było do kupienia na straganie pod bramą. Za grajcara można było więc dostać trzy zanurzone w syropie śliwki nadziane na drewniany patyczek, trzy figi albo trzy orzechy. Grajcara kosztowała również porcja pańskiej skórki, laseczek lukrecji lub sezamek. Ba, za grajcara kupowało się porcję zapakowanej w małą, papierową torebeczkę przepysznej mieszanki zwanej „uczniowskim obrokiem”. Były tam orzeszki laskowe, rodzynki, koryntki, migdały, kawałeczki cukru, okruchy chleba świętojańskiego, a także sporo śmieci i muszek. Na „uczniowski obrok” składał się więc pełny zestaw wyrobów cukierniczych, a także elementy świata roślinnego i zwierzęcego. I to wszystko za grajcara! Czele targował się zaciekle ze sprzedawcą bakalii, co niechybnie oznaczało, że kupiec podniósł dziś ceny. Kto zna prawa rządzące handlem, ten dobrze wie, że ceny rosną również i wtedy, gdy transakcje połączone są z ryzykiem. I tak na przykład najdroższa jest herbata, którą sprowadza się z Azji karawanami ciągnącymi przez tereny pełne zbójców. Za to właśnie niebezpieczeństwo muszą później płacić mieszkańcy zachodniej Europy. Sprzedawca bakalii, zgodnie z powyższą regułą, wykazał duży zmysł handlowy i podniósł ceny, ponieważ dowiedział się, że chcą go przepędzić z bramy w pobliżu szkoły. Wiedział też doskonale, że jeśli już postanowiono go przepędzić, to nie pomogą najsłodsze nawet uśmiechy kierowane do przechodzących obok panów profesorów. Tak czy owak przepędzą go, bo widzą w nim wroga.",
+        "„Dzieci tracą wszystkie pieniądze na straganie tego Włocha” - mówili nauczyciele. Wiedział biedak, że dni jego kramu w pobliżu szkoły są policzone. A więc podniósł ceny. Jeśli już musi stąd odejść, to przynajmniej niech sobie odbije straty. Co też szczerze powiedział:",
+        "- Do tej pory wszystko kosztowało grajcara. Ale od dziś będzie dwa grajcary!"
+      ],
+      "vocabulary": [
+        {
+          "phrase": "targować się",
+          "match": "targował się",
+          "uk": "торгуватися",
+          "ru": "торговаться"
+        },
+        {
+          "phrase": "łakocie",
+          "match": "łakoci",
+          "uk": "ласощі, солодощі",
+          "ru": "лакомства, сладости"
+        },
+        {
+          "phrase": "grajcar",
+          "match": "grajcara",
+          "uk": "старовинна дрібна монета",
+          "ru": "старинная мелкая монета"
+        },
+        {
+          "phrase": "bakalia",
+          "match": "bakalii",
+          "uk": "сухофрукти та горіхи",
+          "ru": "сухофрукты и орехи"
+        },
+        {
+          "phrase": "stragan",
+          "match": "straganie",
+          "uk": "ятка, торговий прилавок",
+          "ru": "лоток, торговый прилавок"
+        },
+        {
+          "phrase": "przepędzić",
+          "match": "przepędzić",
+          "uk": "прогнати",
+          "ru": "прогнать"
+        }
+      ],
+      "audio": {
+        "start": 439,
+        "end": 609
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/04.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Ile kosztował kawałek chałwy do tej pory?",
+          "answer": "Jednego grajcara."
+        },
+        {
+          "question": "Ile sprzedawca kazał płacić od dziś?",
+          "answer": "Dwa grajcary."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Gereb chce rzucić kapeluszem",
+      "description": "",
+      "paragraphs": [
+        "A że był Włochem, przeto wystękał te słowa łamaną węgierszczyzną, dziko przy tym wymachując swym toporkiem. Wtedy Gereb podszepnął Czelemu:",
+        "- Rąbnij kapeluszem w ten kram!",
+        "Czele był zachwycony pomysłem. W to mu graj! Łakocie pofrunęłyby na lewo i prawo! Chłopcy by się cieszyli!",
+        "A Gereb kusił jak zły duch:",
+        "- Walnij no kapeluszem! A to chytrus! śeby tak z nas zdzierać!",
+        "Czele zdjął kapelusz z głowy.",
+        "- Takim ładnym kapeluszem? - zawahał się.",
+        "Nie udało się. Gereb skierował swoją propozycję pod zły adres. Czele był przecież elegantem.",
+        "- Kapelusza ci żal? Kapelusza? - nacierał Gereb.",
+        "- A żebyś wiedział - odpowiedział Czele. - Ale nie myśl, że tchórzę. Wcale się nie boję, kapelusza mi szkoda. I mogę ci to udowodnić. Jak chcesz, to rąbnę twoim!",
+        "Dla Gereba była to propozycja nie do przyjęcia. Poczuł się urażony i warknął ze złością:",
+        "- Sam potrafię rzucić swoim kapeluszem. Toż to zdzierus. A ty, jak się boisz, to uciekaj.",
+        "I zdecydowanym, wojowniczym gestem zdjął kapelusz, żeby uderzyć nim w zastawiony słodyczami, oparty na krzyżakach stół."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "zdzierać",
+          "match": "zdzierać",
+          "uk": "дерти надто високу ціну",
+          "ru": "заламывать цену"
+        },
+        {
+          "phrase": "zawahać się",
+          "match": "zawahał się",
+          "uk": "вагатися",
+          "ru": "замешкаться, заколебаться"
+        },
+        {
+          "phrase": "tchórzyć",
+          "match": "tchórzę",
+          "uk": "боятися, легкодухо поводитися",
+          "ru": "трусить"
+        },
+        {
+          "phrase": "zdzierus",
+          "match": "zdzierus",
+          "uk": "здирник",
+          "ru": "обдирала, вымогатель"
+        },
+        {
+          "phrase": "nacierać",
+          "match": "nacierał",
+          "uk": "напoлягати, насідати",
+          "ru": "наседать, напирать"
+        }
+      ],
+      "audio": {
+        "start": 610,
+        "end": 691
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/05.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co Gereb podpowiedział Czelemu?",
+          "answer": "żeby rąbnął kapeluszem w kram."
+        },
+        {
+          "question": "Czyim kapeluszem chciał uderzyć Gereb?",
+          "answer": "Swoim."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Boka powstrzymuje Gereba",
+      "description": "",
+      "paragraphs": [
+        "Ale w tej samej chwili ktoś złapał go z tyłu za rękę i poważnym, niemal męskim głosem zapytał:",
+        "- Co ty robisz?",
+        "Gereb obejrzał się. Za nim stał Boka.",
+        "- Co robisz? - powtórzył Boka, spokojnie i łagodnie patrząc na Gereba.",
+        "Gereb mruknął niczym lew, gdy poskromiciel spogląda mu w oczy. Opanował się jednak, wzruszył ramionami i włożył kapelusz na głowę. Boka odezwał się cicho:",
+        "- Daj mu spokój. Lubię odważnych, ale to, co chciałeś zrobić, nie miało przecież najmniejszego sensu. Chodź!",
+        "I podał mu rękę. Całą zaplamioną atramentem. Z kałamarza bowiem sączył się obficie ciemnoniebieski atrament, a Boka, niczego nie podejrzewając, trzymał rękę w kieszeni. Nie przejęli się tym jednak zbytnio. Boka wytarł rękę o mur, w wyniku czego na ścianie powstała wprawdzie ciemna smuga, ale ręka Boki wcale nie zyskała na czystości. Niemniej cała ta sprawa została zakończona. Boka ujął Gereba pod ramię i ruszyli przed siebie. Zostawili małego Czelego przy straganie i usłyszeli jeszcze, jak zdławionym głosem pokonanego buntownika zwrócił się do Włocha:",
+        "- Jak już od tej pory wszystko ma być za dwa grajcary, to poproszę chałwy za te dwa grajcary.",
+        "I sięgnął po swoją portmonetkę z delikatnej zielonej skórki. Sprzedawca uśmiechnął się i zaczął myśleć o tym, co by się stało, gdyby od jutra wszystko sprzedawać po trzy grajcary... Ale były to tylko mrzonki. Ot, takie marzenie, że nagle każdy forint wart jest sto forintów! Włoch energicznie ciachnął tasakiem blok chałwy i położył odcięty kawałek na papierze.",
+        "Czele spojrzał z goryczą:",
+        "- Ależ dał mi pan mniejszy kawałek niż przedtem za jednego grajcara!",
+        "Handlowy sukces uczynił Włocha bezczelnym. Z uśmiechem odpowiedział:",
+        "- Teraz jest drożej, to daję mniej.",
+        "I już zwrócił się do następnego klienta, który nauczony doświadczeniem poprzednika trzymał w ręku dwa grajcary. Włoch ciachnął małym tasakiem słodką masę, a zrobił to w sposób przypominający jakiegoś średniowiecznego kata, który po kawałeczku odcina karzełkowi orzechową głowę. Włoch wyraźnie mścił się na chałwie.",
+        "- Tfu! - powiedział ze złością Czele do kolejnego nabywcy. - Nie kupuj u niego, bo to paskarz.",
+        "I włożył do ust cały kawał chałwy, razem z przylepionym mocno papierem, którego zupełnie nie dało się oderwać.",
+        "- Zaczekajcie! - krzyknął i pędem ruszył za Boką i Gerebem."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "nie miało najmniejszego sensu",
+          "match": "nie miało przecież najmniejszego sensu",
+          "uk": "не мало жодного сенсу",
+          "ru": "не имело никакого смысла"
+        }
+      ],
+      "audio": {
+        "start": 691,
+        "end": 863
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/06.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Kto złapał Gereba za rękę?",
+          "answer": "Boka."
+        },
+        {
+          "question": "Co kupił Czele u sprzedawcy?",
+          "answer": "Chałwę za dwa grajcary."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Spotkanie z Nemeczkiem",
+      "description": "",
+      "paragraphs": [
+        "Dogonił ich na rogu i już razem skręcali w stronę ulicy Soroksari. Wszyscy trzej wzięli się pod ręce. W środku szedł Boka i coś im tłumaczył, jak zwykle - spokojnie i rozważnie. Boka skończył czternaście lat i miał jeszcze chłopięcą twarz. Dopiero kiedy się go słuchało, wydawał się starszy.",
+        "Miał głęboki, spokojny i łagodny głos. A to, co mówił, było równie spokojne i rozważne. Boka ważył bowiem słowa i nigdy nie okazywał chęci do rozmów o byle czym. Nie wtrącał się w drobne kłótnie, unikał ich nawet wtedy, gdy proszono go o rozsądzenie sporu. Dobrze wiedział, że po rozstrzygnięciu kłótni jedna ze stron i tak będzie czuła żal, i to właśnie do rozjemcy. Ale gdy spór zaostrzał się, zamieniał w awanturę i groził interwencją nauczycieli, wówczas Boka włączał się natychmiast, aby pogodzić zwaśnione strony ku ogólnemu, zresztą, zadowoleniu. Jednym słowem Boka był mądrym chłopcem i zapowiadał się na wartościowego i prawego człowieka, który jeśli nawet daleko nie zajdzie, to przecież nigdy nie zawiedzie zaufania.",
+        "Z ulicy Soroksari chłopcy skręcili w spokojną uliczkę Köztelek. Przyjemnie grzało wiosenne słońce i tylko ciche posapywanie maszyn fabryki tytoniu, ciągnącej się wzdłuż chodnika, mąciło panującą tu ciszę. W dali ujrzeli sylwetki dwóch chłopców. Stali na środku jezdni i wyraźnie na nich czekali. Jednym z nich był wysoki i silny Czonakosz, drugim - mały, jasnowłosy Nemeczek.",
+        "Kiedy Czonakosz spostrzegł zbliżającą się trójkę chłopców, gwizdnął z radości na palcach przenikliwie niczym lokomotywa. Było to zresztą jego specjalnością. Nikt w czwartej klasie nie potrafił tak gwizdać, ba, w całej szkole znalazłoby się zaledwie kilku chłopców, którzy choć trochę umieli naśladować takie furmańskie gwizdanie. Jedynie przewodniczący kółka samokształceniowego, Cynder, potrafił tak wspaniale gwizdnąć, ale kiedy wybrano go na przewodniczącego, zaniechał tej sztuki. Od chwili wyboru Cynder nie wkładał już dwóch palców do ust. Przewodniczącemu kółka, który co środę po południu zajmował na katedrze miejsce obok profesora języka węgierskiego, nie wypadało przecież tak się zachowywać.",
+        "Czonakosz gwizdnął więc, a kiedy koledzy podeszli bliżej i zatrzymali się na środku ulicy, zwrócił się do jasnowłosego Nemeczka:",
+        "- Już im mówiłeś?",
+        "- Nie - odparł Nemeczek.",
+        "- A co się stało? - zapytała chórem cała trójka.",
+        "Zamiast małego blondynka odpowiedział Czonakosz:",
+        "- Wczoraj w ogrodeum znów zrobili einstand!",
+        "- Kto?",
+        "- A któż by, jak nie bracia Pastorowie!",
+        "Zapadło głuche milczenie."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "ogrodeum",
+          "match": "ogrodeum",
+          "uk": "сад біля музею",
+          "ru": "сад при музее"
+        },
+        {
+          "phrase": "gwizdnąć",
+          "match": "gwizdnął",
+          "uk": "свиснути",
+          "ru": "свистнуть"
+        }
+      ],
+      "audio": {
+        "start": 862,
+        "end": 1045
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/07.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Kto czekał na chłopców na jezdni?",
+          "answer": "Czonakosz i Nemeczek."
+        },
+        {
+          "question": "Kto zrobił einstand w ogrodeum?",
+          "answer": "Bracia Pastorowie."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Co oznacza „einstand”?",
+      "description": "",
+      "paragraphs": [
+        "żeby to zrozumieć, trzeba wiedzieć, co znaczyło owo słówko einstand w mowie budapeszteńskich dzieci. Otóż, kiedy w czasie gry w szklane kulki, stalówki lub pestki jakiś silniejszy chłopiec dostrzegł słabszego od siebie i chciał mu zabrać zabawki, to po prostu mówił: einstand! To obrzydliwe niemieckie słowo oznaczało, że silniejszy chłopiec uznaje kulkę czy stalówkę za łup wojenny, a w wypadku sprzeciwu zastosuje przemoc fizyczną. Było więc także wypowiedzeniem wojny. Słowo einstand krótko i zwięźle wyrażało przemoc, prawo pięści, rozbój, stan wojenny.",
+        "Pierwszy odezwał się Czele. Głos drżał mu z przejęcia:",
+        "- Zrobili einstand?",
+        "- Tak - odpowiedział już znacznie śmielej mały Nemeczek, widząc, jak wielkie wrażenie wywarła ta wiadomość.",
+        "- Tak dłużej być nie może! - wybuchnął Gereb. - Od dawna już mówię, że musimy działać, ale Boka krzywi się tylko i nic nie robi. Jeżeli tak dalej pójdzie, to wreszcie i nas pobiją!",
+        "Czonakosz już wkładał dwa palce do ust, żeby gwizdnąć z radości, bo zawsze był gotów do wszczęcia bijatyki, ale Boka powstrzymał go.",
+        "- Nie ogłuszaj nas - powiedział. I z powagą zwrócił się do małego blondynka.",
+        "- Jak to było?",
+        "- Ten einstand?",
+        "- Tak. Kiedy to się stało?",
+        "- Wczoraj po południu.",
+        "- Gdzie?",
+        "- W ogrodeum.",
+        "Tak nazywano przylegający do muzeum ogród.",
+        "- Opowiedz, jak to było, dokładnie, po kolei, bo żeby przeciw nim wystąpić, musimy znać fakty...",
+        "Mały Nemeczek uświadomił sobie, że oto skupia się na nim cała uwaga kolegów. Była to dla niego rzadka okazja i dlatego zdenerwował się. Chłopcy traktowali go zwykle jak powietrze. Był za hetkę - pętelkę, nie liczył się, jak jedynka w matematyce, która ani mnoży, ani dzieli. Nikt się nie przejmował tym szczupłym, wątłym chłopcem, jakby stworzonym na kozła ofiarnego. Nemeczek zaczął mówić i koledzy otoczyli go ciasnym kołem."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "einstand",
+          "match": "einstand",
+          "uk": "примусове відбирання речей сильнішим у слабшого із погрозою застосувати силу",
+          "ru": "принудительное отбирание вещей сильным у слабого с угрозой применить силу"
+        },
+        {
+          "phrase": "wystąpić przeciw",
+          "match": "wystąpić przeciw nim",
+          "uk": "виступити проти",
+          "ru": "выступить против"
+        },
+        {
+          "phrase": "uświadomić sobie",
+          "match": "uświadomił sobie",
+          "uk": "усвідомити",
+          "ru": "осознать"
+        },
+        {
+          "phrase": "traktować jak powietrze",
+          "match": "traktowali go zwykle jak powietrze",
+          "uk": "ставитися так, ніби людини немає",
+          "ru": "относиться так, будто человека нет"
+        },
+        {
+          "phrase": "kozioł ofiarny",
+          "match": "kozła ofiarnego",
+          "uk": "цап-відбувайло",
+          "ru": "козёл отпущения"
+        },
+        {
+          "phrase": "wątły",
+          "match": "wątłym chłopcem",
+          "uk": "кволий, слабкий",
+          "ru": "хилый, слабый"
+        }
+      ],
+      "audio": {
+        "start": 1046,
+        "end": 1183
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/08.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co robił silniejszy chłopiec, gdy mówił „einstand”?",
+          "answer": "Zabierał zabawki słabszemu."
+        },
+        {
+          "question": "O co Boka poprosił Nemeczka?",
+          "answer": "żeby opowiedział, jak to było."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "Opowieść Nemeczka o Pastorach",
+      "description": "",
+      "paragraphs": [
+        "- To było tak... Po obiedzie poszliśmy do ogrodeum, Weiss i ja, byli z nami jeszcze Rychter, Kolnay i Barabasz. Najpierw chcieliśmy grać w palanta na ulicy Eszterhazy, ale piłkę mieli chłopcy ze szkoły realnej, a oni nie chcieli z nami grać. Wtedy Barabasz powiedział, żebyśmy poszli do ogrodeum i zagrali pod murem w kulki. I tak zrobiliśmy. Każdy z nas rzucał kulką, a ten któremu udało się trafić w drugą kulkę, zabierał wszystkie. Rzucaliśmy kolejno i pod murem leżało już z piętnaście kulek, wśród nich dwie szklane, kiedy nagle Rychter krzyknął: „No, to koniec, idą Pastorowie!” Rzeczywiście zza rogu wyłonili się Pastorowie z rękami w kieszeniach. Szli z pochylonymi głowami, tak wolno, że wszyscy bardzo się przestraszyliśmy. Było nas wprawdzie pięciu, ale oni są tacy silni, że w dwójkę załatwiliby nawet dziesięciu. Zresztą nie można było zakładać, że jest nas pięciu, bo jak się coś dzieje, to Kolnay zaraz ucieka, Barabasz także, no więc zostałoby nas tylko trzech. Pewnie ja też bym uciekł, więc trzeba liczyć, że zostałoby tylko dwóch. Gdyby cała piątka próbowała uciec, to też nic z tego, bo Pastorowie są najlepszymi biegaczami w całym ogrodeum i dogoniliby nas. Pastorowie podchodzili coraz bliżej i przypatrywali się naszym kulkom. Szepnąłem wtedy do Kolnaya: „Słuchaj, im się podobają nasze kulki”. Najmądrzejszy był Weiss, który od razu powiedział: „Idą sobie jakby nigdy nic, ale mówię wam, że z tego będzie tylko jeden wielki einstand!” Ale ja myślałem, że nie zrobią nam żadnej krzywdy, bo przecież my im nigdy nic złego nie zrobiliśmy. Najpierw stanęli tylko obok, wcale nas nie zaczepiali i patrzyli, jak gramy. Kolnay szepnął: „Nemeczek, dajmy spokój, przerwijmy grę”. A ja mu na to: „Co? Akurat teraz, kiedy ty nie trafiłeś! Zaraz mój rzut. Jak wygram, to możemy przerwać”. W tym momencie rzucał Rychter, ale jednym okiem łypał na Pastorów, i trzęsła mu się ręka ze strachu, więc nic dziwnego, że nie trafił. Pastorowie ani drgnęli, wciąż stali z rękami w kieszeniach. Wtedy przyszła na mnie kolej, rzuciłem i trafiłem. Wygrałem wszystkie kulki! Chciałem podejść, żeby je zebrać, a było już ze trzydzieści kulek, ale wtedy jeden z Pastorów, ten młodszy, zagrodził mi drogę i krzyknął: einstand! Obejrzałem się do tyłu i zobaczyłem, że Kolnay i Barabasz uciekają, Weiss stoi pod ścianą blady, a Rychter zastanawia się właśnie, czy wiać, czy jeszcze zaczekać. Próbowałem sprzeciwić się i powiedziałem: „Przepraszam, ale nie macie prawa tego robić!” Ale starszy Pastor już zbierał kulki i chował je do kieszeni, a młodszy chwycił mnie za kurtkę i krzyknął: „Czyś nie słyszał, że zawołaliśmy einstand?” No to wtedy i ja też zamilkłem. Weiss stojący pod ścianą zaczął się mazać. Kolnay i Barabasz patrzyli zza rogu, co się dzieje w ogrodeum. Pastorowie pozbierali kulki i odeszli bez słowa. To chyba wszystko."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "podejrzewać",
+          "match": "podejrzewać",
+          "uk": "підозрювати",
+          "ru": "подозревать"
+        },
+        {
+          "phrase": "łypać",
+          "match": "łypał",
+          "uk": "косуватися, позирати",
+          "ru": "коситься, поглядывать"
+        },
+        {
+          "phrase": "wiać",
+          "match": "wiać",
+          "uk": "тікати",
+          "ru": "убегать, драпать"
+        },
+        {
+          "phrase": "zastanawiać się",
+          "match": "zastanawia się",
+          "uk": "замислюватися, вагатися",
+          "ru": "раздумывать, сомневаться"
+        },
+        {
+          "phrase": "mazać się",
+          "match": "zaczął się mazać",
+          "uk": "плакати, хникати",
+          "ru": "хныкать, плакать"
+        },
+        {
+          "phrase": "pozbierać",
+          "match": "Pozbierali",
+          "uk": "зібрати",
+          "ru": "собрать"
+        }
+      ],
+      "audio": {
+        "start": 1183,
+        "end": 1369
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/09.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "W co grali chłopcy w ogrodeum?",
+          "answer": "W kulki."
+        },
+        {
+          "question": "Co zrobił starszy Pastor z kulkami?",
+          "answer": "Zbierał je i chował do kieszeni."
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": "Decyzja Boki i koniec rozdziału",
+      "description": "",
+      "paragraphs": [
+        "- Niesłychane! - oburzył się Gereb.",
+        "- To po prostu granda! - powiedział Czele.",
+        "Czonakosz gwizdnął na znak, że w powietrzu wisi wojna. Boka namyślał się w milczeniu. Wszyscy chłopcy patrzyli na niego, byli ciekawi, jak tym razem zareaguje. Od miesięcy bowiem nie traktował poważnie podobnych incydentów. Jednak to wydarzenie było tak wołającą o pomstę do nieba niesprawiedliwością, że poruszyło nawet jego.",
+        "- Chodźmy na razie na obiad - powiedział cichym głosem. - Po południu spotkamy się na Placu i wszystko omówimy. Teraz i ja uważam, że tego już nie można darować!",
+        "Z aprobatą przyjęli decyzję Boki. Patrzyli na niego z uznaniem i podziwem, a czarne oczy Boki iskrzyły się gniewem. Mało brakowało, aby go ucałowali za to, że wreszcie i jego oburzyło to bezprawie.",
+        "Ruszyli do domów. Gdzieś w oddali, w dzielnicy Józsefváros, odezwał się wesoły dźwięk dzwonu, świeciło słońce i wszystko wokół wydawało się piękne i radosne. Chłopcy czuli jednak, że stoją przed doniosłymi wydarzeniami. Ogarnęło ich podniecenie i żądza czynu. Jeżeli Boka powiedział, że trzeba działać, to na pewno jest to zapowiedź czegoś niezwykłego.",
+        "Zaczęli się rozchodzić. Czonakosz z Nemeczkiem zostali nieco z tyłu. Boka obejrzał się. Obaj chłopcy zatrzymali się przy jednym z piwnicznych okienek fabryki tytoniu. Było ono oblepione grubą warstwą tytoniowego pyłu.",
+        "- Tabaka! - zawołał wesoło Czonakosz, jeszcze raz gwizdnął i napchał sobie żółtego pyłu do nosa.",
+        "Nemeczek roześmiał się i, małpując kolegę, również wciągnął w nozdrza szczyptę tabaki. Uradowani odkryciem pomaszerowali ulicą Köztelek głośno kichając. Czonakosz kichał donośnie niczym z armaty, a mały, jasnowłosy Nemeczek prychał jak rozdrażniona świnka morska. Biegli ulicą kichając, śmiejąc się i czuli się tacy szczęśliwi, że zapomnieli na chwilę o tej wielkiej niesprawiedliwości, którą nawet sam Boka, zawsze spokojny i poważny Boka, uznał za wręcz niesłychaną."
+      ],
+      "vocabulary": [
+        {
+          "phrase": "wołająca o pomstę do nieba",
+          "match": "tak wołającą o pomstę do nieba niesprawiedliwością",
+          "uk": "кричуща, обурлива несправедливість",
+          "ru": "вопиющая несправедливость"
+        },
+        {
+          "phrase": "bezprawie",
+          "match": "bezprawie",
+          "uk": "беззаконня",
+          "ru": "беззаконие"
+        },
+        {
+          "phrase": "doniosłe wydarzenia",
+          "match": "doniosłymi wydarzeniami",
+          "uk": "важливі, значущі події",
+          "ru": "важные, значимые события"
+        },
+        {
+          "phrase": "żądza czynu",
+          "match": "żądza czynu",
+          "uk": "жага дії",
+          "ru": "жажда действовать"
+        },
+        {
+          "phrase": "tabaka",
+          "match": "Tabaka",
+          "uk": "нюхальний тютюн",
+          "ru": "нюхательный табак"
+        }
+      ],
+      "audio": {
+        "start": 1370,
+        "end": 1512
+      },
+      "images": [
+        {
+          "src": "../../images/chlopcy-z-placu-broni/10.png",
+          "alt": ""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Gdzie chłopcy mają się spotkać po południu?",
+          "answer": "Na Placu."
+        },
+        {
+          "question": "Co Boka powiedział o tej krzywdzie?",
+          "answer": "że tego już nie można darować."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział I",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Dlaczego uczniowie zaczęli się rozpraszać podczas lekcji?",
+        "options": [
+          "Była przerwa.",
+          "Usłyszeli muzykę katarynki i inne dźwięki z ulicy.",
+          "Nauczyciel wyszedł z klasy."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co było napisane na kartce, którą Nemeczek podał Boce?",
+        "options": [
+          "że trzeba wrócić do domu.",
+          "że o trzeciej jest zbiórka na Placu.",
+          "że nauczyciel zadał pracę domową."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "truefalse",
+        "question": "Nemeczek przeczytał wiadomość znajdującą się na drugiej stronie kartki.",
+        "answer": false
+      },
+      {
+        "type": "choice",
+        "question": "Dlaczego Boka powstrzymał Gereba przed uderzeniem w stragan?",
+        "options": [
+          "Bał się sprzedawcy.",
+          "Uważał, że taki czyn nie miał sensu.",
+          "Nie miał pieniędzy."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kim był Boka dla innych chłopców?",
+        "options": [
+          "Najmłodszym chłopcem.",
+          "Przywódcą i osobą, która potrafiła rozsądzać spory.",
+          "Sprzedawcą."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "truefalse",
+        "question": "Pastorowie zabrali chłopcom kulki po ogłoszeniu „einstand”.",
+        "answer": true
+      },
+      {
+        "type": "choice",
+        "question": "Co oznaczało słowo „einstand”?",
+        "options": [
+          "Zaproszenie do zabawy.",
+          "Prawo silniejszego do zabrania rzeczy słabszemu, także z użyciem przemocy.",
+          "Zakończenie gry."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Dlaczego chłopcy bali się Pastorów?",
+        "options": [
+          "Byli starszymi nauczycielami.",
+          "Byli bardzo silni.",
+          "Mieli broń."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "truefalse",
+        "question": "Boka uznał, że sprawę z Pastorami trzeba omówić i że nie można jej dłużej ignorować.",
+        "answer": true
+      },
+      {
+        "type": "choice",
+        "question": "Co chłopcy postanowili zrobić po południu?",
+        "options": [
+          "Spotkać się na Placu i omówić sytuację.",
+          "Wrócić do szkoły.",
+          "Pójść do domu Pastorów."
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

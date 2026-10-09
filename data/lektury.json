@@ -1,0 +1,9 @@
+{
+  "title": "Polska Lektura — klasa 5",
+  "books": [
+    {
+      "id": "chlopcy-z-placu-broni",
+      "dir": "data/chlopcy-z-placu-broni"
+    }
+  ]
+}
