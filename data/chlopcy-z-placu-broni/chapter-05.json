@@ -1,0 +1,897 @@
+{
+  "id": 5,
+  "title": "Rozdział V",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Mostek i latarnia",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "W dwa dni później, w czwartek, kiedy w Ogrodzie Botanicznym zapadł już zmrok, dwóch stojących na mostku wartowników stanęło na baczność na widok zbliżającej się ciemnej postaci.",
+            "- Prezentuj broń! - krzyknął jeden z wartowników.",
+            "Na tę komendę obaj unieśli w górę włócznie ze srebrnymi ostrzami, w których odbiła się poświata księżyca."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/98.png",
+          "alt": "Wartownicy podnoszą włócznie na mostku."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Oddawali honory swemu dowódcy, który szybkim krokiem przechodził przez mostek.",
+            "- Czy są już wszyscy? - zapytał wartowników Feri Acz.",
+            "- Tak jest, panie kapitanie!",
+            "- Gereb też przyszedł?",
+            "- Był pierwszy, panie kapitanie.",
+            "Dowódca zasalutował w milczeniu, na co wartownicy znów odpowiedzieli uniesieniem włóczni w górę. W taki sposób czerwone koszule prezentowały broń.",
+            "Na małej polance wyspy zebrali się już wszyscy chłopcy w czerwonych koszulach. Kiedy na polankę wkroczył Feri Acz, starszy z braci Pastorów krzyknął:",
+            "- Prezentuj broń!",
+            "Długie włócznie z owiniętymi staniolem końcami uniosły się ponad głowy chłopców."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/99.png",
+          "alt": "Czerwone koszule prezentują broń na polanie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Feri Acz oddał zebranym honory, zasalutował i powiedział:",
+            "- Musimy się pośpieszyć, chłopaki. Spóźniłem się trochę. Natychmiast zabieramy się do roboty. Zapalcie latarnię.",
+            "Przed przyjściem dowódcy nigdy nie wolno było zapalać latarni. Kiedy latarnia się świeciła, oznaczało to, że Feri Acz również znajduje się na wyspie. Młodszy Pastor zapalił latarnię i czerwoni usiedli wokół. Nikt się nie odzywał, wszyscy czekali, aż przemówi wódz."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "wartownik",
+          "match": "wartowników",
+          "uk": "вартовий",
+          "ru": "часовой"
+        },
+        {
+          "phrase": "włócznia",
+          "match": "włócznie",
+          "uk": "спис",
+          "ru": "копье"
+        },
+        {
+          "phrase": "latarnia",
+          "match": "latarnię",
+          "uk": "ліхтар",
+          "ru": "фонарь"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kogo wartownicy witali na mostku?",
+          "answer": "Feriego Acza, swojego kapitana."
+        },
+        {
+          "question": "Co oznaczała zapalona latarnia?",
+          "answer": "Że Feri Acz jest na wyspie."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Zniknęła chorągiew",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Czy ktoś ma coś do zameldowania? - zapytał.",
+            "Zgłosił się Sebenicz.",
+            "- Mów!",
+            "- Melduję posłusznie, że z naszego arsenału zginęła czerwono - zielona chorągiew, którą pan kapitan zdobył na Placu Broni."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/100.png",
+          "alt": "Sebenicz melduje o znikniętej chorągwi."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Dowódca zmarszczył brwi:",
+            "- A czy z broni niczego nie brakuje?",
+            "- Niczego. Jako zbrojmistrz zaraz po przyjściu poszedłem do arsenału, żeby sprawdzić, czy tomahawki i włócznie znajdują się na swoim miejscu. Wszystkie co do jednego były w arsenale, brakowało tylko tej małej chorągiewki. Ktoś ją musiał ukraść.",
+            "- Czy widziałeś ślady stóp?",
+            "- Tak. Wczoraj wieczorem, jak zwykle, zgodnie z regulaminem, wysypałem piaskiem wnętrze ruin i kiedy dziś przyszedłem, zobaczyłem ślady małych stóp, które prowadziły od szczeliny prosto do miejsca, gdzie leżała chorągiewka, i potem z powrotem do wyjścia."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/101.png",
+          "alt": "Ślady małych stóp na piasku w ruinach."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Tam ślady urywały się, bo na zewnątrz jest już twarda i porośnięta trawą ziemia.",
+            "- Czy to były ślady małych stóp?",
+            "- Tak, zupełnie małych, o wiele mniejszych niż Wendauera, który ma z nas najmniejszą nogę.",
+            "Zaległa cisza.",
+            "- To znaczy, że ktoś obcy wtargnął do arsenału - powiedział dowódca. - I to ktoś z Placu Broni.",
+            "Wśród czerwonych koszul podniósł się szmer.",
+            "- Bo gdyby to był jakiś zwykły dzieciak - ciągnął dalej Feri Acz - to zabrałby przynajmniej jedną sztukę naszej broni. A on wziął tylko chorągiew. Prawdopodobnie chłopcy z Placu Broni wyznaczyli kogoś, kto miał nam wykraść ich sztandar. Czy wiesz coś o tym, Gereb?"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "arsenał",
+          "match": "arsenału",
+          "uk": "арсенал",
+          "ru": "арсенал"
+        },
+        {
+          "phrase": "chorągiew",
+          "match": "chorągiew",
+          "uk": "прапор",
+          "ru": "знамя"
+        },
+        {
+          "phrase": "szczelina",
+          "match": "szczeliny",
+          "uk": "щілина",
+          "ru": "щель"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Czego brakowało w arsenale?",
+          "answer": "Czerwono-zielonej chorągwi zdobytej na Placu Broni."
+        },
+        {
+          "question": "Po czym Sebenicz poznał, że ktoś był w ruinach?",
+          "answer": "Po śladach małych stóp na wysypanym piasku."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Gniew na Gereba",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Jak widać, Gereb awansował już na zawodowego szpiega.",
+            "Gereb podniósł się.",
+            "- Nic o tym nie wiem.",
+            "- Dobra. Możesz siadać. Sprawdzimy to. Ale teraz załatwmy nasze sprawy. Dobrze wiecie, jak nas ostatnio upokorzono i wywiedziono w pole. Wszyscy byliśmy na wyspie, a mimo to przeciwnicy wywiesili na tym drzewie czerwoną kartkę. Byli sprytni i my nie potrafiliśmy ich złapać. Pobiegliśmy za dwójką nieznanych chłopców aż na Urzędnicze Parcele i dopiero tam wyszło na jaw, że oni bez powodu uciekali przed nami, a my ich bez powodu goniliśmy! Wywieszenie tej kartki na naszej wyspie jest dla nas hańbą i dlatego musimy się zemścić. Przesunęliśmy również termin zajęcia Placu Broni, dopóki Gereb nie zbada dokładnie terenu. Niech teraz Gereb złoży raport, a my postanowimy, kiedy rozpoczniemy wojnę.",
+            "Spojrzał na Gereba.",
+            "- Gereb! Wstań!",
+            "Gereb ponownie się podniósł.",
+            "- Zdaj sprawę z tego, co zdziałałeś!",
+            "- Wydawało mi się... - zaczął lekko zmieszany Gereb - że może najlepiej byłoby zdobyć ten teren bez walki. Pomyślałem tak, bo przecież kiedyś ja też należałem do nich... więc wolałbym, żeby nie doszło do otwartej walki... no więc przekupiłem tego stróża Słowaka, który pilnuje Placu, i on teraz przepędzi ich stamtąd bez wojny."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/102.png",
+          "alt": "Gereb mówi, że przekupił stróża."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nagle zamilkł. Feri Acz tak ostro spojrzał mu w oczy, że słowa uwięzły Gerebowi w gardle. Feri Acz odezwał się głośno swoim głębokim głosem, który potrafił zmrozić krew w żyłach tym, którzy narazili się dowódcy.",
+            "- Nie! Jak widzę, ty ciągle nie wiesz, kim są czerwone koszule. My nie będziemy nikogo przekupywać, nie będziemy z nikim się targować! Jeśli oni nie ustąpią z Placu dobrowolnie, to zabierzemy Plac siłą. Nie potrzeba mi pomocy żadnego Słowaka, żadnego przepędzania stamtąd tych chłopaków. I żadnych podstępów.",
+            "Wszyscy milczeli. Gereb spuścił oczy.",
+            "Feri Acz podniósł się.",
+            "- Jeśli tchórzysz, to fora ze dwora!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/103.png",
+          "alt": "Feri Acz gniewnie patrzy na Gereba."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "stróż",
+          "match": "stróża",
+          "uk": "сторож",
+          "ru": "сторож"
+        },
+        {
+          "phrase": "przekupywać",
+          "match": "przekupywać",
+          "uk": "підкупати",
+          "ru": "подкупать"
+        },
+        {
+          "phrase": "tchórzyć",
+          "match": "tchórzysz",
+          "uk": "боятися",
+          "ru": "трусить"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jak Gereb chciał zdobyć Plac Broni?",
+          "answer": "Przekupił stróża Słowaka, żeby przepędził chłopców bez walki."
+        },
+        {
+          "question": "Co Feri Acz powiedział Gerebowi, kiedy uznał go za tchórza?",
+          "answer": "Jeśli tchórzysz, to fora ze dwora."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Przysięga i plan wojny",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Powiedział to z błyszczącymi gniewem oczyma. Gereb w tym momencie bardzo się przestraszył. Czuł, że jeśli teraz czerwoni usuną go ze swoich szeregów, to nie będzie już dla niego nigdzie miejsca. Podniósł więc głowę i zdobył się na odwagę.",
+            "- Nie jestem tchórzem! Jestem z wami, trzymam z wami i przysięgam wam wierność!",
+            "- Dobra! - zgodził się Acz, ale z jego miny widać było, że nie darzy Gereba sympatią. - Jeśli chcesz z nami zostać, musisz złożyć przysięgę na nasze prawo.",
+            "- Jestem gotów - powiedział Gereb.",
+            "- Podaj więc rękę.",
+            "Podali sobie dłonie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/104.png",
+          "alt": "Gereb i Feri Acz podają sobie ręce."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Od dziś masz u nas stopień podporucznika. Sebenicz da ci włócznię i tomahawk i wpisze twoje nazwisko do naszego tajnego rejestru. A teraz słuchaj. Nie można dalej odwlekać sprawy. Na jutro wyznaczam dzień natarcia. Jutro po południu wszyscy spotkamy się w tym miejscu. Połowa naszego oddziału wtargnie od strony ulicy Marii i zajmie fortece. Druga część oddziału wejdzie przez otwartą furtkę od strony ulicy Pawła i wygoni tamtych chłopaków z Placu. Gdyby zaś próbowali cofnąć się między sągi, to wtedy uderzymy na nich z zajętych już fortec. Musimy mieć Plac do gry w piłkę i zdobędziemy go, choćby nie wiem co się działo!",
+            "Wszyscy zerwali się ze swoich miejsc.",
+            "- Niech żyje! - krzyknęli chłopcy w czerwonych koszulach i wysoko unieśli w górę swoje włócznie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/105.png",
+          "alt": "Czerwone koszule wznoszą włócznie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Dowódca nakazał ciszę.",
+            "- Muszę cię jeszcze o coś zapytać. Czy nie myślisz, że chłopcy z Placu Broni podejrzewają, że do nas przystałeś?",
+            "- Chyba nie - odpowiedział nowo mianowany podporucznik. - Nawet jeśli któryś z nich był na wyspie wtedy, kiedy przypięli do drzewa tę kartkę, to w ciemnościach nie mógł mnie rozpoznać.",
+            "- Czyli jutro po południu spokojnie możesz do nich pójść?",
+            "- Całkiem spokojnie.",
+            "- Nie będą cię o nic podejrzewać?",
+            "- Nie. A jeśli nawet by podejrzewali, to nikt się nie odezwie, bo wszyscy się mnie boją. Nie ma wśród nich ani jednego odważnego."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "podporucznik",
+          "match": "podporucznika",
+          "uk": "підпоручник",
+          "ru": "подпоручик"
+        },
+        {
+          "phrase": "natarcie",
+          "match": "natarcia",
+          "uk": "наступ",
+          "ru": "наступление"
+        },
+        {
+          "phrase": "włócznia",
+          "match": "włócznię",
+          "uk": "спис",
+          "ru": "копье"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaki stopień dostał Gereb?",
+          "answer": "Stopień podporucznika."
+        },
+        {
+          "question": "Na kiedy Feri wyznaczył natarcie?",
+          "answer": "Na jutro po południu."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Głos z drzewa",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "W tym momencie rozległ się nagle dźwięczny, donośny głos:",
+            "- Nieprawda! Są tacy!",
+            "Czerwoni spojrzeli po sobie. Feri Acz ze zdumieniem zapytał:",
+            "- Kto to powiedział?",
+            "Nikt się nie odezwał. Wtem dźwięczny głos odezwał się ponownie:",
+            "- Są tacy!",
+            "Teraz już wyraźnie usłyszeli, że głos dobiegał ze szczytu drzewa.",
+            "Zaraz potem zaszeleściły liście, zatrzeszczały gałęzie i po chwili z drzewa zaczął złazić mały, jasnowłosy chłopiec."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/106.png",
+          "alt": "Nemeczek schodzi z drzewa."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kiedy zeskoczył na ziemię z ostatniej gałęzi, spokojnie oczyścił ubranie, wyprostował się z godnością i spojrzał prosto na zdumionych chłopców w czerwonych koszulach. Wszyscy byli do tego stopnia zaskoczeni tym niespodziewanym pojawieniem się małego gościa, że nikt słowem nawet nie pisnął.",
+            "Gereb zbladł jak kreda.",
+            "- Nemeczek! - powiedział z przestrachem.",
+            "I mały chłopiec odpowiedział mu:",
+            "- Tak, to ja, Nemeczek. To właśnie ja. I nie szukajcie tego, kto zabrał z waszego arsenału chorągiew chłopców z Placu Broni, bo to ja ją zabrałem. O, tu ją mam! I to ja mam takie małe stopy, mniejsze od stóp Wendauera. I wcale nie musiałem się odzywać, mogłem siedzieć cicho na drzewie i czekać, aż stąd pójdziecie, bo i tak siedziałem już tam od pół do czwartej. Ale kiedy Gereb powiedział, że wśród nas nie ma ani jednego odważnego, wtedy pomyślałem sobie: „Czekaj, bratku, już ja ci pokażę, że wśród chłopców z Placu Broni są odważni, nawet ja, Nemeczek, szeregowiec!” A więc jestem tu, podsłuchałem całą waszą naradę, odzyskałem naszą chorągiew i proszę bardzo, możecie teraz zrobić ze mną, co chcecie, możecie mnie zbić, wyrwać chorągiew, ale naprzód musicie wykręcić mi ręce, bo dobrowolnie jej nie oddam. Proszę, proszę, zaczynajcie! W końcu jestem tu sam jeden, a was jest dziesięciu.",
+            "Przemawiając tak, z wypiekami na twarzy, wyciągnął ręce: w jednej dłoni ściskał małą chorągiewkę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/107.png",
+          "alt": "Nemeczek ściska chorągiewkę przed czerwonymi koszulami."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy w czerwonych koszulach oniemieli z podziwu - wszyscy patrzyli ze zdumieniem na jasnowłosego malca, który jakby prosto z nieba spadł między ich szeregi i teraz z podniesioną głową, głosem donośnym i śmiałym rzucał im w twarz wyzwanie i czuł się tak silny, jakby mógł pokonać całą ich armię, włącznie z siłaczami Pastorami i Ferim Aczem na czele."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "jasnowłosy",
+          "match": "jasnowłosy",
+          "uk": "світловолосий",
+          "ru": "светловолосый"
+        },
+        {
+          "phrase": "chorągiewka",
+          "match": "chorągiewkę",
+          "uk": "прапорець",
+          "ru": "флажок"
+        },
+        {
+          "phrase": "szeregowiec",
+          "match": "szeregowiec",
+          "uk": "рядовий",
+          "ru": "рядовой"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Skąd dobiegał głos, który krzyknął „Są tacy!”?",
+          "answer": "Ze szczytu drzewa."
+        },
+        {
+          "question": "Kto zabrał chorągiew z arsenału?",
+          "answer": "Nemeczek."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Nigdy",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Pastorowie pierwsi odzyskali zimną krew. Podeszli do małego Nemeczka i z obydwóch stron złapali go pod ręce. Młodszy Pastor stojący po prawej stronie już zabierał się do wykręcenia Nemeczkowi ręki z chorągiewką, kiedy wielką ciszę przerwał głos Feriego Acza:",
+            "- Stać! Zostawcie go!",
+            "Pastorowie ze zdziwieniem spojrzeli na swego wodza.",
+            "- Zostawcie go - powtórzył dowódca. - Podoba mi się ten chłopiec. Jesteś odważny, Nemeczek, czy jak cię tam nazywają. Oto moja ręka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/108.png",
+          "alt": "Feri Acz podaje rękę Nemeczkowi."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wstąp do nas, do czerwonych koszul.",
+            "Nemeczek przecząco potrząsnął głową.",
+            "- Nigdy! - powiedział hardo.",
+            "Głos miał drżący, ale nie ze strachu, tylko ze zdenerwowania. Blady, z wyrazem niezwykłej powagi w oczach powtórzył raz jeszcze:",
+            "- Nigdy!",
+            "Feri Acz uśmiechnął się. I odezwał w te słowa:",
+            "- Trudno, nie mam zamiaru cię namawiać, jak nie, to nie. Jeszcze nigdy nikogo nie zapraszałem do nas. Wszyscy, którzy tu są, sami się o to prosili. Ty byłeś pierwszym, któremu to zaproponowałem. A jeśli nie chcesz, twoja sprawa...",
+            "I odwrócił się do Nemeczka plecami.",
+            "- Co mamy z nim zrobić? - zapytali obaj Pastorowie.",
+            "Dowódca od niechcenia rzucił im przez ramię:",
+            "- Zabierzcie mu chorągiew.",
+            "Starszy Pastor jednym chwytem wyrwał ze słabiutkiej dłoni Nemeczka czerwono - zieloną chorągiewkę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/109.png",
+          "alt": "Pastor wyrywa Nemeczkowi chorągiewkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Zabolało, bo Pastorowie mieli piekielnie silne łapy, ale mały zacisnął zęby i ani pisnął.",
+            "- Gotowe! - zameldował Pastor."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "odważny",
+          "match": "odważny",
+          "uk": "хоробрий",
+          "ru": "храбрый"
+        },
+        {
+          "phrase": "hardo",
+          "match": "hardo",
+          "uk": "зухвало",
+          "ru": "дерзко"
+        },
+        {
+          "phrase": "plecy",
+          "match": "plecami",
+          "uk": "спина",
+          "ru": "спина"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co Feri Acz zaproponował Nemeczkowi?",
+          "answer": "Żeby wstąpił do czerwonych koszul."
+        },
+        {
+          "question": "Co odpowiedział Nemeczek?",
+          "answer": "Nigdy."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Kąpiel w stawie",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wszyscy z napięciem czekali, co teraz nastąpi. Jaką to straszliwą karę wymyśli wszechwładny Feri Acz. Nemeczek hardo stał na swoim miejscu i zaciskał wargi.",
+            "Feri Acz obrócił się i skinął na Pastorów.",
+            "- To straszny słabeusz. Nie wypada go bić. Ale... wykąpcie go."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/110.png",
+          "alt": "Feri każe wykąpać Nemeczka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czerwone koszule wybuchnęły głośnym śmiechem. Roześmiał się też Feri Acz, śmieli się Pastorowie. Sebenicz podrzucił w górę czapkę, a Wendauer skakał jak głupi. Nawet Gereb chichotał pod drzewem i w całym tym towarzystwie tylko na jednej twarzy malowała się powaga: na małej buzi Nemeczka. Był przeziębiony i kaszlał już od wielu dni. Właśnie dziś matka zabroniła mu wychodzić, ale jasnowłosy chłopczyk nie mógł wytrzymać. O trzeciej godzinie wymknął się z domu i od pół do czwartej aż do wieczora siedział na szczycie drzewa. Ale za żadne skarby nie chciał się teraz odezwać. Bo i co miał powiedzieć? śe jest przeziębiony? Zaczęliby się jeszcze głośniej śmiać i Gereb też śmiałby się z nimi, tak jak teraz się śmieje. Tak szeroko, że aż wszystkie zęby mu widać. Więc Nemeczek milczał. Wśród ogólnego śmiechu bez oporu dał się doprowadzić do brzegu i tam obaj Pastorowie zanurzyli go w płytkiej wodzie stawu. Pastorowie byli okrutni. Jeden z nich trzymał Nemeczka z tyłu za ręce, drugi złapał za kark. Wcisnęli go do wody po szyję i w tym momencie wszyscy na wyspie zawyli ze szczęścia."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/111.png",
+          "alt": "Pastorowie zanurzają Nemeczka w stawie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czerwoni tańczyli z radości na brzegu, podrzucali czapki do góry i wydawali gromkie okrzyki:",
+            "- Hej hop! Hej hop!",
+            "Tak brzmiało ich hasło.",
+            "Gromkie okrzyki zlały się z wielkim śmiechem i radosna wrzawa zakłóciła wieczorną ciszę małej wyspy. Zanurzony w wodzie po szyję Nemeczek smutno spoglądał na brzeg. Wyglądał jak jakaś biedna żaba. A na brzegu, na szeroko rozstawionych nogach, stał głośno rechocząc Gereb.",
+            "Wreszcie Pastorowie puścili go i Nemeczek wygramolił się ze stawu. Kiedy ujrzano go w ociekającym i zabłoconym ubraniu, wesołość wybuchła ze zdwojoną siłą. Woda lała się Nemeczkowi z kurtki, a gdy potrząsnął ramionami, z rękawów siknęło jak z konewki. Wszyscy odskoczyli, a on, niczym pinczerek, otrząsał się z wody. Prześcigano się w szyderstwach.",
+            "- śaba!",
+            "- Napiłeś się do woli?",
+            "- Dlaczego sobie nie popływałeś?",
+            "Nemeczek nie reagował na te kpiny. Gorzko się uśmiechał i wygładzał mokrą kurtkę. Wtedy podszedł do niego Gereb i, szczerząc zęby w szerokim uśmiechu i kiwając głową, zapytał:."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "słabeusz",
+          "match": "słabeusz",
+          "uk": "слабак",
+          "ru": "слабак"
+        },
+        {
+          "phrase": "wykąpać",
+          "match": "wykąpcie",
+          "uk": "викупати",
+          "ru": "выкупать"
+        },
+        {
+          "phrase": "szyja",
+          "match": "szyję",
+          "uk": "шия",
+          "ru": "шея"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaką karę wymyślił Feri zamiast bicia?",
+          "answer": "Kazał wykąpać Nemeczka."
+        },
+        {
+          "question": "Dlaczego Nemeczek milczał, choć był przeziębiony?",
+          "answer": "Bał się, że czerwoni będą śmiać się jeszcze głośniej."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Nie będę zdrajcą",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- No i co, dobrze było?",
+            "Nemeczek podniósł na niego swoje duże, niebieskie oczy i odparł:",
+            "- Dobrze - powiedział cicho i już głośniej dodał: - Było mi znacznie lepiej niż tobie, kiedy stałeś na brzegu i wyśmiewałeś się ze słabszego. I wolałbym siedzieć w tej wodzie po szyję nawet do nowego roku, niż knuć z wrogami moich przyjaciół. Nie żałuję, że zanurzyliście mnie w wodzie. Poprzednim razem, kiedy sam wpadłem do wody, też cię widziałem wśród nich na tej wyspie. I choćbyście mnie zapraszali, przypochlebiali się, a nawet dawali prezenty, nie chcę mieć z wami nic wspólnego. Możecie mnie wsadzić do wody po sto i po tysiąc razy, ja i tak przyjdę tu jutro i pojutrze! I schowam się gdzieś tak, że mnie nie znajdziecie. Nie boję się nikogo z was. A gdy przyjdziecie do nas, na Plac Broni, zabrać nam naszą ziemię, to będziemy na was czekać. I pokażę wam, że kiedy będzie nas dziesięciu, tyle samo co was, to zupełnie inaczej porozmawiamy. Teraz jestem tu sam. Łatwo było mnie pokonać! Silniejszy zawsze wygrywa. Pastorowie ukradli mi moje kulki w Ogrodzie Muzealnym, bo byli silniejsi. W dziesięciu łatwo stawać przeciw jednemu. Ale ja nie żałuję. Możecie mnie nawet zabić, jeśli wam się tak spodoba. Nie musiałem przecież włazić do tej wody. Wystarczyłoby przystać do was. Ale ja tego nie chciałem. Możecie mnie utopić, zatłuc na śmierć, aleja nigdy nie będę zdrajcą, jak ten ktoś, kto stoi wśród was, o... tam...",
+            "W tym momencie wyciągnął rękę i wskazał na Gereba, któremu śmiech uwiązł w gardle."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/112.png",
+          "alt": "Mokry Nemeczek wskazuje na Gereba."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Światło latarni padło na ładną, jasną głowę Nemeczka, oświetliło ociekające wodą ubranie. Odważnie, dumnie i ze spokojem patrzył Nemeczek Gerebowi prosto w oczy, a ten poczuł nagle jakiś ogromny ciężar na duszy. Spochmurniał i opuścił głowę. W tym momencie wszyscy umilkli i zapadła cisza niczym w kościele. Wyraźnie było słychać, jak z ubrania Nemeczka spadają na twardą ziemię krople wody."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/113.png",
+          "alt": "Z kurtki Nemeczka kapią krople wody."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Milczenie przerwał głos Nemeczka:",
+            "- Czy mogę odejść?",
+            "Nikt mu nie odpowiedział. Zapytał więc raz jeszcze:",
+            "- Nie zbijecie mnie? Mogę odejść?",
+            "A ponieważ nadal nikt nie odpowiedział, Nemeczek powoli ruszył w stronę mostku. Wszyscy stali nieruchomo, nikt nie drgnął, żeby go zatrzymać. Chłopcy uświadomili sobie, że oto ten jasnowłosy malec jest małym bohaterem, w pełni zasługującym na miano prawdziwego mężczyzny... Stojący przy moście dwaj wartownicy, którzy widzieli wszystko, co zaszło, patrzyli w milczeniu na Nemeczka. Nie śmieli go nawet dotknąć."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "zdrajca",
+          "match": "zdrajcą",
+          "uk": "зрадник",
+          "ru": "предатель"
+        },
+        {
+          "phrase": "kulka",
+          "match": "kulki",
+          "uk": "кулька",
+          "ru": "шарик"
+        },
+        {
+          "phrase": "kropla",
+          "match": "krople",
+          "uk": "крапля",
+          "ru": "капля"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kogo Nemeczek wskazał jako zdrajcę?",
+          "answer": "Gereba."
+        },
+        {
+          "question": "Co było słychać, kiedy wszyscy umilkli?",
+          "answer": "Krople wody spadające z ubrania Nemeczka."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "Prezentuj broń",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kiedy Nemeczek wszedł na most, rozległ się grzmiący, głęboki głos Acza:",
+            "- Prezentuj broń!",
+            "Obaj wartownicy stanęli na baczność i unieśli wysoko w górę włócznie ze srebrnymi grotami."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/114.png",
+          "alt": "Czerwone koszule prezentują broń Nemeczkowi."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "A w ślad za nimi wszyscy chłopcy trzasnęli obcasami i podnieśli swoje włócznie. I nikt nie odzywał się, jedynie ostrza włóczni błyszczały w poświacie księżyca. Słychać było kroki idącego przez most Nemeczka. Potem i one ucichły, i dobiegał już tylko chlupot, jakby ktoś szedł w butach pełnych wody... Nemeczek zniknął w oddali.",
+            "Chłopcy w czerwonych koszulach spoglądali po sobie zmieszani. Feri Acz stał na środku polany ze spuszczoną głową. Wtedy podszedł do niego blady jak ściana Gereb. Usiłował wybąkać coś pod nosem.",
+            "- Słuchaj... ja naprawdę... - zaczął.",
+            "Ale Feri odwrócił się do niego plecami. Wtedy Gereb ruszył do stojących ciągle nieruchomo chłopców i zatrzymał się przed starszym Pastorem.",
+            "- Słuchaj... ja naprawdę... - wybełkotał.",
+            "Lecz Pastor poszedł za przykładem dowódcy i również odwrócił się do Gereba plecami, co jeszcze bardziej zbiło go z tropu. Nie wiedział, co począć. Wreszcie odezwał się zdławionym głosem:",
+            "- Jak widać, mogę sobie odejść.",
+            "Dalej panowało milczenie, więc Gereb ruszył tą samą drogą, którą przed chwilą szedł Nemeczek. Ale nikt nie stawał przed nim na baczność, nikt nie prezentował broni. Wartownicy oparli się o poręcz mostu i patrzyli w wodę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/115.png",
+          "alt": "Gereb odchodzi, a wartownicy patrzą w wodę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "W ciszy Ogrodu Botanicznego słychać było kroki Gereba, aż i one ucichły..."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "grot",
+          "match": "grotami",
+          "uk": "вістря",
+          "ru": "острие"
+        },
+        {
+          "phrase": "baczność",
+          "match": "baczność",
+          "uk": "струнко",
+          "ru": "смирно"
+        },
+        {
+          "phrase": "most",
+          "match": "mostu",
+          "uk": "міст",
+          "ru": "мост"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jak czerwoni pożegnali Nemeczka na moście?",
+          "answer": "Stanęli na baczność i unieśli włócznie: prezentuj broń."
+        },
+        {
+          "question": "Czy Gerebowi też oddali honory?",
+          "answer": "Nie. Wartownicy oparli się o poręcz i patrzyli w wodę."
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": "Kara Pastorów",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kiedy czerwoni zostali już na wyspie sami, Feri Acz ruszył w stronę starszego Pastora. Podszedł do niego, stanął twarzą w twarz. I cicho zapytał:",
+            "- To ty zabrałeś mu kulki w Ogrodzie Muzealnym?",
+            "Pastor równie cicho odpowiedział:",
+            "- Tak, ja.",
+            "- Czy twój młodszy brat był wtedy z tobą?",
+            "- Był.",
+            "- I zrobiliście einstand?",
+            "- Tak.",
+            "- A czy ja nie mówiłem, że czerwonym koszulom nie wolno zabierać kulek słabym dzieciom?",
+            "Pastorowie milczeli. Nikt bowiem nie śmiał sprzeciwiać się Aczowi.",
+            "Dowódca surowo zmierzył ich od stóp do głów, po czym spokojnym, nie znoszącym sprzeciwu głosem powiedział:",
+            "- Do wody!",
+            "Pastorowie patrzyli na niego, nie rozumiejąc, o co chodzi.",
+            "- Nie rozumiecie? Tak jak tu stoicie, w ubraniach. Teraz wy macie się wykąpać.",
+            "A kiedy na jednej czy drugiej twarzy spostrzegł uśmiech, dodał:",
+            "- Kto będzie się śmiał z Pastorów, ten też się zaraz wykąpie.",
+            "Na te słowa wszystkim przeszła ochota do śmiechu. Acz spojrzał na Pastorów i ponaglił ich ostrym tonem:",
+            "- No, szybciej. Wykąpać się. Po szyję. Raz, dwa!",
+            "Po czym zwrócił się do oddziału:",
+            "- W tył zwrot! Nie gapić się!",
+            "Czerwoni wykonali w tył zwrot i odwrócili się plecami do stawu. Feri Acz też się odwrócił, żeby nie widzieć, w jaki sposób Pastorowie wymierzają sobie karę. Pastorowie zaś z rezygnacją, powoli, weszli do stawu i posłusznie usiedli w wodzie zanurzając się aż po szyję."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/116.png",
+          "alt": "Pastorowie siedzą w stawie po szyję."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy nie widzieli tego, słyszeli tylko plusk wody. Feri Acz obejrzał się, żeby zobaczyć, czy obaj chłopcy rzeczywiście zanurzyli się w wodzie. Dopiero wtedy wydał rozkaz:",
+            "- Złożyć broń! Naprzód marsz!",
+            "I wyprowadził swój oddział z wyspy. Wartownicy zgasili latarnię i dołączyli do oddziału, który wojskowym krokiem przemaszerował przez most i znikł w gąszczach Ogrodu Botanicznego.",
+            "Obaj Pastorowie wygramolili się ze stawu. Spojrzeli na siebie, wsadzili, jak zwykle, ręce do kieszeni i ruszyli do domu. Przez całą drogę nie zamienili ze sobą słowa, byli bardzo zawstydzeni.",
+            "A na oświetlonej księżycową poświatą wyspie zapanowała cisza wiosennego wieczoru."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/117.png",
+          "alt": "Pusta wyspa w świetle księżyca."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "einstand",
+          "match": "einstand",
+          "uk": "ейнштанд",
+          "ru": "эйнштанд"
+        },
+        {
+          "phrase": "wykąpać się",
+          "match": "wykąpać",
+          "uk": "викупатися",
+          "ru": "выкупаться"
+        },
+        {
+          "phrase": "poświata",
+          "match": "poświatą",
+          "uk": "сяйво",
+          "ru": "сияние"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Za co Feri ukarał Pastorów?",
+          "answer": "Za to, że zabrali Nemeczkowi kulki i zrobili einstand."
+        },
+        {
+          "question": "Co Pastorowie musieli zrobić?",
+          "answer": "Wykąpać się w ubraniach, zanurzyć się po szyję."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział V",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Kto dowodzi czerwonymi koszulami?",
+        "options": [
+          "Gereb",
+          "Feri Acz",
+          "Boka"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Czego brakowało w arsenale?",
+        "options": [
+          "Tomahawka",
+          "Czerwono-zielonej chorągwi",
+          "Latarni"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jak Gereb chciał zdobyć Plac bez walki?",
+        "options": [
+          "Otwartym natarciem",
+          "Czerwoną kartką",
+          "Przekupstwem stróża"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Jaki stopień dostał Gereb?",
+        "options": [
+          "Kapitana",
+          "Szeregowca",
+          "Podporucznika"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Kto siedział na szczycie drzewa?",
+        "options": [
+          "Boka",
+          "Czonakosz",
+          "Nemeczek"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Co Nemeczek odpowiedział na zaproszenie Feriego?",
+        "options": [
+          "Zgoda",
+          "Nigdy",
+          "Jutro"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jak Feri ukarał Nemeczka?",
+        "options": [
+          "Laniem",
+          "Wykluczeniem",
+          "Kąpielą w stawie"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Kogo na końcu kazał wykąpać Feri Acz?",
+        "options": [
+          "Gereba",
+          "Wartowników",
+          "Pastorów"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

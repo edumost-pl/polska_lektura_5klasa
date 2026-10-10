@@ -1,0 +1,1165 @@
+{
+  "id": 10,
+  "title": "Rozdział X",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Cicha kamienica",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wielka cisza panowała w małej, otynkowanej na żółto kamieniczce przy ulicy Rakos."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/194.png",
+          "alt": "Cicha żółta kamienica: sąsiedzi przechodzą na palcach."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nawet ci mieszkańcy, którzy mieli zwyczaj zbierać się na podwórzu i głośno gawędzić, tym razem na palcach przechodzili obok drzwi do mieszkania krawca Nemeczka. Służące trzepały ubrania i dywany na samym końcu podwórka i starały się to czynić na tyle cicho, żeby nie zakłócić choremu spokoju. Gdyby dywany potrafiły się dziwić, to właśnie teraz miałyby ku temu wspaniałą okazję, zwykle silnie trzepane, dziś były tylko pieszczotliwie otrząsywane z kurzu...",
+            "Co chwila któryś z mieszkańców domu pytał przez oszklone drzwi:",
+            "- Jak się czuje synek?",
+            "Wszyscy, bez wyjątku, otrzymywali jednakową odpowiedź:",
+            "- Źle, bardzo źle.",
+            "Poczciwe sąsiadki coraz to coś przynosiły.",
+            "- Kochana pani, proszę przyjąć to winko, jest naprawdę dobre...",
+            "Albo:",
+            "- Niech się pani nie obrazi, przyniosłam trochę cukierków...",
+            "Drobna, jasnowłosa kobieta z zapłakanymi oczyma otwierała drzwi dobrym sąsiadkom, serdecznie dziękowała za upominki, ale nie było z nich większego pożytku.",
+            "Mówiła to nawet poniektórym:",
+            "- Nic nie je biedaczek, od dwóch dni wypija tylko parę kropli mleka dziennie...",
+            "O godzinie trzeciej wrócił do domu krawiec Nemeczek. Był w sklepie, gdzie przyjął kolejne zamówienia. Ostrożnie, cicho otworzył drzwi i bez słowa wszedł do kuchni.",
+            "Spojrzał tylko na żonę. A ona spojrzała na niego. Oboje rozumieli się bez słów. Stali w milczeniu naprzeciw siebie. Krawiec nawet zapomniał odłożyć przyniesione do domu płaszcze.",
+            "Potem na palcach weszli do pokoju, w którym leżał ich synek. Bardzo się zmienił ten niegdyś zawsze wesoły szeregowy z Placu Broni, a dziś smutny kapitan. Wychudł, włosy mu urosły. Nie był jednak blady, przeciwnie, cały czas płonęły mu zapadnięte policzki. Od kilku dni nieustannie trawiła go gorączka.",
+            "Rodzice stanęli przy łóżku swego dziecka. Byli biednymi, prostymi ludźmi, którzy przeszli różne koleje losu, doznali wielu kłopotów i smutków, więc nauczyli się cierpieć w milczeniu. Stali tylko z nisko opuszczonymi głowami i z utkwionym w podłogę wzrokiem. Po chwili krawiec cicho zapytał:",
+            "- Śpi?"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/195.png",
+          "alt": "Rodzice stoją przy łóżku i pytają, czy synek śpi."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "śona nie śmiała się odezwać, skinęła tylko głową. Bo chłopiec był już tak słaby, że nie wiedziała, czy śpi, czy też tylko tak bezwładnie leży.",
+            "Od strony drzwi wejściowych rozległo się ciche pukanie.",
+            "- Może to doktor - szepnęła kobieta.",
+            "Mąż zwrócił się do niej:",
+            "- Otwórz."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "kamienica",
+          "match": "kamieniczce",
+          "uk": "кам’яниця",
+          "ru": "каменный дом"
+        },
+        {
+          "phrase": "sąsiadka",
+          "match": "sąsiadki",
+          "uk": "сусідка",
+          "ru": "соседка"
+        },
+        {
+          "phrase": "mleko",
+          "match": "mleka",
+          "uk": "молоко",
+          "ru": "молоко"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaką odpowiedź dostają sąsiedzi, gdy pytają o synka?",
+          "answer": "Źle, bardzo źle."
+        },
+        {
+          "question": "Co od dwóch dni pije Nemeczek?",
+          "answer": "Tylko parę kropli mleka dziennie."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Zostanę z tobą",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na progu stał Boka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/196.png",
+          "alt": "W drzwiach stoi Boka, kolega Nemeczka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nikły uśmiech pojawił się na twarzy kobiety, kiedy zobaczyła kolegę syna.",
+            "- Czy mogę wejść?",
+            "- Proszę, synku.",
+            "Boka wszedł.",
+            "- Jak się czuje?",
+            "- Bez zmian.",
+            "- To znaczy źle?",
+            "Nie czekając na odpowiedź Boka wszedł do pokoju. Pani Nemeczek za nim. Teraz już w trójkę w milczeniu stali przy łóżku. A chory jakby wyczuł ich obecność, jakby zdał sobie sprawę, że nic nie mówią, by nie zakłócać mu spokoju, i wolniutko otworzył oczy. Zobaczył Bokę, uśmiechnął się. Słabym głosem zapytał:",
+            "- Jesteś tutaj, Boka?",
+            "Boka podszedł bliżej.",
+            "- Jestem.",
+            "- Zostaniesz ze mną?",
+            "- Tak, zostanę.",
+            "- Dopóki nie umrę?",
+            "Boka nie wiedział, co odpowiedzieć. Uśmiechnął się do przyjaciela, po czym przeniósł wzrok na matkę Nemeczka, jakby u niej szukając pomocy. Ale kobieta stała odwrócona do niego plecami i rąbkiem fartucha ocierała oczy.",
+            "- Głupstwa pleciesz, mój synu - powiedział chrząkając z zakłopotaniem krawiec. - Hm! Hm! Głupstwa pleciesz.",
+            "Tym razem jednak Erno Nemeczek nie zwrócił najmniejszej nawet uwagi na słowa ojca. Spojrzał na Bokę i ruchem głowy wskazał rodziców.",
+            "- Oni nic nie wiedzą - powiedział.",
+            "Teraz odezwał się Boka:",
+            "- Jakże nie wiedzą. Lepiej wiedzą niż ty.",
+            "Nemeczek poruszył się, z ogromnym trudem podniósł się i usiadł na łóżku. Nie chciał jednak niczyjej pomocy. Uniósł palec w górę i z całą powagą oświadczył:",
+            "- Nie wierz w to, co mówią, oni tak sobie mówią, dla pocieszenia. Ja wiem, że umrę.",
+            "- Nieprawda.",
+            "- Powiedziałeś: nieprawda?",
+            "- A więc ja kłamię?",
+            "Wszyscy troje usiłowali go uspokoić, prosili, żeby się nie gniewał, nikt go przecież nie posądza o kłamstwo. Nemeczek jednak był głęboko dotknięty, że mu nie wierzą, i z wyrazem powagi na twarzy oświadczył:",
+            "- No więc daję wam słowo, że umrę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/197.png",
+          "alt": "Nemeczek unosi palec i daje słowo."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Przez drzwi zajrzała do środka dozorczyni."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "słowo",
+          "match": "słowo",
+          "uk": "слово",
+          "ru": "слово"
+        },
+        {
+          "phrase": "umrzeć",
+          "match": "umrę",
+          "uk": "померти",
+          "ru": "умереть"
+        },
+        {
+          "phrase": "przyjaciel",
+          "match": "przyjaciela",
+          "uk": "друг",
+          "ru": "друг"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "O co Nemeczek prosi Bokę?",
+          "answer": "Żeby został przy nim, dopóki on nie umrze."
+        },
+        {
+          "question": "Jakie słowo daje chłopiec?",
+          "answer": "Że umrze."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Doktor",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Droga pani... doktor przyszedł.",
+            "Wszedł doktor i wszyscy powitali go z szacunkiem. Był to starszy pan o bardzo surowym wyglądzie. Skinął głową i w milczeniu podszedł do łóżka. Ujął chłopca za rękę i zmierzył mu puls. Potem położył dłoń na jego czole. Nachylił się nad nim, przyłożył głowę do piersi chorego i słuchał. Matka Nemeczka nie mogła powstrzymać pytania:",
+            "- Panie doktorze... przepraszam... czy pogorszyło się?",
+            "- Nie - po raz pierwszy odezwał się lekarz.",
+            "Ale powiedział to jakoś dziwnie, nie patrząc kobiecie w oczy. Po chwili sięgnął po kapelusz i ruszył do wyjścia. Krawiec podążył za nim szybko, by otworzyć drzwi.",
+            "- Odprowadzę pana, panie doktorze.",
+            "Kiedy byli w kuchni, lekarz dał znak oczyma, aby zamknąć drzwi do pokoju. Biedny krawiec przeczuwał, że z tej rozmowy w cztery oczy nic dobrego nie może wyniknąć. Kiedy zamknął za sobą drzwi, oblicze lekarza przybrało serdeczny wyraz.",
+            "- Panie Nemeczek - powiedział lekarz - jest pan mężczyzną, więc mogę z panem szczerze rozmawiać.",
+            "Krawiec pochylił głowę.",
+            "- Chłopczyk nie dożyje jutrzejszego ranka. A może nawet dzisiejszego wieczoru."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/198.png",
+          "alt": "Surowy lekarz mówi ojcu prawdę w kuchni."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ojciec Nemeczka ani drgnął. Dopiero po kilku chwilach w milczeniu zaczął kiwać głową.",
+            "- Mówię to dlatego - kontynuował lekarz - że jest pan biednym człowiekiem i źle by się stało, gdyby taki cios spadł na was niespodzianie. No więc... byłoby dobrze, gdyby... gdyby pomyślał pan... gdyby pomyślał pan o tym, o czym w takich sytuacjach należy myśleć...",
+            "Lekarz patrzył jeszcze chwilę na krawca, po czym nagle położył mu dłoń na ramieniu.",
+            "- Niech pana Bóg ma w swojej opiece. Wrócę tu za godzinę.",
+            "Krawiec nie słyszał już tych słów. Martwym wzrokiem patrzył przed siebie na wyszorowaną do czysta ceglaną podłogę kuchni. Trzeba pomyśleć o czymś, o czym w takich sytuacjach się myśli. O co lekarzowi chodziło? Czyżby o trumnę?"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/199.png",
+          "alt": "Krawiec patrzy na wyszorowaną ceglaną podłogę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chwiejnym krokiem wrócił do pokoju i usiadł na krześle. Nie był w stanie wydobyć głosu. śona na próżno go pytała:",
+            "- Co powiedział doktor?",
+            "Krawiec tylko kiwał głową w milczeniu.",
+            "Tymczasem mały Nemeczek jakby poczuł się lepiej, poweselał, drobna twarzyczka rozpogodziła się. Skinął na Bokę.",
+            "- Janosz, chodź tu do mnie.",
+            "Boka podszedł do łóżka.",
+            "- Usiądź przy mnie. Nie boisz się?",
+            "- Nie boję się! A zresztą czego miałbym się bać?",
+            "- śe akurat umrę, kiedy ty będziesz przy mnie siedział. Ale nie bój się, jak poczuję, że umieram, to dam ci znać.",
+            "Boka usiadł przy Nemeczku.",
+            "- Chcesz mi coś powiedzieć?"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "doktor",
+          "match": "doktorze",
+          "uk": "лікар",
+          "ru": "доктор"
+        },
+        {
+          "phrase": "trumna",
+          "match": "trumnę",
+          "uk": "труна",
+          "ru": "гроб"
+        },
+        {
+          "phrase": "podłoga",
+          "match": "podłogę",
+          "uk": "підлога",
+          "ru": "пол"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co lekarz mówi ojcu w kuchni?",
+          "answer": "Że chłopczyk nie dożyje jutrzejszego ranka, a może nawet dzisiejszego wieczoru."
+        },
+        {
+          "question": "O czym krawiec myśli, gdy lekarz każe pomyśleć o tym, o czym w takiej sytuacji się myśli?",
+          "answer": "O trumnie."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Zamknięta wyspa",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Słuchaj - powiedział chory chłopiec obejmując Bokę za szyję i nachylając się do jego ucha, jakby chciał mu powierzyć jakąś wielką tajemnicę - co się stało z czerwonymi koszulami?",
+            "- Pokonaliśmy ich.",
+            "- A co potem?",
+            "- Potem poszli do Ogrodu Botanicznego na naradę. Czekali na Feriego Acza aż do wieczora, ale on nie przyszedł. Więc znudziło się im czekać i rozeszli się do domów.",
+            "- A dlaczego Feri Acz nie przyszedł?",
+            "- Wstydził się. I wiedział, że odbiorą mu wodzostwo, bo przegrał bitwę. Dziś po obiedzie znów zebrali się na naradę. I tym razem Acz już przyszedł. A wczoraj w nocy widziałem go tu przed waszym domem.",
+            "- Przed naszym domem?",
+            "- Tak. Pytał dozorcę, jak się czujesz.",
+            "Nemeczek poczuł się dumny, ale jeszcze nie dowierzał.",
+            "- On sam o mnie pytał?"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/200.png",
+          "alt": "Chory chłopiec nie dowierza, że Feri pytał o niego."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Tak, on sam.",
+            "Wiadomość ta sprawiła Nemeczkowi przyjemność. Boka mówił dalej:",
+            "- No więc odbyli na wyspie zebranie i strasznie hałasowali. Wybuchła burzliwa kłótnia, bo wszyscy oskarżali Feriego Acza. Tylko dwóch było po jego stronie: Wendauer i Sebenicz. Pastorowie byli przeciwko niemu, bo starszy Pastor sam chciał zostać wodzem. W końcu pozbawili Feriego Acza wodzostwa i wybrali starszego Pastora. I wiesz, co się potem stało?",
+            "- No co?",
+            "- Kiedy wreszcie wybrali nowego wodza i uciszyli się, przyszedł do nich na wyspę stróż Ogrodu Botanicznego i powiedział, że dyrektor nie będzie dalej znosił tych krzyków i hałasów. I wyrzucili ich z Ogrodu Botanicznego! A wyspę zamknęli. A na mostku założyli furtkę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/201.png",
+          "alt": "Na mostku do wyspy wisi zamknięta furtka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Mały kapitan był rozbawiony.",
+            "- A to heca - powiedział. - A skąd o tym wiesz?",
+            "- Kolnay mi opowiedział. Spotkałem go po drodze. Szedł na Plac, bo Związek Kitowców znów ma zebranie.",
+            "Na tę wieść Nemeczek skrzywił się niechętnie.",
+            "Cichutko powiedział:",
+            "- Już ich nie lubię. Wpisali moje nazwisko do księgi małymi literami.",
+            "Boka szybko go uspokoił.",
+            "- Już naprawili swój błąd. Nie tylko zmienili wpis, ale wpisali twoje nazwisko samymi wielkimi literami.",
+            "Nemeczek przecząco pokręcił głową.",
+            "- To niemożliwe. Mówisz to tylko dlatego, że jestem chory i chcesz mnie pocieszyć.",
+            "- Ani mi to w głowie. Mówię, bo tak się stało. Słowo ci daję, że to prawda.",
+            "Mały podniósł do góry ostrzegawczo palec.",
+            "- A teraz nawet słowem ręczysz za to kłamstwo, żeby mnie tylko pocieszyć.",
+            "- Ależ...",
+            "- Nic nie mów! - krzyknął.",
+            "Naprawdę krzyknął, i to jak głośno! On, kapitan, na generała! Na Placu byłoby to straszliwym przewinieniem. Ale tu - nie. Boka zniósł to z uśmiechem.",
+            "- Dobrze - powiedział - skoro mi nie wierzysz, to za chwilę sam się przekonasz. Sporządzili do ciebie honorowy adres i zaraz tu przyjdą. Przyniosą ci go. Przyjdzie tu cały związek.",
+            "Ale mały wciąż nie chciał w to uwierzyć.",
+            "- Dopiero wtedy uwierzę, jak zobaczę na własne oczy!",
+            "Boka bezradnie wzruszył ramionami. W duchu zaś pomyślał: „Nawet lepiej, że nie wierzy, bo tym większą będzie miał radość, kiedy tu przyjdą”."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "wodzostwo",
+          "match": "wodzostwo",
+          "uk": "отаманство",
+          "ru": "предводительство"
+        },
+        {
+          "phrase": "furtka",
+          "match": "furtkę",
+          "uk": "хвіртка",
+          "ru": "калитка"
+        },
+        {
+          "phrase": "litera",
+          "match": "literami",
+          "uk": "літера",
+          "ru": "буква"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kto sam pytał dozorcę, jak czuje się Nemeczek?",
+          "answer": "Feri Acz."
+        },
+        {
+          "question": "Co zrobiono czerwonym koszulom w Ogrodzie Botanicznym?",
+          "answer": "Wyrzucono ich, zamknięto wyspę i założono furtkę na mostku."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Chcę iść na Plac",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Mimo woli jednak przypomnieniem tej sprawy zdenerwował chorego chłopca. Wciąż go bolała wyrządzona mu przez Związek Kitowców krzywda. Mówił do Boki z rozżaleniem.",
+            "- Widzisz, to, co oni mi zrobili, było wstrętne!",
+            "Boka wolał się nie odzywać; obawiał się, że jeszcze bardziej rozdrażni małego przyjaciela. Więc gdy Nemeczek zapytał:",
+            "- Prawda?",
+            "Przytaknął:",
+            "- Masz rację.",
+            "- A przecież - ciągnął Nemeczek - biłem się za wszystkich, za nich też, żeby i oni mogli pozostać na Placu, przecież ja nie dla siebie walczyłem, bo ja to już nigdy nie zobaczę Placu.",
+            "I nagle umilkł. Uzmysłowił sobie tę prawdę z całą wyrazistością: już nigdy nie zobaczy Placu. Bez najmniejszego żalu zostawiłby wszystko na tym świecie z wyjątkiem Placu, ich kochanego, jedynego Placu zabaw.",
+            "Łzy napłynęły mu do oczu, co nie zdarzyło się podczas całej choroby. Płakał nie z żalu, płakał z bezradności, z bezsilności - oto nie może pójść raz jeszcze na swój ukochany Plac Broni, zobaczyć twierdzy, chaty. Przypomniały mu się tartak, wozownia, dwa duże drzewa morwowe, z których zrywał liście dla Czelego. Bo Czele miał w domu jedwabniki, które karmił liśćmi morwy, a jako elegant bał się wdrapywać na drzewo, żeby nie zniszczyć ubrania, więc kazał Nemeczkowi zrywać liście, bo Nemeczek był szeregowcem i musiał wykonywać rozkazy panów oficerów. Pomyślał o smukłym żelaznym kominie, który wypluwał obłoczki białej pary, rozpływającej się po kilku sekundach w powietrzu. I jakby usłyszał znajomy odgłos parowej piły, tnącej polana na kawałki.",
+            "Nemeczkowi rozbłysły oczy, poczerwieniały policzki. Zawołał:",
+            "- Chcę iść na Plac!",
+            "A ponieważ wszyscy milczeli, powtórzył jeszcze bardziej stanowczo:",
+            "- Chcę iść na Plac!",
+            "Boka ujął go za rękę.",
+            "- Przyjdziesz na Plac za tydzień, jak wyzdrowiejesz. Wtedy znów przyjdziesz.",
+            "- Nie! - upierał się mały. - Chcę iść teraz, zaraz. Dajcie mi moje ubranie i czapkę chłopców z Placu Broni.",
+            "Sięgnął pod poduszkę i z triumfującą miną wyciągnął spłaszczoną jak naleśnik czerwono - zieloną czapkę, z którą nie rozstawał się ani na chwilę. Włożył ją na głowę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/202.png",
+          "alt": "Nemeczek wkłada spłaszczoną czerwono-zieloną czapkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Podajcie mi ubranie!",
+            "Ojciec ze smutkiem perswadował:",
+            "- Jak wyzdrowiejesz, Erno...",
+            "Ale nie można już było sobie z nim poradzić. Z całej piersi, na ile tylko pozwoliły chore płuca, krzyknął:",
+            "- Ja nie wyzdrowieję!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/203.png",
+          "alt": "Chłopiec w czapce woła, że chce iść na Plac."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Słowa te wykrzyczał głosem tak zdecydowanym, że nikt nie śmiał mu się sprzeciwiać.",
+            "- Nie wyzdrowieję! - zawołał ponownie. - Okłamujecie mnie, bo ja dobrze wiem o tym, że umrę. A jak już mam umrzeć, to pozwólcie mi umrzeć tam, gdzie zechcę. Ja chcę iść na Plac!",
+            "Oczywiście nie mogło być o tym mowy. Wszyscy podeszli do niego, zaczęli go przekonywać, uciszać. Tłumaczyli mu:",
+            "- Teraz w żaden sposób...",
+            "- Jest zła pogoda...",
+            "- Za tydzień...",
+            "I wciąż powtarzali te same słowa, w których prawdziwość coraz trudniej było uwierzyć:",
+            "- Jak wyzdrowiejesz...",
+            "Fakty przeczyły zapewnieniom. Kiedy mówili o złej pogodzie, akurat zaświeciło radośnie wiosenne życiodajne słońce. Ale nie mogło ono utrzymać przy życiu Nemeczka. Gorączka zaczęła rosnąć i to z taką gwałtownością, że chłopiec zaczął się miotać i majaczyć. Z płonącą twarzą i pulsującymi nozdrzami krzyczał nieprzytomnie:",
+            "- Plac to nasz kraj, to całe nasze państwo! Nie możecie zrozumieć, czym dla nas jest ten Plac, bo nigdy nie walczyliście za Ojczyznę!",
+            "Zapukano do drzwi. Gospodyni wyszła otworzyć.",
+            "- Pozwól - wezwała po chwili męża - to pan Czetneki przyszedł do miary."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "czapka",
+          "match": "czapkę",
+          "uk": "кепка",
+          "ru": "кепка"
+        },
+        {
+          "phrase": "morwa",
+          "match": "morwy",
+          "uk": "шовковиця",
+          "ru": "шелковица"
+        },
+        {
+          "phrase": "słońce",
+          "match": "słońce",
+          "uk": "сонце",
+          "ru": "солнце"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co Nemeczek wyciąga spod poduszki?",
+          "answer": "Spłaszczoną czerwono-zieloną czapkę chłopców z Placu Broni."
+        },
+        {
+          "question": "Dokąd chce iść od razu?",
+          "answer": "Na Plac."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Brązowy garnitur",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Krawiec wyszedł do kuchni. Pan Czetneki był urzędnikiem magistratu i szył u niego ubrania. Na widok ojca Nemeczka zapytał gwałtownie:",
+            "- Co słychać z moim brązowym ubraniem?",
+            "Z pokoju dobiegały strzępy przygnębiającego monologu:",
+            "- Trąbka do boju... pełno kurzu na Placu... Naprzód! Naprzód!",
+            "- Przepraszam pana - powiedział krawiec - jeśli wielmożny pan sobie życzy, możemy zaraz przymierzyć, ale jeśli pan łaskaw, zostaniemy w kuchni... wybaczy pan... bo mój synek jest ciężko chory... leży w pokoju...",
+            "- Naprzód! Naprzód do boju! - rozlegał się z pokoju ochrypły, dziecinny głosik. - Za mną! Do ataku! Widzicie czerwone koszule? Na czele Feri Acz ze srebrną lancą... zaraz mnie wrzucą do wody!",
+            "Pan Czetneki zwrócił uwagę na te okrzyki:",
+            "- Co to? - zapytał.",
+            "- Krzyczy biedaczek.",
+            "- Jeśli jest chory, to dlaczego krzyczy?",
+            "Krawiec wzruszył ramionami.",
+            "- Majaczy niebożę... jest z nim bardzo źle... to już chyba koniec...",
+            "Wszedł do pokoju i po chwili wrócił z brązowym dwurzędowym surdutem, sfastrygowanym białymi nićmi. Kiedy otwierał drzwi, wyraźnie było słychać:",
+            "- Cisza w okopach! Uwaga! Idą... już są tu! Trębacz, daj sygnał!",
+            "Nemeczek zwinął dłonie w trąbkę:",
+            "- Trata... trara... tratata!",
+            "I krzyknął na Bokę:",
+            "- I ty też trąb!",
+            "Boka zmuszony był podporządkować się Nemeczkowi, zwinął dłonie i teraz już razem trąbili. Pierwszy słabym ochrypłym głosikiem, drugi - zdrowym i silnym, lecz smutno brzmiącym. Boka był bliski płaczu, ale dzielnie dławiąc łzy udawał, że trąbienie również, i jemu sprawia przyjemność.",
+            "- Bardzo mi przykro - powiedział pan Czetneki zdejmując marynarkę - ale nowy, brązowy garnitur jest mi szalenie potrzebny.",
+            "- Tratata! Tratata! - rozlegało się w pokoju.",
+            "Krawiec podał panu Czetnekiemu nową marynarkę i zaczął cicho mówić:",
+            "- Proszę się nie ruszać.",
+            "- Uwiera mnie pod pachami.",
+            "- Tak jest, już poprawiam.",
+            "( - Tratata! Tratata!)",
+            "- Ten guzik, o tu, jest za wysoko, proszę go przyszyć niżej, bo lubię, jak klapa luźno leży na piersiach.",
+            "- Tak jest, proszę pana.",
+            "( - Do ataku! Naprzód! Hurra!)",
+            "- I rękawy też są jakby trochę za krótkie.",
+            "- Nie sądzę, proszę pana.",
+            "- Niech się pan dobrze przyjrzy. W każdej marynarce szyje pan za krótkie rękawy. Stale pan tak robi!",
+            "„Wcale nie!” - pomyślał krawiec, ale zaznaczy} żądaną długość rękawa."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/204.png",
+          "alt": "Pan Czetneki przymierza brązową marynarkę w kuchni."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "W pokoju narastał hałas.",
+            "- Ha, ha! - rozległ się dziecinny krzyk. - A więc przyszedłeś? Stoisz przede mną! Wreszcie mogę się z tobą zmierzyć, ty straszliwy wodzu! No, już, już! Zobaczymy, kto silniejszy?",
+            "- Niech pan podłoży watę - powiedział pan Czetneki. - Trochę na ramionach i trochę na piersiach, z lewej i prawej strony.",
+            "( - Bach! Powaliłem cię na ziemię!)",
+            "Pan Czetneki zdjął brązową marynarkę, a krawiec podał mu tę, w której klient przyszedł.",
+            "- Kiedy będzie gotowa?",
+            "- Pojutrze.",
+            "- W porządku. Ale niech się pan przyłoży do pracy, żebym znów nie dostał dopiero po tygodniu. Ma pan jeszcze jakąś inną robotę?",
+            "- śeby tylko dzieciak nie chorował, wielmożny panie.",
+            "Pan Czetneki wzruszył ramionami:",
+            "- To smutna sprawa, bardzo mi pana żal, ale powtarzam, to nowe ubranie jest mi szalenie potrzebne, i to jak najprędzej. Niech pan się zaraz bierze do roboty.",
+            "Krawiec westchnął tylko.",
+            "- Zaraz się wezmę.",
+            "- Uszanowanie! - powiedział pan Czetneki przed wyjściem. Był w dobrym nastroju. Jeszcze w progu zawołał:",
+            "- Niech pan nie zwleka i siada do pracy.",
+            "Krawiec ujął w ręce piękną brązową marynarkę i przypomniał sobie, co powiedział lekarz. Musi pomyśleć o tym, o czym w takiej sytuacji należy myśleć. No więc dobrze, natychmiast siądzie do roboty. Kto wie, na co przydadzą się pieniądze, które dostanie za uszycie tego pięknego, brązowego ubrania. Może te kilka forintów zawędruje do stolarza, do tego stolarza, który robi małe trumienki? A pan Czetneki będzie sobie dumnie paradował w nowym ubraniu po deptaku nad Dunajem.",
+            "Wrócił do pokoju i natychmiast zasiadł do szycia. Nie spoglądał nawet w stronę łóżka, tylko cały czas machał igłą, aby jak najszybciej wykonać pilne zamówienie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/205.png",
+          "alt": "Krawiec szyje brązową marynarkę i nie patrzy na łóżko."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Pan Czetneki potrzebował ubrania, a on być może będzie potrzebował pieniędzy na stolarza..."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "garnitur",
+          "match": "garnitur",
+          "uk": "костюм",
+          "ru": "костюм"
+        },
+        {
+          "phrase": "rękaw",
+          "match": "rękawy",
+          "uk": "рукав",
+          "ru": "рукав"
+        },
+        {
+          "phrase": "trumienka",
+          "match": "trumienki",
+          "uk": "маленька труна",
+          "ru": "маленький гробик"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kiedy pan Czetneki chce dostać brązowy garnitur?",
+          "answer": "Pojutrze."
+        },
+        {
+          "question": "Na co, myśli krawiec, mogą pójść pieniądze za to ubranie?",
+          "answer": "Do stolarza, który robi małe trumienki."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Melduję posłusznie",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Stan małego kapitana pogarszał się i już nie sposób było z nim wytrzymać. Zebrał w sobie resztkę sił i w długiej, sięgającej kostek koszuli nocnej stanął na łóżku. Czerwono - zielona czapeczka przekrzywiła mu się na głowie. Z błędnym, wpatrzonym w dal wzrokiem, uniósł rękę do daszka i salutując"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/206.png",
+          "alt": "Mały kapitan w nocnej koszuli salutuje na łóżku."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "przemówił chrypliwie:",
+            "- Melduję posłusznie, panie generale, że powaliłem na łopatki wodza czerwonych koszul i proszę teraz o awans! Spójrzcie na mnie! Jestem już kapitanem! Walczyłem za Ojczyznę i zginąłem za nią! Trarara! Trara! Trąb, Kolnay, trąb!",
+            "Jedną ręką chwycił się za oparcie łóżka.",
+            "- Fortece, ognia! Bombardujcie nieprzyjaciela! Ha, ha! Tam jest Jano! Uważaj, Jano! Ty też zostaniesz kapitanem, Jano! Ale twojego nazwiska nie wpiszą małymi literami! Jesteście bez serca! Zazdrościliście mi, bo lubił mnie Boka i to ja byłem jego przyjacielem, a nie wy! A ten cały Związek Kitowców to jedna wielka głupota! Występuję! Występuję z tego związku!",
+            "I po chwili cicho dodał:",
+            "- Proszę to zaprotokołować.",
+            "A krawiec, pochylony nad niskim stolikiem, starał się niczego już nie słyszeć i niczego nie widzieć poza swoją robotą. Jego kościste palce szybko poruszały się nad brązowym suknem, migała igła i naparstek. Za żadne skarby nie chciał spojrzeć w stronę łóżka, ponieważ obawiał się, że potem nie zdoła już zmusić się do pracy, że ciśnie eleganckim, brązowym surdutem pana Czetnekiego o ziemię i przytuli do piersi swego synka.",
+            "Mały kapitan zmęczony opadł na łóżko i w milczeniu przyglądał się kołdrze.",
+            "Boka zapytał go cichym głosem:",
+            "- Zmęczyłeś się?",
+            "Nemeczek nie odpowiedział. Boka przykrył go. Matka poprawiła poduszkę pod głową chłopca.",
+            "- Nie mów już nic. Odpocznij.",
+            "Mały spojrzał na Bokę nieprzytomnym wzrokiem, nie dostrzegał już przyjaciela. Znów się odezwał:",
+            "- Tatusiu..."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/207.png",
+          "alt": "Nemeczek woła tatusia, a przy łóżku stoi Boka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Nie, nie - odpowiedział zdławionym głosem generał - ja nie jestem twoim tatusiem... Nie poznajesz mnie? Jestem Janosz Boka.",
+            "Chory powtórzył za nim zmęczonym, zamierającym głosem:",
+            "- Jestem... Janosz... Boka... - po czym zamilkł. Chłopiec zamknął oczy i westchnął tak boleśnie, jakby w jego duszy zebrały się cierpienia wszystkich ludzi.",
+            "I zapanowała cisza.",
+            "- Może wreszcie zaśnie - powiedziała wątła, jasnowłosa kobieta, która po wielu bezsennych nocach, spędzonych na czuwaniu przy chorym dziecku, ledwo trzymała się na nogach.",
+            "- Zostawmy go - odpowiedział szeptem Boka.",
+            "Odsunęli się od łóżka i usiedli na wypłowiałej, zielonej kanapie. Teraz i krawiec przerwał pracę, odłożył brązową marynarkę na kolana i pochylił głowę nad niskim stolikiem. Wszyscy milczeli. Było tak cicho, że słyszało się brzęczenie muchy.",
+            "Przez okno dotarły z podwórza chłopięce głosy. Boka usłyszał nagle wypowiedziane półgłosem znajome nazwisko:",
+            "- Barabasz.",
+            "Boka podniósł się i na palcach wyszedł z pokoju. Kiedy otworzył wiodące z kuchni na podwórze oszklone drzwi, zobaczył zalęknioną gromadkę chłopców z Placu Broni."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "salutować",
+          "match": "salutując",
+          "uk": "віддавати честь",
+          "ru": "отдавать честь"
+        },
+        {
+          "phrase": "związek",
+          "match": "związku",
+          "uk": "спілка",
+          "ru": "союз"
+        },
+        {
+          "phrase": "tatuś",
+          "match": "tatusiem",
+          "uk": "татусь",
+          "ru": "папа"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "O co prosi mały kapitan, gdy salutuje na łóżku?",
+          "answer": "O awans: mówi, że powalił wodza czerwonych koszul."
+        },
+        {
+          "question": "Za kogo Nemeczek bierze Bokę?",
+          "answer": "Za tatusia. Boka mówi mu: jestem Janosz Boka."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Za późno",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Tak - szepnął stojący najbliżej Weiss. - Przyszedł tu cały Związek Kitowców.",
+            "- Nareszcie jesteście!",
+            "- Przynieśliśmy Nemeczkowi uroczysty adres, w którym czerwonym atramentem napisaliśmy, że związek prosi go o przebaczenie i że wpisaliśmy jego nazwisko do księgi samymi wielkimi literami. Mamy ze sobą tę księgę. I jest tu cała nasza delegacja.",
+            "Boka pokręcił głową.",
+            "- Nie mogliście przyjść wcześniej?",
+            "- Dlaczego?",
+            "- Bo on przed chwilą zasnął.",
+            "Członkowie delegacji spojrzeli na siebie.",
+            "- Nie mogliśmy przyjść wcześniej, bo musieliśmy wybrać przewodniczącego delegacji i długo nad tym dyskutowaliśmy. Trwało to z pół godziny, nim wybraliśmy Weissa.",
+            "W progu pojawiła się matka Nemeczka.",
+            "- Nie śpi - powiedziała - znów majaczy.",
+            "Wyraz przerażenia i zdumienia pojawił się na twarzach chłopców.",
+            "- Wejdźcie do środka, chłopcy - zapraszała kobieta - jak was zobaczy, to może oprzytomnieje.",
+            "I szeroko otworzyła przed nimi drzwi. Chłopcy byli bardzo przejęci, wchodzili kolejno z powagą, jak do kościoła."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/208.png",
+          "alt": "Chłopcy wchodzą z czapkami w rękach."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Zdejmowali czapki jeszcze przed wejściem, na dworze. A kiedy już za ostatnim z nich zamknęły się drzwi, zatrzymali się w pełnej szacunku postawie. Szeroko otwartymi oczyma patrzyli na ojca Nemeczka i na leżącego w łóżku przyjaciela. Krawiec nie zareagował na wejście chłopców, oparł głowę na dłoniach i milczał. Nie płakał. Był już tylko bardzo zmęczony. W łóżku, z otwartymi oczyma, leżał mały kapitan. Wąskie usteczka miał otwarte, oddychał z trudem, głęboko. Nikogo już nie poznawał. Być może widział już to, czego nie ogląda się na ziemi. Kobieta zachęciła chłopców:",
+            "- Podejdźcie do niego.",
+            "Ruszyli więc wolno w stronę łóżka. Ale nogi mieli jakby z ołowiu. Jeden dodawał odwagi drugiemu:",
+            "- Idź ty.",
+            "- To ty podejdź do niego.",
+            "- Ty jesteś przewodniczącym delegacji. Ty idź! - powiedział Barabasz.",
+            "Weiss powoli podszedł do łóżka. Koledzy stanęli wokół. Ale Nemeczek nawet na nich nie spojrzał.",
+            "- Mów - szepnął Barabasz.",
+            "I Weiss zaczął drżącym głosem:",
+            "- Słuchaj... Nemeczku...",
+            "Ale Nemeczek nie słuchał. Oddychał z trudem i nieruchomo patrzył w sufit.",
+            "- Nemeczku! - powtórzył Weiss dławiąc się od łez.",
+            "Barabasz szepnął mu do ucha:",
+            "- Nie płacz.",
+            "- Ja nie płaczę - odpowiedział Weiss, ciesząc się, że opanował wybuch płaczu i może wypowiedzieć te słowa. Wreszcie wziął się w garść i przemówił.",
+            "- Wielce szanowny panie kapitanie! - powiedział i wyciągnął z kieszeni list. - Jako że przyszliśmy tu... i jako że jestem prezesem... tym samym w imieniu związku... bo zrobiliśmy błąd... i my wszyscy chcemy cię teraz prosić o przebaczenie... i w tym uroczystym dokumencie wszystko to napisaliśmy...",
+            "Odwrócił się. W oczach lśniły mu dwie duże łzy. Ale za skarby świata nie chciał odstąpić od urzędowego tonu, do którego przywiązywali w związku wielką wagę.",
+            "- Panie sekretarzu - zwrócił się do Lesika - proszę podać księgę związku.",
+            "Stojący w pogotowiu Lesik natychmiast podał księgę. Weiss ostrożnie położył ją na skraju łóżka, zaczął kartkować i otworzył na tej stronie, na której znajdował się „Wpis”.",
+            "- Spójrz - zwrócił się do chorego - przeczytaj.",
+            "Ale Nemeczek powoli zamknął oczy. Czekali. Weiss znów się odezwał:",
+            "- Zobacz.",
+            "Nemeczek nie odpowiadał. Teraz wszyscy już podeszli bliżej łóżka. Matka chorego rozsunęła chłopców i z drżeniem pochyliła się nad swoim dzieckiem.",
+            "- Słuchaj - powiedziała obco brzmiącym, zdziwionym, roztrzęsionym głosem do męża - on nie oddycha...",
+            "I położyła głowę na piersi dziecka.",
+            "- Nie oddycha! - krzyknęła już głośno, nie zwracając uwagi na nikogo. - Nie oddycha.",
+            "Chłopcy cofnęli się. Stanęli w kącie pokoju, jeden przy drugim. Księga związku spadła z łóżka na ziemię,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/209.png",
+          "alt": "Otwarta księga związku leży na podłodze."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "otwarta na tej stronie, na której trzymał ją Weiss.",
+            "Kobieta wyła z rozpaczy:",
+            "- Patrz! Ma zimne ręce!",
+            "W ogromnej, dławiącej ciszy, jaka nastąpiła po tych słowach, rozległo się szlochanie krawca, który do tego momentu siedział milczący na swoim stołku, kryjąc twarz w dłoniach. Był to cichy, ledwo słyszalny szloch dorosłego, poważnego człowieka. Tylko ramiona drgały mu od tłumionego spazmu. Lecz nawet w tej chwili panował nad sobą, bo zsunął z kolan piękną marynarkę pana Czetnekiego, żeby jej nie zabrudzić łzami.",
+            "Matka pieściła i całowała swoje martwe dziecko, a potem uklękła przed łóżkiem i wtuliwszy twarz w poduszkę zaczęła przejmująco płakać. A Erno Nemeczek, sekretarz Związku Kitowców i kapitan chłopców z Placu Broni, leżał w wiecznej już ciszy, biały jak ściana, z zamkniętymi na zawsze oczyma. Nie ulegało najmniejszej wątpliwości, że nie widzi już i nie słyszy tego, co dzieje się wokół niego, ponieważ anioły, które przybyły tu po duszyczkę kapitana Nemeczka, zaniosły ją tam, gdzie tylko podobni jemu, tacy właśnie jak mały Nemeczek, słyszą słodkie pienia i postrzegają jasność wiekuistą.",
+            "- Przyszliśmy za późno - szepnął Barabasz.",
+            "Boka stał na środku pokoju z opuszczoną nisko głową. Jeszcze przed chwilą, kiedy siedział na skraju łóżka, z trudem powstrzymywał płacz. Teraz jednak ze zdumieniem stwierdził, że łzy nie napływają mu do oczu, że po prostu nie potrafi płakać. Rozejrzał się wokół z jakąś bezmierną pustką w duszy. Spostrzegł kryjących się w kącie pokoju chłopców. Na przedzie stał Weiss, ściskając w ręku honorowy adres, którego Nemeczek nie zdążył już zobaczyć.",
+            "Boka podszedł do chłopców.",
+            "- Idźcie do domu - powiedział.",
+            "Chłopcy właściwie ucieszyli się, że wreszcie mogą stąd odejść, że mogą opuścić ten obcy mały pokoik, w którym na łóżku leżał ich zmarły przyjaciel. Jeden za drugim wychodzili do kuchni, a stamtąd na skąpane w słońcu podwórze. Ostatnim był Lesik, bo nie mógł przecież zostawić księgi związku. Gdy wszyscy już wyszli, Lesik na palcach podszedł do łóżka i podniósł leżącą na podłodze księgę. Raz jeszcze spojrzał na łóżko i cichutkiego już na zawsze małego kapitana.",
+            "Po czym i on w ślad za resztą kolegów wyszedł z mieszkania. Świeciło słońce, a na rosnących na podwórzu cherlawych drzewkach wesoło ćwierkały wróble. Chłopcy stali na podwórzu i patrzyli na ptaki. Nie mogli zrozumieć tego, co się stało. Wiedzieli, że przed chwilą zmarł ich przyjaciel, a nie pojmowali sensu tego wydarzenia, było czymś obcym i niezrozumiałym, z czym się nigdy w życiu nie zetknęli. Patrzyli na siebie ze zdumieniem i zdziwieniem.",
+            "O zmierzchu Boka wyszedł z domu i ruszył przed siebie. Jutro czekał go trudny dzień. Powinien był przygotować się do lekcji, szczególnie do łaciny, bo już dawno nie odpowiadał i był pewny, że profesor Rac wywoła go jutro do odpowiedzi. Ale nie miał chęci do nauki. Odsunął od siebie książki oraz słownik i wyszedł z domu.",
+            "Bez celu włóczył się po ulicach. Jakoś podświadomie omijał Plac Broni i pobliskie uliczki. Myśl o tym, że w tym smutnym dniu mógłby znaleźć się na Placu, sprawiała mu po prostu ból.",
+            "Ale gdziekolwiek spojrzał, i tak wszystko przypominało Nemeczka."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "delegacja",
+          "match": "delegacji",
+          "uk": "делегація",
+          "ru": "делегация"
+        },
+        {
+          "phrase": "księga",
+          "match": "księgę",
+          "uk": "книга",
+          "ru": "книга"
+        },
+        {
+          "phrase": "oddychać",
+          "match": "oddycha",
+          "uk": "дихати",
+          "ru": "дышать"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Dlaczego chłopcy nie przyszli wcześniej?",
+          "answer": "Pół godziny wybierali przewodniczącego delegacji i wybrali Weissa."
+        },
+        {
+          "question": "Co Barabasz szepcze, gdy matka mówi, że synek nie oddycha?",
+          "answer": "Przyszliśmy za późno."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "Pusty Plac",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ulica Üllöi...",
+            "Tędy przecież szli razem w trójkę z Czonakoszem, kiedy po raz pierwszy wybrali się na przeszpiegi do Ogrodu Botanicznego.",
+            "Ulica Köztelek...",
+            "Przypomniał sobie, jak pewnego razu, wracając przed południem ze szkoły zatrzymali się na samym środku tej ulicy i Nemeczek z wielką powagą zrelacjonował, w jaki sposób Pastorowie zabrali chłopcom kulki w Ogrodzie Muzealnym. A potem Czonakosz podszedł do budynku fabryki tytoniu i zgarnął nieco tabakowego pyłu z żelaznej kraty piwnicznego okienka. Jakże głośno potem kichali!",
+            "Okolice Muzeum...",
+            "Boka znowu zawrócił. Czuł, że im bardziej stara się ominąć Plac Broni, tym bardziej go właśnie w tamtą stronę ciągnie. A kiedy wreszcie postanowił, że bez żadnego krążenia wokół, śmiało i prosto, najkrótszą drogą pójdzie niezwłocznie na Plac, wówczas poczuł ogromną ulgę. Przyśpieszył kroku, aby czym prędzej znaleźć się na Placu. I im bliżej był swego królestwa, tym większy spokój ogarniał jego serce. Na ulicy Marii zaczął biec, aby jak najszybciej znaleźć się na miejscu. A kiedy w ciemniejącym coraz bardziej mroku dobiegł do rogu ulicy i zobaczył tak dobrze znany szary parkan, żywiej zabiło mu serce. Musiał się zatrzymać. Teraz nie miał się już po co śpieszyć. Był przecież na miejscu. Wolnym krokiem podszedł do otwartej furtki, obok której stał oparty o płot Jano i palił fajkę. Kiedy zobaczył Bokę, powitał go z uśmiechem.",
+            "- Pobiliśwa ich!",
+            "Boka odpowiedział mu smutnym uśmiechem. Ale Jano wpadł w zapał:",
+            "- Pobiliśwa!... Wyrzuciliśwa!... Wypędziliśwa!...",
+            "- Tak, tak - odpowiedział cicho generał.",
+            "Po czym stanął przed Słowakiem i po chwili milczenia zapytał:",
+            "- A czy wiecie, Jano, co się stało?",
+            "- A co takiego?",
+            "- Umarł Nemeczek!",
+            "Słowak szeroko otworzył oczy ze zdziwienia. Potem wyjął z ust fajkę.",
+            "- A który to był, ten Nemeczek?",
+            "- Ten mały, z jasnymi włosami.",
+            "- Aha! - odparł Słowak i włożył fajkę w usta. - Bidna chudzina."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/210.png",
+          "alt": "Słowak z fajką słyszy, który chłopiec umarł."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka minął furtkę. Przed nim rozciągał się cichy i pusty Plac, który był miejscem tylu wesołych zabaw. Boka powoli przemierzał Plac, aż dotarł do szańca, gdzie widać jeszcze było ślady walki. W piasku odcisnęły się ślady wielu stóp. A nasyp szańca osunął się pod nogami ruszających do ataku chłopców.",
+            "W ciemnościach czerniały obok siebie masywy sągów ze zbudowanymi na ich szczytach fortecami. Ściany fortec od góry do dołu obsypane były prochem strzelniczym, czyli piaskiem.",
+            "Generał usiadł na nasypie szańca i oparł podbródek na dłoniach. Panowała kompletna cisza. śelazny komin tartaku całkiem już ostygł i czekał ranka, żeby znów zapalono pod kotłem. Odpoczywała piła parowa, zasypiał opleciony winoroślą tartak. W dali słychać było, jak przez sen, wielkomiejski hałas. Przejeżdżały powozy, rozlegały się okrzyki, a z otwartego, oświetlonego już okna kuchennego w oficynie jednego z sąsiednich domów dobiegał wesoły śpiew jakiejś służącej.",
+            "Boka wstał i ruszył w stronę budki Słowaka. 'Zatrzymał się w miejscu, w którym Nemeczek powalił na ziemię Feriego Acza niczym Dawid Goliata. Pochylił się i szukał śladów stóp, śladów małych, kochanych stóp,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/211.png",
+          "alt": "Boka szuka w piasku małych śladów."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "które tak samo znikną z tego piasku jak ukochany przyjaciel zniknął z tego świata. Ziemia była w tym miejscu stratowana i żadnych śladów nie sposób już było rozpoznać. A przecież Boka natychmiast rozpoznałby ślady Nemeczka, bo były tak małe, że zadziwiły nawet czerwonych, kiedy owego pamiętnego dnia odkryli je w ruinach Ogrodu Botanicznego. Stopy Nemeczka mniejsze były nawet od stóp Wendauera...",
+            "Wzdychając szedł dalej, do fortecy numer trzy, na której Nemeczek po raz pierwszy zobaczył Feriego Acza. A Feri Acz zawołał do niego: „Nie boisz się, Nemeczku?!”",
+            "Generał był zmęczony. Dzisiejszy dzień wyczerpał jego siły. Zataczał się, jakby wypił mocnego wina. Z trudem wspiął się na fortecę numer dwa i tam przysiadł, aby odpocząć. Nikt go tu nie mógł zobaczyć, zakłócić spokoju. Miał czas pomyśleć o tym, co się wydarzyło, i wypłakać się do woli, gdyby mógł płakać.",
+            "Wiatr niósł w jego stronę głosy. Spojrzał ze swojej fortecy w dół i spostrzegł obok budki ciemne sylwetki dwóch chłopców. Nie rozpoznał ich w ciemnościach, więc zaczął przysłuchiwać się głosom. Swoi czy obcy?",
+            "Chłopcy cicho ze sobą rozmawiali.",
+            "- Wiesz co, Barabasz - powiedział jeden z nich - jesteśmy teraz akurat w tym miejscu, w którym Nemeczek ocalił nasz Plac.",
+            "Milczeli chwilę. Po czym znów odezwał się ten sam głos:"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "chudzina",
+          "match": "chudzina",
+          "uk": "худорля",
+          "ru": "худышка"
+        },
+        {
+          "phrase": "ślad",
+          "match": "śladów",
+          "uk": "слід",
+          "ru": "след"
+        },
+        {
+          "phrase": "fajka",
+          "match": "fajkę",
+          "uk": "люлька",
+          "ru": "трубка"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co mówi Jano, gdy słyszy, że umarł ten mały z jasnymi włosami?",
+          "answer": "Bidna chudzina."
+        },
+        {
+          "question": "Czego Boka szuka w piasku?",
+          "answer": "Śladów małych stóp Nemeczka."
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": "Pogódźmy się",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Wiesz co, Barabasz, pogódźmy się w tym miejscu raz na zawsze, ale już tak naprawdę. Nie ma sensu, żebyśmy się ciągle ze sobą kłócili.",
+            "- Zgoda - powiedział ze wzruszeniem w głosie Barabasz - ja też chcę się z tobą pogodzić. Przecież po to przyszliśmy tutaj.",
+            "Znów zapanowała cisza. Chłopcy stali w milczeniu naprzeciw siebie, czekając, kto pierwszy wyciągnie rękę. Wreszcie odezwał się Kolnay:",
+            "- No to zgoda!",
+            "Barabasz, ciągle wzruszony, odpowiedział:",
+            "- No to zgoda!",
+            "Podali sobie ręce, a potem bez słowa padli sobie w objęcia."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/212.png",
+          "alt": "Kolnay i Barabasz godzą się przy budce."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "A więc w końcu i to nastąpiło! Stał się cud. Boka patrzył na tę scenę ze szczytu fortecy, ale nie zdradził swojej obecności. On również chciał być sam, a poza tym czuł, że jest im potrzebny jak dziura w moście.",
+            "Po chwili obaj chłopcy ruszyli w stronę ulicy Pawła, cicho ze sobą gawędząc.",
+            "- Na jutro jest dużo z łaciny - powiedział Barabasz.",
+            "- Tak - odparł Kolnay.",
+            "- Ty masz dobrze - westchnął Barabasz - wczoraj odpowiadałeś. Ale ja już dawno nie byłem pytany i teraz na mnie kolej.",
+            "- Słuchaj - powiedział Kolnay - z drugiego rozdziału wykreślone zostały wiersze od dziesiątego do dwudziestego trzeciego. Czy masz to zaznaczone w książce?",
+            "- Nie.",
+            "- Nie będziesz się chyba uczył tego, co zostało opuszczone? Przyjdę do ciebie i pokażę ci ten fragment.",
+            "- Dobrze.",
+            "Myślą już tylko o lekcjach!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/213.png",
+          "alt": "Dwaj chłopcy odchodzą, a Boka zostaje sam na forcie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Jak szybko zapomnieli! Nemeczek umarł, pan profesor Rac żyje, jutrzejsza lekcja łaciny jest realnym faktem, a najważniejsze, że obaj chłopcy są cali, zdrowi i że czekają ich codzienne obowiązki.",
+            "Kolnay i Barabasz zniknęli w ciemnościach. Boka pozostał wreszcie sam jeden. Ale nawet tu, w fortecy, sam na całym Placu, nie mógł zaznać spokoju. Pora była późna. Z kościoła dzielnicy Józsefvaros dobiegały łagodne dźwięki dzwonu.",
+            "Boka zszedł więc z fortecy i zatrzymał się przed budą. Spostrzegł wracającego od furtki w stronę swojej chaty Jana. Koło niego biegł Hektor merdając ogonem. Boka zaczekał na nich.",
+            "- No - odezwał się Słowak - panicz nie idzie do domu?",
+            "- Już idę - odpowiedział Boka.",
+            "Słowak uśmiechnął się.",
+            "- W domu smaczna, ciepła kolacja.",
+            "- Smaczna, ciepła kolacja - przytaknął machinalnie Boka i przyszło mu na myśl, że przy ulicy Rakos, w mieszkaniu biednego krawca, dwoje skromnych, samotnych już ludzi też siada w kuchni do stołu. A w pokoju obok palą się świece. Na stoliku zaś leży piękna, dwurzędowa, brązowa marynarka pana Czetnekiego."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "zgoda",
+          "match": "zgoda",
+          "uk": "згода",
+          "ru": "согласие"
+        },
+        {
+          "phrase": "łacina",
+          "match": "łaciny",
+          "uk": "латина",
+          "ru": "латынь"
+        },
+        {
+          "phrase": "lekcja",
+          "match": "lekcjach",
+          "uk": "урок",
+          "ru": "урок"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Gdzie Kolnay i Barabasz godzą się na zawsze?",
+          "answer": "W miejscu, w którym Nemeczek ocalił Plac."
+        },
+        {
+          "question": "O czym mówią zaraz potem?",
+          "answer": "O jutrzejszej lekcji łaciny."
+        }
+      ]
+    },
+    {
+      "id": "part-11",
+      "title": "Dom na Placu",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka zajrzał do chaty Słowaka.",
+            "I zobaczył oparte o ścianę dziwne przyrządy. Okrągłe, czerwono - białe tablice blaszane,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/214.png",
+          "alt": "W chacie stoją okrągłe tablice, trójnóg i białe kołki."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "podobne do tych krążków, jakie trzymają w ręku dróżnicy, gdy przed ich budkami przejeżdżają pośpieszne pociągi. Stał też w chacie trójnóg z umocowaną na nim mosiężną rurą. I jeszcze pomalowane na biało kołki...",
+            "- Co to takiego? - zapytał.",
+            "Jano zajrzał do środka.",
+            "- To? To pana inżyniera.",
+            "- Jakiego pana inżyniera?",
+            "- Pana architekta.",
+            "Boce gwałtownie zabiło serce.",
+            "- Architekta? A czego on tu chce?",
+            "Jano pyknął fajkę.",
+            "- Budować będą.",
+            "- Tutaj?",
+            "- Tak. W poniedziałek przyjdą robotnicy, rozkopią Plac... wykopią piwnice... fundamenty...",
+            "- Co?! - krzyknął Boka. - Będą budować tu dom?",
+            "- Tak, dom - odpowiedział obojętnie Słowak - wielki, trzypiętrowy dom... Kto ma plac, buduje i dom.",
+            "I wszedł do chaty.",
+            "Boce zakręciło się w głowie. Dopiero teraz napłynęły mu do oczu łzy. Szybkim krokiem, a potem biegiem pędził w stronę furtki. Uciekał z Placu, uciekał z tej obcej i niewiernej ziemi, której z takim poświęceniem i męstwem bronili, i która oto teraz tak haniebnie opuszcza ich, aby po wieczne czasy dźwigać na sobie wielką, czynszową kamienicę.",
+            "Stanął w furtce i jeszcze raz obejrzał się za siebie, jak czyni ten, kto na zawsze opuszcza Ojczyznę. Myśl o rozstaniu z Placem ścisnęła mu serce wielkim bólem. Jedyną pociechą w tym cierpieniu było tylko to, że skoro już biednemu Nemeczkowi nie było dane dożyć przeprosin, z jakimi przyszła do niego delegacja Związku Kitowców, to może i lepiej, że nie doczekał też chwili, kiedy zabierają im Ojczyznę, za którą oddał swe życie.",
+            "A nazajutrz, kiedy cała klasa zastygła w niemej, pełnej skupienia ciszy i pan profesor Rac poważnym, godnym krokiem wszedł powoli na katedrę, aby w wielkiej ciszy, uroczystym głosem, wspomnieć Erno Nemeczka i przypomnieć uczniom, że jutro o trzeciej godzinie mają zebrać się na ulicy Rakos w czarnych lub przynajmniej ciemnych ubraniach, Janosz Boka z wielką powagą wpatrywał się w blat ławki i po raz pierwszy zaczął w głębi swojej młodej duszy pojmować, czym właściwie jest życie, w którym smutki i radości tak dziwnie splatają się w jeden wspólny los."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/215.png",
+          "alt": "Klasa milczy, a Boka patrzy w blat ławki."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "architekt",
+          "match": "architekta",
+          "uk": "архітектор",
+          "ru": "архитектор"
+        },
+        {
+          "phrase": "fundament",
+          "match": "fundamenty",
+          "uk": "фундамент",
+          "ru": "фундамент"
+        },
+        {
+          "phrase": "życie",
+          "match": "życie",
+          "uk": "життя",
+          "ru": "жизнь"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co w poniedziałek zrobią robotnicy na Placu?",
+          "answer": "Rozkopią Plac, wykopią piwnice i fundamenty pod wielki, trzypiętrowy dom."
+        },
+        {
+          "question": "Na którą godzinę pan profesor Rac zbiera klasę przy ulicy Rakos?",
+          "answer": "Na trzecią, w czarnych albo przynajmniej ciemnych ubraniach."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział X",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Jak czuje się synek krawca?",
+        "options": [
+          "Źle, bardzo źle",
+          "Już prawie zdrów",
+          "Tylko trochę kaszle"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Jakie słowo daje Nemeczek?",
+        "options": [
+          "Że jutro wstanie",
+          "Że umrze",
+          "Że odda czapkę"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kogo czerwone koszule wybierają wodzem zamiast Feriego?",
+        "options": [
+          "Bokę",
+          "Gereba",
+          "Starszego Pastora"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Dokąd Nemeczek chce iść, zanim umrze?",
+        "options": [
+          "Do szkoły",
+          "Na Plac",
+          "Do Ogrodu Botanicznego"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kto przymierza brązowy garnitur w kuchni?",
+        "options": [
+          "Pan Czetneki",
+          "Lekarz",
+          "Jano"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Co przynosi delegacja Związku Kitowców?",
+        "options": [
+          "Czerwoną koszulę",
+          "Słodycze",
+          "Uroczysty adres i księgę"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Co odpowiada Jano na wieść o Nemeczku?",
+        "options": [
+          "Pobiliśwa ich!",
+          "Bidna chudzina.",
+          "Budować będą."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co ma stanąć na Placu?",
+        "options": [
+          "Wielki trzypiętrowy dom",
+          "Nowa forteca",
+          "Ogród z morwami"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

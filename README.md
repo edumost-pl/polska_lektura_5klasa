@@ -169,10 +169,12 @@ ROZDZIAŁ I
           ]
          },
         { 
-          "type": "image", "src": "images/...", "alt": "..."
+          "type": "image", "src": "../../images/chlopcy-z-placu-broni/22.png"
          },
         { 
           "type": "text", 
-          "paragraphs": ["...", "..."]
+          "paragraphs": [
+            
+          ]
          }
       ],

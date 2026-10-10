@@ -1,0 +1,1079 @@
+{
+  "id": 3,
+  "title": "Rozdział III",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Plan wyprawy",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nazajutrz późnym popołudniem, po lekcji stenografii, plan wojennych działań był gotowy. Stenografia kończyła się o godzinie piątej, kiedy na ulicy zapalano już lampy. Po wyjściu ze szkoły Boka zebrał chłopców.",
+            "- Słuchajcie - powiedział Boka - musimy uprzedzić ich natarcie i udowodnić im, że jesteśmy tak samo odważni jak oni. Wezmę ze sobą dwóch najodważniejszych i razem pójdziemy do Ogrodu Botanicznego. Przedostaniemy się na ich wyspę i przybijemy na drzewie tę kartkę.",
+            "Wyciągnął z kieszeni kartkę czerwonego papieru, na której drukowanymi literami było wypisane:"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/43.png",
+          "alt": "Boka pokazuje chłopcom czerwoną kartkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "TU BYLI CHŁOPCY Z PLACU BRONI",
+            "Wszyscy z podziwem spojrzeli na kartkę. Czonakosz, który nie uczył się stenografii, i przyszedł pod szkołę li tylko z ciekawości, zaproponował:",
+            "- Dobrze byłoby jeszcze dopisać coś obraźliwego.",
+            "Boka przecząco potrząsnął głową.",
+            "- Nie wolno. W żadnym wypadku nie będziemy postępować tak, jak Feri Acz, który zabrał naszą chorągiew. My tylko pokażemy, że się ich nie boimy, że mamy odwagę wkroczyć na ich teren, gdzie przeprowadzają zebrania i gdzie ukrywają swoją broń. Ta czerwona kartka będzie naszą wizytówką, którą im zostawimy dla przestrogi.",
+            "Głos zabrał Czele.",
+            "- Słyszałem, że oni o tej porze wieczorem są na wyspie i bawią się w Policjantów i złodziei.",
+            "- Nie szkodzi. Feri Acz też przyszedł do nas o takiej porze, kiedy wiedział, że będziemy na Placu. Kto się boi, ten niech nie idzie ze mną.",
+            "Ale nikt się nie bał. Nawet Nemeczek był zdecydowany. Widać było, że chce zasłużyć na przyszły awans. Dumnie wystąpił naprzód.",
+            "- Idę z tobą!",
+            "Zrobił to zwyczajnie, bo tu, przed szkołą, nie trzeba było stawać na baczność i salutować. Regulamin obowiązywał tylko na Placu. Tu wszyscy byli sobie równi.",
+            "Czonakosz również wystąpił.",
+            "- Ja też idę!",
+            "- Ale przyrzeknij, że nie będziesz gwizdał!",
+            "- Przyrzekam. Tylko jeszcze jeden raz... pozwól mi po raz ostatni gwizdnąć!",
+            "- No to gwizdnij!",
+            "I Czonakosz gwizdnął."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/44.png",
+          "alt": "Czonakosz głośno gwiżdże przed szkołą."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Z radości zrobił to tak głośno, że aż ludzie na ulicy poodwracali głowy.",
+            "- Ale gwizdnąłem... - powiedział z zadowoleniem. - Na dziś wystarczy.",
+            "Boka zwrócił się do Czelego:",
+            "- A ty nie idziesz?",
+            "- Niestety, nie dam rady - powiedział ze smutkiem Czele. - Nie mogę iść z wami, bo muszę być w domu pół do szóstej. Matka wie, kiedy kończy się stenografia. Jeśli się spóźnię, to więcej nigdzie mnie nie puści.",
+            "Już sama myśl o tym przeraziła go. Skończyłoby się przychodzenie na Plac, porucznikowska ranga, wszystko..."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 3235,
+        "end": 3403
+      },
+      "vocabulary": [
+        {
+          "phrase": "stenografii",
+          "match": "stenografii",
+          "uk": "стенографії",
+          "ru": "стенографии"
+        },
+        {
+          "phrase": "natarcie",
+          "match": "natarcie",
+          "uk": "наступ",
+          "ru": "наступление"
+        },
+        {
+          "phrase": "chorągiew",
+          "match": "chorągiew",
+          "uk": "прапор",
+          "ru": "знамя"
+        },
+        {
+          "phrase": "przestrogi",
+          "match": "przestrogi",
+          "uk": "застереження",
+          "ru": "предостережения"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co chłopcy chcą zostawić na wyspie?",
+          "answer": "Czerwoną kartkę z napisem „TU BYLI CHŁOPCY Z PLACU BRONI”."
+        },
+        {
+          "question": "Dlaczego Czele nie idzie z nimi?",
+          "answer": "Musi być w domu pół do szóstej."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Boka podejrzewa Gereba",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- No to zostań - powiedział Boka. - Wezmę ze sobą Czonakosza i Nemeczka. Jutro rano w szkole dowiecie się o wszystkim.",
+            "Podali sobie ręce. Nagle Boce coś się przypomniało.",
+            "- Słuchajcie, czy Gereb był dzisiaj na stenografii?",
+            "- Nie było go.",
+            "- Może jest chory?",
+            "- Chyba nie. W południe razem wracaliśmy ze szkoły. Nic mu nie było.",
+            "Boce nie podobało się zachowanie Gereba. Było dziwnie podejrzane. Wczoraj tak twardo spojrzał Boce w oczy, kiedy się rozstawali. Chyba zdał sobie sprawę z faktu, że póki będzie Boka, on nie wysunie się na pierwsze miejsce w związku. Gereb zazdrościł Boce. Miał gwałtowne usposobienie, był odważny, a nawet zuchwały, więc rozsądne i spokojne postępowanie Boki nie mogło mu się podobać. Uważał się za lepszego i znacznie bardziej odpowiedniego na wodza.",
+            "- Bóg jeden wie, jak jest z tym Gerebem - powiedział do siebie cicho Boka ruszając w drogę z chłopcami."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/45.png",
+          "alt": "Boka, Czonakosz i Nemeczek idą wieczorem ulicą Üllöi."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czonakosz kroczył obok niego z poważną miną, Nemeczek natomiast tryskał radością, że oto wreszcie może wziąć udział w niezwykłej wyprawie. Był tak wesoły, że Boka musiał mu zwrócić uwagę:",
+            "- Nemeczek, nie wariuj! A może ci się wydaje, że idziemy na zabawę, co? Ta wyprawa jest znacznie niebezpieczniejsza, niż myślisz. Przypomnij sobie tylko braci Pastorów!",
+            "To poskutkowało. Na myśl o Pastorach Nemeczek natychmiast spoważniał."
+          ]
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Feri Acz również cieszył się złą sławą, mówiono nawet, że wyrzucono go ze szkoły realnej, ale silny i szalenie odważny Feri miał w spojrzeniu coś miłego i ujmującego zarazem, czego brakowało Pastorom. Ci dwaj chodzili zawsze ze spuszczonymi głowami, patrzyli ponuro spode łba i nikt nigdy nie widział uśmiechu na ich ogorzałych twarzach. Toteż wszyscy się bali przede wszystkim czarnowłosych Pastorów."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 3403,
+        "end": 3518
+      },
+      "vocabulary": [
+        {
+          "phrase": "podejrzane",
+          "match": "podejrzane",
+          "uk": "підозріле",
+          "ru": "подозрительное"
+        },
+        {
+          "phrase": "zazdrościł",
+          "match": "zazdrościł",
+          "uk": "заздрив",
+          "ru": "завидовал"
+        },
+        {
+          "phrase": "zuchwały",
+          "match": "zuchwały",
+          "uk": "зухвалий",
+          "ru": "дерзкий"
+        },
+        {
+          "phrase": "spoważniał",
+          "match": "spoważniał",
+          "uk": "став серйозним",
+          "ru": "стал серьёзным"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Kogo Boka zabiera ze sobą?",
+          "answer": "Czonakosza i Nemeczka."
+        },
+        {
+          "question": "Kogo Boka uważa za podejrzanego?",
+          "answer": "Gereba."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Tajne wejście do Ogrodu Botanicznego",
+      "description": "",
+      "content": [     
+        {
+          "type": "text",
+          "paragraphs": [
+            "Trójka chłopców szła szybko nieskończenie długą ulicą Üllöi.",
+            "Było już po zmierzchu, zrobiło się całkiem ciemno. Na ulicy zapaliły się lampy i ta niezwykła pora budziła niepokój w duszach chłopców. Zazwyczaj wychodzili bawić się zaraz po obiedzie. O tej zaś porze ślęczeli nad książkami, a nie spacerowali po ulicy. W milczeniu szli obok siebie i po kwadransie dotarli do Ogrodu Botanicznego. Zza wysokiego, kamiennego muru wychylały się złowieszcze konary wielkich drzew, które dopiero zaczynały się zielenić. Wiatr szumiał wśród gałęzi, było ciemno i gdy wyłonił się przed nimi tajemniczy o tej porze Ogród Botaniczny ze swoją zamkniętą już bramą, serca zabiły im mocniej."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/46.png",
+          "alt": "Chłopcy przed zamkniętą bramą Ogrodu Botanicznego."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nemeczek chciał nacisnąć dzwonek przy bramie.",
+            "- Na miłość boską, nie dzwoń! - odezwał się Boka. - Usłyszą, że ktoś przyszedł! I wtedy spotkamy się z nimi po drodze... a zresztą i tak nikt nie otworzy nam teraz furtki.",
+            "- No to jak wejdziemy?",
+            "Boka spojrzał na mur.",
+            "- Przez mur?",
+            "- Jasne.",
+            "- Tędy, od ulicy?",
+            "- Skądże! Obejdziemy ogród. Od tyłu mur jest znacznie niższy!",
+            "Skręcili w ciemną boczną uliczkę, gdzie kończył się kamienny mur. Od tego miejsca ciągnął się drewniany parkan. Szli dalej wzdłuż płotu szukając najdogodniejszego miejsca do przejścia. Zatrzymali się tam, gdzie nie docierało już światło ulicznej lampy. Po drugiej stronie ogrodzenia, przy samym płocie, stała duża akacja.",
+            "- Jeśli tu się wdrapiemy - powiedział Boka - to po tej akacji łatwo będzie nam zejść. A w dodatku już na drzewie sprawdzimy, czy nikogo nie ma w pobliżu.",
+            "Obaj chłopcy zgodzili się z planem Boki. Zaraz też przystąpili do działania. Czonakosz przykucnął i oparł się rękoma o parkan. Boka ostrożnie stanął mu na ramionach i zajrzał przez płot do ogrodu. Wszystko to odbyło się w absolutnej ciszy. Kiedy Boka przekonał się, że w pobliżu nie ma nikogo, dał znak ręką. Nemeczek szepnął do Czonakosza:",
+            "- Podsadź go!",
+            "Czonakosz uniósł się i podsadził przewodniczącego na płot. Boka znalazł się na szczycie spróchniałego płotu, który zaczął niebezpiecznie trzeszczeć."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/47.png",
+          "alt": "Boka stoi na szczycie starego drewnianego płotu."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Skacz! - szepnął Czonakosz.",
+            "Rozległo się jeszcze kilka trzasków i potem głuche pacnięcie. Boka wylądował w samym środku grządki z warzywami. Za nim przez płot przelazł Nemeczek, a na końcu Czonakosz. Wpierw jednak Czonakosz wdrapał się na akację, co mu przyszło z łatwością, gdyż wychował się na wsi. Stojący pod drzewem chłopcy spytali:",
+            "- Widzisz coś?",
+            "Czonakosz odpowiedział zdławionym głosem:",
+            "- Prawie nic, bo strasznie ciemno.",
+            "- A widzisz wysepkę?",
+            "- Widzę.",
+            "- Jest tam ktoś?",
+            "Czonakosz ostrożnie wychylał się zza gałęzi na lewo i prawo, patrzył w dal, w kierunku stawu.",
+            "- Na wyspie nic nie widać, drzewa i krzaki zasłaniają... ale na moście...",
+            "Tu zamilkł. Wspiął się wyżej o jedną gałąź i znowu zameldował:",
+            "- Teraz dobrze widzę. Na moście stoją jakieś dwie postacie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/48.png",
+          "alt": "Czonakosz na akacji patrzy na wartę na moście."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka odezwał się cicho:",
+            "- Czyli są tam. A na moście stoi warta.",
+            "Znów zatrzeszczały gałęzie i Czonakosz zlazł z drzewa. Wszyscy trzej stali chwilę w głębokiej ciszy, zastanawiając się, co dalej czynić. Przykucnęli za jednym z krzaków, tak aby ich nikt nie dostrzegł, i cichutko, szeptem, zaczęli się naradzać."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 3518,
+        "end": 3735
+      },
+      "vocabulary": [
+        {
+          "phrase": "zmierzchu",
+          "match": "zmierzchu",
+          "uk": "сутінків",
+          "ru": "сумерек"
+        },
+        {
+          "phrase": "parkan",
+          "match": "parkan",
+          "uk": "паркан",
+          "ru": "забор"
+        },
+        {
+          "phrase": "akacja",
+          "match": "akacja",
+          "uk": "акація",
+          "ru": "акация"
+        },
+        {
+          "phrase": "podsadził",
+          "match": "podsadził",
+          "uk": "підсадив",
+          "ru": "подсадил"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Którędy chłopcy wchodzą do ogrodu?",
+          "answer": "Przez drewniany parkan, przy akacji."
+        },
+        {
+          "question": "Co Czonakosz widzi na moście?",
+          "answer": "Dwie postacie."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Warta na moście i spotkanie ze stróżem",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Najlepiej będzie - powiedział Boka - jeśli pod osłoną krzaków podejdziemy do ruin zamku. Wiecie, stąd na prawo, na stoku wzgórza.",
+            "Obaj chłopcy w milczeniu skinęli głowami: tak, znają to miejsce.",
+            "- Możemy ostrożnie podejść do samych ruin kryjąc się w krzakach. Tam jeden z nas wejdzie na wzgórze, żeby się rozejrzeć wokoło. Jeśli nikogo nie będzie w pobliżu, to zsuniemy się ze wzgórza. Stok schodzi prosto do stawu. Schowamy się w sitowiu i pomyślimy, co dalej.",
+            "Czonakosz i Nemeczek z przejęciem patrzyli na Bokę. Każde jego słowo wydawało im się święte.",
+            "Boka zapytał:",
+            "- Zgadzacie się?",
+            "- Tak jest! - wyrazili obaj pełną gotowość.",
+            "- No to naprzód! Trzymajcie się mnie. Znam tu każdy kąt.",
+            "I zaczął się czołgać na czworakach pośród niskich krzaków. Ledwie obaj jego towarzysze przyklękli, żeby za nim ruszyć, rozległ się ostry gwizd.",
+            "- Zauważyli nas! - Nemeczek zerwał się na równe nogi.",
+            "- Stój! Padnij! - wydał rozkaz Boka i wszyscy trzej padli na trawę. Z zapartym oddechem czekali na to, co teraz nastąpi. Czy rzeczywiście ich zauważono?",
+            "Ale nikt się nie zjawiał. Tylko wiatr szumiał wśród drzew. Boka odezwał się szeptem:",
+            "- Nikogo nie ma.",
+            "W tym momencie ostry gwizd ponownie przeszył powietrze. Znów odczekali chwilę, nadal nikt nie nadchodził. Nemeczek, trzęsąc się skulony pod jednym z krzaków, zaproponował:",
+            "- Trzeba by rozejrzeć się z drzewa.",
+            "- Słusznie! Czonakosz, wejdź na drzewo!",
+            "Czonakosz z kocią zwinnością wdrapał się na akację.",
+            "- Co widzisz?",
+            "- Na moście poruszają się jakieś postacie... ale teraz jest ich czterech... dwóch wraca na wyspę.",
+            "- No, to wszystko w porządku - powiedział uspokojony Boka. - Zejdź szybko. Gwizd oznaczał zmianę warty.",
+            "Czonakosz zsunął się w dół, znowu ruszyli razem, na czworakach, w stronę wzgórza. O tej porze w wielkim, tajemniczym Ogrodzie Botanicznym panowała cisza. Na sygnał dawany przed zamknięciem ogrodu spacerowicze opuszczali park. W środku pozostawali tylko włóczędzy, względnie tacy, jak nasza skulona i skradająca się od krzaka do krzaka, snująca wojenne plany trójka chłopców. Swoją wyprawę traktowali niezwykle poważnie i zachowywali całkowite milczenie. Szczerze mówiąc bali się trochę. Trzeba było niezwykłej odwagi, żeby wedrzeć się do samego środka obwarowanego obozu czerwonych, który znajdował się na wyspie położonej na samym środku stawu. Wiodła tam jedna tylko droga, przez drewniany mostek, na którym stała warta.",
+            "Może na straży stoją akurat Pastorowie? - przeszło Nemeczkowi przez głowę i zaraz przypomniały mu się gładkie, kolorowe kulki, wśród których było również kilka szklanych. Strasznie go złościło, że słowo einstand padło akurat w tym momencie, kiedy to właśnie on celnie rzucił i wygrał wszystkie kulki.",
+            "- Och! - krzyknął nagle Nemeczek.",
+            "Przerażeni chłopcy zamarli w bezruchu.",
+            "Nemeczek przyklęknął i wsadził jeden palec do ust.",
+            "- Co ci się stało?",
+            "- Pokrzywy! Wpakowałem rękę w pokrzywy!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/49.png",
+          "alt": "Nemeczek oparzył rękę pokrzywą."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- To ssij, staruszku, ssij! - powiedział Czonakosz, ale jednocześnie przytomnie obwiązał własną rękę chusteczką.",
+            "Czołgali się dalej i szybko dotarli do wzgórza. Na jego zboczu, jak już o tym wiemy, znajdowały się sztuczne ruiny zamku, jakie często budowano w wielkich parkach należących do arystokratycznych rodzin. Starannie układa się kamienie, a potem wypełnia szczeliny mchem, tak, aby wyglądało to na prawdziwe ruiny.",
+            "- Zbliżamy się! - ostrzegł Boka. - Teraz musimy być bardzo ostrożni, bo czerwoni często robią tu wypady.",
+            "- Co to za zamek? - zapytał Czonakosz. - Na historii nie mówiono nam przecież, żeby w Ogrodzie Botanicznym był jakiś zamek.",
+            "- To sztuczne ruiny. Zbudowano je już jako ruiny.",
+            "Nemeczek roześmiał się.",
+            "- Jeśli już budowali, to lepiej było zbudować prawdziwy zamek. A po stu latach i tak zostałyby tylko ruiny.",
+            "- Ale masz humorek! - skarcił go Boka. - Czekaj no, jak Pastorowie spojrzą na ciebie, to przejdzie ci ochota do żartów.",
+            "Rzeczywiście, Nemeczek zmarkotniał. Miał po prostu takie usposobienie, że szybko zapominał o przykrych sprawach i trzeba mu było nieustannie o nich przypominać.",
+            "Po tej krótkiej wymianie słów chłopcy zaczęli się wspinać po zarośniętych dzikim bzem kamieniach ruin na wzgórze. Teraz na czele szedł Czonakosz. Nagle zastygł bez ruchu. Dał znak prawą ręką, odwrócił się i przestraszonym głosem szepnął:",
+            "- Tam chyba ktoś jest!",
+            "Zapadli w wysoką trawę. Rosnące w niej chwasty całkiem przykryły ich drobne postacie. Tylko im oczy błyskały. Nasłuchiwali.",
+            "- Czonakosz, przyłóż ucho do ziemi - szeptem rozkazał Boka. - Indianie tak zawsze robią. Łatwo wtedy usłyszeć, czy ktoś nie nadchodzi.",
+            "Czonakosz posłusznie wykonał polecenie. Położył się na ziemi i przyłożył ucho w miejscu, gdzie nie było trawy. Ale natychmiast poderwał głowę.",
+            "- Idą! - szepnął z przerażeniem."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/53.png",
+          "alt": "Chłopcy leżą w trawie i nasłuchują kroków."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Teraz już bez indiańskich sposobów słychać było, że ktoś przedziera się przez krzewy. I że ten tajemniczy ktoś, o którym na razie nie było wiadomo, czy jest człowiekiem, czy też jakimś zwierzęciem, idzie prosto w ich kierunku. Chłopcy byli tak przestraszeni, że przylgnęli płasko do ziemi. Tylko Nemeczek siedział skulony i powtarzał cichym, płaczliwym głosem:",
+            "- Ja chcę do domu.",
+            "Teraz Czonakosz zaczął dowcipkować.",
+            "- Właź do jakiejś nory, staruszku!",
+            "Ponieważ jednak Nemeczek w dalszym ciągu nie mógł opanować strachu, rozgniewany Boka wychylił się z trawy i z trudem tłumiąc złość rozkazał:",
+            "- Szeregowy, natychmiast skryć się w trawie! Padnij!",
+            "Rozkazowi naturalnie należało się podporządkować i Nemeczek padł plackiem.",
+            "Tajemniczy ktoś szeleścił jeszcze w krzakach, ale jakby zmieniał kierunek i nie szedł już prosto w ich stronę. Boka ponownie wychylił głowę z chwastów i rozejrzał się. Dostrzegł schodzącą po zboczu wzgórza postać, która laską odgarniała krzewy.",
+            "- Poszedł - powiedział do leżących w trawie chłopców. - To był strażnik.",
+            "- Strażnik czerwonych?",
+            "- Nie. Stróż Ogrodu Botanicznego."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/50.png",
+          "alt": "Chłopcy widzą stróża Ogrodu Botanicznego."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Odetchnęli z ulgą. Dorosłych nie bali się. Najlepszym przykładem stary żołnierz z brodawkami na nosie, który zupełnie nie mógł sobie poradzić z chłopcami w Ogrodzie Muzealnym. Znowu zaczęli się czołgać. Ale wtedy stróż widocznie coś usłyszał, bo zatrzymał się i zaczął nadsłuchiwać.",
+            "- Zauważył nas - wyjąkał Nemeczek.",
+            "Teraz obaj spojrzeli na Bokę, oczekując od niego dalszych poleceń.",
+            "- Szybko do ruin! - wydał rozkaz Boka.",
+            "Wszyscy trzej na łeb na szyję stoczyli się w dół ze wzgórza, na które przed chwilą jeszcze tak ostrożnie się wdrapywali. W ruinach zamkowych znajdowały się małe gotyckie okienka. Z przerażeniem stwierdzili, że pierwsze okno jest zakratowane. Podkradli się do następnego, ale i to było zabezpieczone kratą. Wreszcie w jednym miejscu znaleźli wśród kamieni szczelinę, przez którą mogli wśliznąć się do środka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/54.png",
+          "alt": "Chłopcy znajdują szczelinę w ruinach zamku."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Schowali się w ciemnej komorze i wstrzymali oddech. Sylwetka stróża przesunęła się przed oknami. Z kryjówki mogli stwierdzić, że stróż oddala się do tej części ogrodu, która położona była przy ulicy Üllöi, tam znajdowała się jego budka.",
+            "- Chwała Bogu - odezwał się Czonakosz - już po wszystkim!"
+          ]
+        }
+      ],
+      "audio": {
+        "start": 3735,
+        "end": 3900
+      },
+      "vocabulary": [
+        {
+          "phrase": "warty",
+          "match": "warty",
+          "uk": "варти",
+          "ru": "караула"
+        },
+        {
+          "phrase": "pokrzywy",
+          "match": "pokrzywy",
+          "uk": "кропиву",
+          "ru": "крапиву"
+        },
+        {
+          "phrase": "ruiny",
+          "match": "ruiny",
+          "uk": "руїни",
+          "ru": "руины"
+        },
+        {
+          "phrase": "stróż",
+          "match": "stróż",
+          "uk": "сторож",
+          "ru": "сторож"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co oznaczał ostry gwizd?",
+          "answer": "Zmianę warty."
+        },
+        {
+          "question": "Kto szedł przez krzaki przy ruinach?",
+          "answer": "Stróż Ogrodu Botanicznego."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Tajny arsenał czerwonych koszul",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Teraz mogli spokojnie rozejrzeć się po kryjówce. Powietrze było tu wilgotne i stęchłe, jakby znajdowali się w prawdziwych zamkowych kazamatach. Nagle Boka potknął się o coś. Schylił się i podniósł z ziemi jakiś przedmiot. Obaj chłopcy doskoczyli do niego i w nikłej poświacie zobaczyli, że to coś było tomahawkiem. Rodzajem toporka, jakim zgodnie z opisami w powieściach o Dzikim Zachodzie zwykli byli wojować Indianie. Tomahawk był wystrugany z drzewa i oklejony srebrnym papierem.",
+            "Groźnie połyskiwał w ciemnościach."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/55.png",
+          "alt": "Tomahawk połyskuje w ciemnej kryjówce."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- To ich broń! - z nabożnym podziwem powiedział Nemeczek.",
+            "- Tak jest - zgodził się Boka. - I jeśli znaleźliśmy jeden, to i pozostałe muszą tu być.",
+            "Zaczęli szukać i w jednym z zakamarków znaleźli jeszcze siedem tomahawków. Łatwo można więc było ustalić, że czerwonych jest w sumie ośmiu.",
+            "Doszli do wniosku, że właśnie tu znajdował się ich tajny arsenał. Czonakosz z miejsca zaproponował, ażeby zabrać te osiem tomahawków jako łup wojenny.",
+            "- Nie - sprzeciwił się Boka - nie zrobimy tego. Byłaby to po prostu kradzież."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/56.png",
+          "alt": "Boka nie pozwala zabrać tomahawków."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czonakosz zawstydził się.",
+            "- Coś tak przycichł, staruszku! - odzyskał nagle odwagę Nemeczek, ale Boka dał mu łagodną sójkę w bok, więc zaraz umilkł.",
+            "- Nie marnujmy czasu. Wyjdźmy stąd i szybko na wzgórze! Nie chciałbym dotrzeć na wyspę wtedy, kiedy już na niej nikogo nie będzie."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 3900,
+        "end": 4306
+      },
+      "vocabulary": [
+        {
+          "phrase": "tomahawkiem",
+          "match": "tomahawkiem",
+          "uk": "томагавком",
+          "ru": "томагавком"
+        },
+        {
+          "phrase": "arsenał",
+          "match": "arsenał",
+          "uk": "арсенал",
+          "ru": "арсенал"
+        },
+        {
+          "phrase": "kradzież",
+          "match": "kradzież",
+          "uk": "крадіжка",
+          "ru": "кража"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Ile tomahawków znaleźli chłopcy?",
+          "answer": "Osiem."
+        },
+        {
+          "question": "Dlaczego Boka nie pozwala ich zabrać?",
+          "answer": "Byłaby to kradzież."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Lornetka i światło na wyspie",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ta zuchwała myśl pobudziła ich na nowo do czynu. Rozrzucili tomahawki po całej komorze, aby zostawić tu ślad swojej bytności, po czym przecisnęli się przez wyłom i odważnie, szybko wdrapali się na szczyt wzgórza. Stanęli obok siebie i rozejrzeli się, wszystko było widać jak na dłoni. Boka wydobył z kieszeni niewielkie zawiniątko. Odwinął gazetę i wyjął małą lornetkę wykładaną masą perłową.",
+            "- To teatralna lornetka siostry Czelego - powiedział i przyłożył lornetkę do oczu. Ale i gołym okiem też było widać wyspę. Wokół lśnił pierścień stawu, w którym hodowano rośliny wodne. Brzegi były zarośnięte szuwarami i trzciną. Wśród rozłożystych drzew i wysokich krzewów świecił na wyspie mały punkcik. Na ten widok wszyscy trzej spoważnieli."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/57.png",
+          "alt": "Chłopcy patrzą na światło latarni na wyspie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Są tam - powiedział zdławionym głosem Czonakosz.",
+            "- Mają latarnię - zauważył z uznaniem Nemeczek.",
+            "Świecący punkt poruszał się to tu, to tam po całej wyspie, znikał za jakimś krzakiem i znów pojawiał się nad brzegiem. Ktoś chodził z latarnią po całej wyspie.",
+            "- Zdaje mi się - powiedział Boka, nawet na chwilę nie odrywając lornetki od oczu - zdaje mi się, że szykują się do czegoś. Albo to jakieś nocne ćwiczenia, albo...",
+            "Nagle zamilkł.",
+            "- No mów... co takiego? - pytali zaniepokojeni chłopcy.",
+            "- Święty Boże - powiedział Boka coraz mocniej przyciskając lornetkę do oczu - ten z latarnią... to... to...",
+            "- No? Kto taki?",
+            "- Bardzo podobny... nie, to niemożliwe...",
+            "Wszedł wyżej, żeby lepiej widzieć, ale światło latarni zniknęło za krzakiem. Boka opuścił lornetkę.",
+            "- Zniknął - powiedział cicho.",
+            "- Ale kto to był?",
+            "- Nie mogę powiedzieć. Nie widziałem go zbyt dobrze, a akurat wtedy, kiedy chciałem mu się dokładnie przyjrzeć, zniknął mi z pola widzenia. Póki się nie upewnię, nie mogę na nikogo rzucać podejrzeń...",
+            "- Czy to był ktoś z naszych?",
+            "- Tak mi się zdaje - odpowiedział smutno dowódca."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/58.png",
+          "alt": "Boka podejrzewa kogoś ze swoich."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Ależ to zdrada! - krzyknął Czonakosz zapominając o tym, że należy zachować ciszę.",
+            "- Cicho bądź! Jeśli tam dotrzemy, dowiemy się wszystkiego. Do tego momentu musisz być cierpliwy."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 4306,
+        "end": 4449
+      },
+      "vocabulary": [
+        {
+          "phrase": "lornetkę",
+          "match": "lornetkę",
+          "uk": "бінокль",
+          "ru": "бинокль"
+        },
+        {
+          "phrase": "szuwarami",
+          "match": "szuwarami",
+          "uk": "очеретом",
+          "ru": "камышом"
+        },
+        {
+          "phrase": "podejrzeń",
+          "match": "podejrzeń",
+          "uk": "підозр",
+          "ru": "подозрений"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Czyją lornetką Boka patrzy na wyspę?",
+          "answer": "Teatralną lornetką siostry Czelego."
+        },
+        {
+          "question": "Kogo przypomina Boce chłopiec z latarnią?",
+          "answer": "Kogoś z ich chłopców."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Łódka przy sitowiu",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Teraz gnała ich naprzód również ciekawość. Boka nie chciał powiedzieć, kogo przypominała mu postać z latarnią. Próbowali zgadywać, ale przewodniczący uciszył ich i zabronił na kogokolwiek rzucać podejrzenia. Z podnieceniem zbiegli ze wzgórza i na dole znów. zaczęli się czołgać w trawie. Byli tak przejęci, że nie zwracali uwagi na kaleczące im ręce kolce, pokrzywy czy ostre kamienie. W całkowitym milczeniu szybko zbliżali się do brzegów tajemniczego stawu.",
+            "Wreszcie byli na miejscu. Tu już mogli się wyprostować: sitowie, trzciny i nadbrzeżne krzaki były tak wysokie, że całkiem ich zakrywały. Boka nie tracąc zimnej krwi wydawał komendy.",
+            "- Gdzieś tu, w pobliżu, powinna znajdować się łódka. Ja z Nemeczkiem pójdę szukać łodzi w prawo, a ty, Czonakosz na lewo. Kto pierwszy znajdzie łódkę, ten niech zaczeka przy niej.",
+            "Natychmiast ruszyli na poszukiwanie. Ledwo zrobili kilka kroków, Boka dojrzał łódkę wśród sitowia.",
+            "- Zaczekajmy - powiedział.",
+            "Czekali, aż Czonakosz okrąży cały staw i nadejdzie z drugiej strony. Usiedli na brzegu i przez chwilę patrzyli na gwiaździste niebo. Potem zaczęli nadstawiać uszu z nadzieją, że usłyszą prowadzone na wyspie rozmowy. Nemeczek chciał się popisać przed Boką.",
+            "- Słuchaj - powiedział - przyłożę ucho do ziemi, to może coś usłyszę.",
+            "- Daj spokój - odpowiedział Boka. - Nie ma co przykładać ucha do ziemi nad stawem. Ale jeśli nachylimy się nad wodą, to będziemy wszystko słyszeć. Widziałem, jak rybacy na Dunaju w taki sposób porozumiewali się ze sobą z obu brzegów rzeki. Zwłaszcza wieczorem głos doskonale niesie się po wodzie.",
+            "Pochylili się nad powierzchnią stawu, ale żadnego słowa nie usłyszeli wyraźnie. Z wyspy dobiegały tylko jakieś ściszone głosy i szmery. Wreszcie nadszedł Czonakosz i zrozpaczony zameldował:",
+            "- Nigdzie nie ma tej łodzi.",
+            "- Nie martw się, staruszku - pocieszył go Nemeczek - znaleźliśmy ją.",
+            "Ruszyli razem w stronę łódki.",
+            "- Wsiadamy?",
+            "- Nie tutaj - postanowił Boka. - Naprzód musimy przeholować łódź na przeciwległy brzeg, żebyśmy nie znaleźli się w pobliżu tego mostu, jeśli nas zauważą. Musimy przeprawić się na wyspę w miejscu najbardziej odległym od mostu. Wtedy będą musieli nadrobić duży kawałek, żeby nas dogonić.",
+            "Ta przezorność spodobała się obu chłopcom. Świadomość, że ich dowódca potrafi tak mądrze wszystko przewidywać, dodała im otuchy. Boka odezwał się:",
+            "- Czy ktoś z was ma linkę?",
+            "Czonakosz miał. Zresztą w kieszeni Czonakosza było wszystko. Nie ma takiego straganu na świecie, na którym byłoby tyle najrozmaitszych rzeczy, co w kieszeniach Czonakosza. A więc miał on przy sobie scyzoryk, sznurek, kulki, mosiężną klamkę, gwoździe, klucze, szmaty, notes, śrubokręt i Bóg jeden wie, co jeszcze. Czonakosz wydobył linkę, a Boka przywiązał ją do znajdującego się na dziobie łodzi kółka. Po czym ostrożnie i powoli zaczęli ciągnąć łódź wzdłuż brzegu, w kierunku przeciwległej strony wyspy."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/59.png",
+          "alt": "Chłopcy ciągną łódź wzdłuż brzegu stawu."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "W czasie holowania cały czas bacznie obserwowali wyspę. Kiedy wreszcie dobrnęli do tego miejsca, z którego chcieli się przeprawić, znów usłyszeli gwizd, taki sam jak poprzednio. Tym razem jednak już się nie przestraszyli. Wiedzieli bowiem, że ten gwizd oznacza zmianę warty. Nie bali się również i z tego względu, że poczuli się nagle w ogniu walki. Tak samo bywa z żołnierzami w czasie prawdziwej wojny. Póki nie zobaczą wroga, boją się byle krzaka. Kiedy jednak pierwsza kula świśnie im koło ucha, nabierają odwagi, ryzyko walki wciąga ich bez reszty i nie myślą o tym, że idą po śmierć."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 4449,
+        "end": 4530
+      },
+      "vocabulary": [
+        {
+          "phrase": "sitowie",
+          "match": "sitowie",
+          "uk": "очерет",
+          "ru": "камыш"
+        },
+        {
+          "phrase": "przeholować",
+          "match": "przeholować",
+          "uk": "перетягти",
+          "ru": "перетащить"
+        },
+        {
+          "phrase": "linkę",
+          "match": "linkę",
+          "uk": "мотузку",
+          "ru": "верёвку"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Dlaczego chłopcy holują łódź na drugi brzeg?",
+          "answer": "Żeby przeprawić się daleko od mostu."
+        },
+        {
+          "question": "Kto ma przy sobie linkę?",
+          "answer": "Czonakosz."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Przeprawa na wyspę",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy zaczęli wsiadać do łódki. Pierwszy wskoczył Boka. Za nim Czonakosz. Nemeczek lękliwie dreptał po mulistym brzegu.",
+            "- Chodźże, staruszku, chodźże - zachęcał go Czonakosz.",
+            "- Idę, staruszku, idę - odpowiedział Nemeczek i w tym momencie Pośliznął się, ze strachu chwycił trzcinę i nie pisnąwszy nawet wpadł do wody. Zanurzył się aż po szyję. Nie krzyknął jednak i natychmiast się podniósł. Było tam płytko. Woda ściekała z niego strugami, w dłoni trzymał wciąż kurczowo cieniutką trzcinę i wyglądał bardzo śmiesznie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/60.png",
+          "alt": "Przemoczony Nemeczek trzyma trzcinę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czonakosz nie mógł powstrzymać się od śmiechu.",
+            "- Napiłeś się, staruszku? - parsknął.",
+            "- Nie napiłem - odpowiedział z przerażoną miną blondynek i zabłocony, przemoknięty do suchej nitki, wgramolił się do łodzi. Był całkiem blady z wrażenia.",
+            "- Nie myślałem, że dziś jeszcze będę się kąpał - dodał cicho.",
+            "Nie było chwili do stracenia. Boka i Czonakosz chwycili za wiosła i odepchnęli łódź od brzegu. Ciężka łajba leniwie wypłynęła na staw, marszcząc gładką powierzchnię wody. Bezszelestnie zanurzali pióra wioseł. Panowała tak wielka cisza, że słychać było, jak siedzącemu na dziobie Nemeczkowi szczękają z zimna zęby. Po kilku chwilach dziób łodzi dotknął brzegu wyspy. Chłopcy w pośpiechu wyskoczyli na ląd i natychmiast ukryli się w krzakach.",
+            "- No, wreszcie. Jesteśmy - powiedział Boka i ostrożnie, cicho zaczął się skradać wzdłuż brzegu. Obaj chłopcy za nim.",
+            "- Hej! - dowódca odwrócił się nagle - nie możemy przecież zostawić łodzi bez opieki. Jeśli odkryją łódź, to nie będziemy mogli wrócić z wyspy. Ty, Czonakosz, zostaniesz przy czółnie. A gdyby ktoś zauważył łódź, wsadź palce do ust i gwizdnij najgłośniej, jak potrafisz. Wrócimy wtedy pędem, wskoczymy do łodzi, a ty ją odepchniesz od brzegu.",
+            "Czonakosz smętnie wrócił do czółna, ale w skrytości ducha cieszył się, że może nadarzy się okazja do takiego gwizdnięcia, ile sił w płucach..."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 4530,
+        "end": 4799
+      },
+      "vocabulary": [
+        {
+          "phrase": "mulistym",
+          "match": "mulistym",
+          "uk": "мулистим",
+          "ru": "илистым"
+        },
+        {
+          "phrase": "łajba",
+          "match": "łajba",
+          "uk": "човен",
+          "ru": "лодка"
+        },
+        {
+          "phrase": "czółna",
+          "match": "czółna",
+          "uk": "човна",
+          "ru": "челнока"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co przydarzyło się Nemeczkowi na brzegu?",
+          "answer": "Pośliznął się i wpadł do wody."
+        },
+        {
+          "question": "Kto zostaje przy łodzi?",
+          "answer": "Czonakosz."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "Gereb wśród czerwonych koszul",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka natychmiast ruszył z Nemeczkiem wzdłuż brzegu. Tam gdzie zarośla były wysokie i zakrywały ich, prostowali się i biegli, gdzie niższe - skradali się. Przy jednym z wysokich krzaków zatrzymali się wreszcie. Rozchylili gałęzie, spojrzeli na położoną pośrodku wyspy polanę i zobaczyli siejący postrach oddział czerwonych koszul. Nemeczkowi zaczęło walić serce. Przytulił się do Boki.",
+            "- Nie bój się - szepnął mu do ucha dowódca."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/61.png",
+          "alt": "Boka uspokaja Nemeczka przed polaną."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na środku polany znajdował się duży głaz, a na nim stała ręczna latarnia. Wokół niej siedzieli czerwoni. Rzeczywiście, każdy z nich miał na sobie czerwoną koszulę. Koło Feriego Acza przykucnęło dwóch Pastorów. Obok mniejszego Pastora siedział ktoś, kto nie miał na sobie czerwonej koszuli.",
+            "Nemeczek nagle zaczął dygotać i Boka natychmiast to wyczuł.",
+            "- Ty... - powiedział Nemeczek i nic więcej nie mógł z siebie wykrztusić. - Ty... ty... - Po chwili cichutko dodał: - Poznajesz go?",
+            "- Poznaję - odpowiedział ze smutkiem Boka.",
+            "Wśród czerwonych siedział nie kto inny jak Gereb. A więc Boka nie omylił się, kiedy przez lornetkę patrzył ze wzgórza. To rzeczywiście Gereb krążył z latarnią po wyspie. Teraz więc ze zdwojoną uwagą obserwowali czerwonych. W poświacie latarni niesamowicie wyglądały ogorzałe twarze Pastorów oraz czerwone koszule pozostałych chłopców. Wszyscy milczeli, tylko Gereb coś opowiadał. Widocznie mówił o czymś, co bardzo ich interesowało, gdyż pochylili się w jego stronę i z uwagą słuchali. Ale dwóch chłopców z Placu Broni również słyszało - w tej wieczornej ciszy - słowa Gereba.",
+            "- Na Plac można wejść z dwóch stron... - mówił Gereb. - Można wejść od ulicy Pawła, ale nie jest to łatwe, gdyż w regulaminie zapisano, że każdy, kto wchodzi, ma obowiązek zamknąć za sobą zasuwę furtki. Drugie wejście jest od ulicy Marii. Brama do tartaku jest szeroko otwarta i żeby dotrzeć na Plac, trzeba się przedrzeć przez sągi drzewa. Byłoby to jednak o tyle trudne, że wśród sągów znajdują się fortece...",
+            "- Wiem o tym - przerwał mu Feri Acz niskim głosem, na dźwięk którego chłopców z Placu Broni aż ciarki przeszły.",
+            "- Pewno, że wiesz, przecież byłeś tam - ciągnął dalej Gereb. - W fortecach czuwają strażnicy i natychmiast dają znać, jeśli ktoś zbliża się od strony tartaku. Nie radziłbym wam podchodzić od tej strony...",
+            "Ach, więc o to chodzi. Czerwone koszule chcą zająć Plac!",
+            "Gereb mówił dalej:",
+            "- Najlepiej, jeśli z góry ustalimy, kiedy przyjdziecie. Wtedy ja przyjdę na Plac ostatni i zostawię otwartą furtkę. Nie zamknę jej na zasuwę.",
+            "- W porządku - powiedział Feri Acz - masz rację. Nie mam najmniejszego zamiaru zdobywać Placu wtedy, kiedy nikogo na nim nie będzie. Wypowiemy wojnę według wszelkich reguł i zaatakujemy Plac. Jeśli potrafią go obronić, trudno. Jeśli jednak go nie obronią, wówczas zajmiemy Plac i zatkniemy na nim czerwoną flagę. Nie robimy tego zresztą z chęci dokuczenia...",
+            "W tym momencie włączył się jeden z Pastorów:",
+            "- Robimy to tylko dlatego, że nie mamy gdzie grać w palanta. Tu nie wolno, a na ulicy Eszterhazy stale się trzeba wykłócać o miejsce... Potrzebujemy placu do gry, i kropka!",
+            "A więc postanowili wypowiedzieć wojnę z takich samych powodów, z jakich prawdziwe armie ruszają do boju. Rosjanie chcieli panować na morzach i dlatego walczyli z Japonią. Czerwonym koszulom potrzebny był plac do gry w piłkę i nie mogli go zdobyć inaczej jak tylko drogą wojny.",
+            "- A więc ustaliliśmy - odezwał się znów wódz czerwonych koszul - że zostawisz otwartą furtkę od strony ulicy Pawła.",
+            "- Tak! - potwierdził Gereb."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/62.png",
+          "alt": "Gereb zgadza się zostawić otwartą furtkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Biednemu Nemeczkowi serce ścisnęło się z żalu. Stał w mokrym ubraniu i szeroko otwartymi oczami patrzył na skupionych wokół latarni chłopców w czerwonych koszulach oraz na siedzącego wśród nich zdrajcę. W sercu czuł tak ogromną gorycz, że gdy z ust Gereba padło słowo „tak”, co oznaczało, że zgadza się zdradzić Plac Broni, Nemeczek się rozpłakał. Objął Bokę za szyję, popłakiwał cichutko i powtarzał w kółko:",
+            "- Panie kapitanie... panie kapitanie... panie kapitanie..."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/63.png",
+          "alt": "Nemeczek płacze i woła kapitana."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka łagodnie odsunął go od siebie.",
+            "- Płacz nic tu nie pomoże!",
+            "Ale i jego też dławiło w gardle. Bardzo smutne i haniebne było to, co zrobił Gereb."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 4799,
+        "end": 5079
+      },
+      "vocabulary": [
+        {
+          "phrase": "zdrajcę",
+          "match": "zdrajcę",
+          "uk": "зрадника",
+          "ru": "предателя"
+        },
+        {
+          "phrase": "palanta",
+          "match": "palanta",
+          "uk": "лапту",
+          "ru": "лапту"
+        },
+        {
+          "phrase": "furtkę",
+          "match": "furtkę",
+          "uk": "хвіртку",
+          "ru": "калитку"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Kto z chłopców z Placu Broni siedzi wśród czerwonych?",
+          "answer": "Gereb."
+        },
+        {
+          "question": "Co Gereb obiecuje zostawić otwarte?",
+          "answer": "Furtkę od ulicy Pawła."
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": "Ucieczka przez oranżerię",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czerwoni podnieśli się nagle na dany przez Feriego Acza znak.",
+            "- Idziemy do domu - powiedział wódz czerwonych. - Czy wszyscy mają swoją broń?",
+            "- Tak jest - odpowiedzieli chórem i podnieśli z ziemi długie włócznie z zatkniętymi na końcu maleńkimi czerwonymi proporczykami.",
+            "- Naprzód marsz - rozkazał Feri Acz - ustawcie broń w krzakach w kozły!",
+            "Cała grupa, z Ferim Aczem na czele, ruszyła w głąb wyspy. Gereb też poszedł z nimi. Mała polana opustoszała, tylko na stojącym na środku głazie świeciła latarnia. Słychać było oddalające się kroki chłopców, którzy starannie chcieli ukryć swoje włócznie w krzakach.",
+            "Boka poruszył się.",
+            "- Teraz! - szepnął do Nemeczka i sięgnął do kieszeni. Wyjął czerwoną kartkę papieru, w którą była już wbita pinezka. Rozchylił gałęzie i rozkazał Nemeczkowi:",
+            "- Czekaj tu na mnie. Nie ruszaj się!",
+            "I wybiegł na polankę, na której jeszcze przed chwilą siedzieli czerwoni. Nemeczek z zapartym tchem patrzył na swego dowódcę. Boka podbiegł najpierw do stojącego na skraju polany dużego drzewa o rozłożystej koronie, która niczym parasol przykrywała niemal całą wysepkę. W jednej sekundzie przytwierdził kartkę do drzewa, po czym podkradł się do latarni. Otworzył jedną z szybek i zdmuchnął palącą się w środku świeczkę. W tej samej chwili zapanowała ciemność i Nemeczek przestał widzieć Bokę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/64.png",
+          "alt": "Boka gasi latarnię i zapada ciemność."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Zanim jego oczy przywykły do ciemności, Boka stanął obok i mocno chwycił go za ramię.",
+            "- Pędź za mną, galopem!",
+            "I pognali w stronę brzegu, do łodzi. Czonakosz, gdy tylko ich zobaczył, wskoczył do łodzi, oparł wiosło o brzeg, gotów w każdej chwili odpłynąć. Obaj chłopcy w biegu wskoczyli do łodzi.",
+            "- Odjazd! - wydyszał Boka.",
+            "Czonakosz mocno napierał na wiosło, ale łódź ani drgnęła. Z dużą siłą dobili poprzednio do brzegu i dno łodzi wryło się w piasek niemal do połowy. Któryś z nich musiał wysiąść na brzeg, aby unieść dziób i zepchnąć łódź na wodę.",
+            "Tymczasem od strony polanki zaczęły dobiegać głosy. Czerwoni wrócili na polanę i zastali zgaszoną latarnię. Początkowo myśleli, że to wiatr ją zgasił, ale gdy Feri Acz spostrzegł otwartą szybkę, ryknął pełnym głosem:",
+            "- Tu ktoś był!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/65.png",
+          "alt": "Feri Acz krzyczy, że ktoś tu był."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czerwoni zapalili latarnię i wtedy wszystkim natychmiast rzuciła się w oczy przybita do drzewa kartka:",
+            "TU BYLI CHŁOPCY Z PLACU BRONI.",
+            "Feri Acz znów ryknął:",
+            "- Jeśli tu byli, to jeszcze tu są! Za mną!",
+            "Głośno gwizdnął. Przybiegli wartownicy i zameldowali, że przez most nikt nie mógł dostać się na wyspę.",
+            "- Przypłynęli łódką! - powiedział młodszy Pastor.",
+            "Zajęci spychaniem łodzi na wodę trzej chłopcy z przerażeniem usłyszeli okrzyk:",
+            "- Za nimi!",
+            "Ale akurat w tym momencie udało się Czonakoszowi zepchnąć łódź na wodę i samemu wskoczyć. Natychmiast chwycili za wiosła i z całych sił zaczęli zagarniać wodę.",
+            "Feri Acz darł się tymczasem na całe gardło:",
+            "- Wendauer, na drzewo, rozejrzyj się, gdzie oni są! Pastorowie na most, biegiem okrążyć brzeg, jeden w lewo, drugi w prawo!",
+            "Wydawało się już, że chłopcy z Placu Broni dostali się w potrzask. Nim bowiem wykonają jeszcze tych kilka pociągnięć wiosłem i dobiją do brzegu, szybko biegnący Pastorowie okrążą staw i odetną im drogę ucieczki. Jeśli zaś dobiją do brzegu przed Pastorami, wartownik dostrzeże ich z drzewa gołym okiem i wskaże kierunek ucieczki. Z łodzi było widać, jak Feri Acz z latarnią w ręku biegnie brzegiem wyspy. Po chwili rozległ się tupot nóg po deskach mostu, to właśnie Pastorowie rzucili się w pościg...",
+            "Nim jednak wartownik wdrapał się na drzewo, chłopcy znaleźli się na lądzie.",
+            "- Łódź dobiła do brzegu! - rozległo się wołanie z drzewa. I natychmiast odezwał się głęboki głos wodza czerwonych koszul:",
+            "- Wszyscy biegiem za nimi!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/66.png",
+          "alt": "Czerwone koszule ruszają w pościg."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ale trójka chłopców gnała już wtedy co tchu.",
+            "- Żeby nas tylko nie dogonili - krzyknął w biegu Boka. - Jest ich dużo więcej!",
+            "Pędzili na przełaj, przez alejki, trawniki, na przodzie Boka, za nim dwóch pozostałych. Kierowali się prosto na oranżerię.",
+            "- Skryjemy się w szklarni! - wydyszał Boka pędząc w kierunku małych drzwi. Na szczęście były otwarte. Wśliznęli się do środka i skryli się za wielkimi cyprysami."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/67.png",
+          "alt": "Chłopcy chowają się za cyprysami w szklarni."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na zewnątrz panowała cisza. Ścigający stracili widocznie trop.",
+            "Trójka chłopców mogła teraz chwilkę odpocząć. Rozejrzeli się po dziwnym pomieszczeniu, przez którego szklany dach i ściany przenikał nikły blask miejskiego wieczoru. Ta wielka oranżeria była miejscem niezwykłym i ciekawym. Znajdowali się w lewym jej skrzydle, za nim ciągnęła się środkowa część budynku, a dalej było prawe skrzydło. Wzdłuż całej szklarni stały w ogromnych zielonych donicach drzewa o grubych pniach i wielkich liściach. W długich skrzynkach rosły paprocie i mimozy. A pod wielką kopułą środkowej części oranżerii wysoko wspinały się w górę strzeliste palmy o liściach przypominających wachlarze. Rosła tu dosłownie mała dżungla. W samym środku znajdował się basen, w którym pływały złote rybki. Obok stała ławeczka. Dalej rosły magnolie, drzewa laurowe, pomarańczowe i olbrzymie paprocie. Powietrze wypełniał mocny, odurzający zapach tropikalnych roślin. W szklarni było parno i z sufitu oraz ze ścian nieustannie spływała woda. Wielkie krople z pluskiem spadały na grube, mięsiste liście, a kiedy pod ciężarem wody zaszeleściła jakaś palma, wówczas chłopcom wydawało się, że w tej wilgotnej dżungli, między zielonymi donicami, przemykają dziwaczne podzwrotnikowe zwierzęta.",
+            "Chłopcy poczuli się wreszcie bezpieczni, ale jednocześnie chcieli się stąd czym prędzej wymknąć.",
+            "- Żeby tylko nie zamknęli nas w tej oranżerii - szepnął Nemeczek, który wyczerpany siedział u podnóża wielkiej palmy. Było mu w tym ogrzewanym pomieszczeniu bardzo przyjemnie, bo przecież całą odzież miał mokrą.",
+            "- Jeśli do tej pory nie zamknęli, to już nie zamkną - uspokoił go Boka.",
+            "Siedzieli więc i nasłuchiwali. Ale nie dotarł do nich żaden podejrzany dźwięk. Nikomu widać nie przyszło do głowy szukać ich tutaj. Wstali więc i zaczęli błądzić wśród wysokich półek, na których piętrzyły się zielone krzewy, pachnące trawy i kwiaty. Czonakosz z trudem gramolił się na jedną z półek. Usłużny Nemeczek chciał koledze pomóc.",
+            "- Zaczekaj chwilę - powiedział - poświecę ci.",
+            "I nim Boka zdążył przeszkodzić, wyjął z kieszeni zapałki∗, kapnął na jedną z nich, zapałka zapłonęła, ale w następnej chwili natychmiast zgasła, gdyż Boka wytrącił ją Nemeczkowi z ręki.",
+            "- Głupia małpa! - powiedział gniewnie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/68.png",
+          "alt": "Boka gasi zapałkę Nemeczka w szklarni."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Zapomniałeś, że jesteśmy w szklarni! Przecież te ściany są ze szkła... teraz na pewno zobaczyli błysk.",
+            "Chłopcy znieruchomieli i zaczęli nasłuchiwać. Rzeczywiście, Boka miał rację. Czerwoni musieli spostrzec płomyk, który na ułamek sekundy rozświetlił szklarnię, bo słychać już było, skrzypiące po wysypanej żwirem alejce, kroki zmierzające również w stronę drzwi lewego skrzydła. Usłyszeli głośne rozkazy Feriego Acza:",
+            "- Pastorowie do drzwi prawego skrzydła! Sebenicz do środkowych, a ja wejdę tymi!",
+            "Chłopcy z Placu Broni ukryli się w jednej chwili. Czonakosz wśliznął się pod jedną z półek. Nemeczkowi kazali wejść do basenu ze złotymi rybkami, bo i tak już był przemoczony. Malec zanurzył się w wodzie aż po brodę, a głowę schował pod dużą gałęzią paproci. Boce pozostało zaledwie tyle czasu, aby stanąć za otwierającymi się drzwiami.",
+            "Do środka w towarzystwie eskorty wkroczył Feri Acz z latarnią w ręku."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/69.png",
+          "alt": "Feri Acz wchodzi do szklarni z latarnią."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Światło latarni i cień padały na szklane drzwi w ten sposób, że Boka mógł dobrze widzieć Acza, natomiast Acz nie widział Boki. Mógł się więc teraz Boka dobrze przypatrzeć wodzowi czerwonych koszul. Widział go kiedyś z bliska, tylko jeden raz w Ogrodzie Muzealnym. Feri Acz był przystojnym chłopcem, oczy błyszczały mu wojowniczo. Ale szybko zniknął z pola widzenia. Wraz z innymi chłopcami uważnie obszedł wszystkie przejścia, zajrzeli nawet pod niektóre półki. Nikomu jednak nie przyszło do głowy szukać uciekinierów w basenie. A Czonakosza nie znaleźli tylko dlatego, że gdy czerwoni zamierzali właśnie zajrzeć pod półkę, pod którą leżał Czonakosz, jeden z chłopców, nazywany przez Acza Sebeniczem, odezwał się:",
+            "- Oni już dawno wyszli przez drzwi w prawym skrzydle...",
+            "I ruszył natychmiast w tamtą stronę, a pozostali chłopcy, w ferworze pościgu, poszli za nim, przewracając po drodze doniczki.",
+            "Znowu zapanowała cisza.",
+            "Czonakosz pierwszy opuścił swoją kryjówkę.",
+            "- Staruszku - powiedział - jakaś skorupa spadła mi na głowę. Mam wszędzie pełno ziemi.",
+            "I gorliwie zaczął wypluwać piasek. Teraz, niczym wodny potwór, wynurzył się z basenu Nemeczek, woda lała się z niego strugami, a on skarżył się płaczliwym głosem:",
+            "- Czy ja już całe życie będę musiał siedzieć w wodzie? Czy ja jestem żabą, czy co?",
+            "Otrząsnął się niczym mokry pinczerek.",
+            "- Przestań się mazać - uspokajał go Boka. - Chodźmy stąd szybko, żeby ten wieczór się wreszcie skończył...",
+            "Nemeczek westchnął:",
+            "- Och, jakbym chciał być już w domu!",
+            "Uzmysłowił sobie jednak natychmiast, jak przywitają go rodzice, kiedy zobaczą mokre ubranie, poprawił się więc szybko:",
+            "- Właściwie to wcale mi się nie chce iść do domu!",
+            "Biegiem wrócili pod akację, w to samo miejsce; gdzie przechodzili przez płot. Czonakosz wdrapał się na drzewo, lecz nim postawił nogę na szczycie ogrodzenia, obejrzał się za siebie i wykrzyknął przestraszony:",
+            "- Idą w naszą stronę!",
+            "- Szybko na drzewo! - rozkazał Boka.",
+            "Czonakosz pomógł wdrapać się na drzewo obu swoim towarzyszom. Wspięli się tak wysoko, jak tylko pozwalały na to konary drzewa. Rozzłościło ich, że właśnie teraz, kiedy już niemal byli za ogrodzeniem, mogli zostać złapani.",
+            "Chłopcy w czerwonych koszulach hałaśliwie zbliżali się do drzewa."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/70.png",
+          "alt": "Czerwone koszule zbliżają się do drzewa."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Trójka uciekinierów w milczeniu przycupnęła wśród zielonych gałęzi... niczym jakieś wielkie ptaszyska.",
+            "I znów odezwał się Sebenicz, ten sam, który w oranżerii odwrócił od nich uwagę oddziału:",
+            "- Widziałem, jak przeskoczyli przez płot.",
+            "Widocznie ten Sebenicz był najgłupszy. A ponieważ z reguły najgłupszy czyni najwięcej hałasu, przeto bez przerwy właśnie on coś wykrzykiwał. Czerwoni, którzy byli dobrze wygimnastykowani, w ciągu jednej chwili przeskoczyli przez płot. Feri Acz przechodził przez ogrodzenie ostatni, a nim to uczynił, zgasił latarnię. Wdrapywał się na parkan przy tym samym drzewie, na którego szczycie siedziały trzy ptaszyska.",
+            "I wtedy z Nemeczka, z którego kapała woda niczym z dziurawego okapu, kilka kropel spadło Aczowi na kark.",
+            "- Zaczyna padać - krzyknął Acz, wytarł szyję i zeskoczył na ulicę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/71.png",
+          "alt": "Krople wody spadają Aczowi na kark."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Są tam! - rozległo się z ulicy i wszyscy pobiegli we wskazanym przez Sebenicza kierunku. Była to kolejna jego pomyłka. Boka zresztą nawet zauważył:",
+            "- Gdyby nie ten Sebenicz, to dawno by już nas złapali...",
+            "Teraz już byli pewni, że udało się im umknąć. Widzieli, jak przeciwnicy rzucili się w pogoń za dwoma spokojnie idącymi sobie ulicą chłopcami.",
+            "Oczywiście obaj chłopcy przestraszyli się i zaczęli uciekać. Czerwoni pędzili za nimi z dzikim rykiem. Hałas zamilkł dopiero gdzieś w dalekiej uliczce peryferyjnej dzielnicy...",
+            "Zeszli z płotu i kiedy ich stopy znów dotknęły bruku ulicy, odetchnęli z ulgą. Po chwili minęła ich jakaś staruszka, a potem pokazali się inni przechodnie. Poczuli, że znajdują się w mieście i nic już im tu nie grozi. Byli zmęczeni i głodni. W pobliskim domu sierot, którego okna przyjaźnie rozjaśniały mrok ulicy, zadzwoniono akurat na kolację.",
+            "Nemeczek dygotał z zimna.",
+            "- Pośpieszmy się - powiedział.",
+            "- Stój - odezwał się Boka. - Pojedziesz do domu tramwajem. Masz, tu są pieniądze.",
+            "Wsadził rękę do kieszeni, ale miał przy sobie tylko trzy grajcary. Poza tymi trzema miedziakami oraz kałamarzykiem, z którego ciągle sączył się niebieski atrament, niczego więcej nie miał w kieszeni. Wyciągnął te trzy zaplamione atramentem grajcary i wręczył je Nemeczkowi:",
+            "- Nie mam więcej."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/72.png",
+          "alt": "Boka oddaje Nemeczkowi grajcary."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czonakosz znalazł dwa grajcary, a Nemeczek miał przy sobie jednego miedziaka z aniołkiem, na szczęście, którego przechowywał w pudełeczku po pigułkach. W sumie zebrało się więc sześć grajcarów. Tyle, ile potrzebne było na bilet.",
+            "Boka zatrzymał się na chwilę. Sprawa Gereba ciągle nie dawała mu spokoju. Stał smutno zamyślony. Jeden Czonakosz nic nie wiedział o zdradzie, był więc rad i wesół.",
+            "- Uważaj, staruszku! - powiedział, gdy Boka spojrzał na niego, włożył dwa palce w usta i przeraźliwie gwizdnął. Z całych sił, jak tylko można najgłośniej. Potem spojrzał na kolegów z zadowoleniem.",
+            "- Przez cały wieczór zbierało się to we mnie - powiedział z łobuzerską miną - i już nie mogłem się powstrzymać.",
+            "Ujął Bokę pod ramię i zmęczeni tyloma emocjami ruszyli w stronę miasta długą ulicą Üllöi."
+          ]
+        }
+      ],
+      "audio": {
+        "start": 5079,
+        "end": 5786
+      },
+      "vocabulary": [
+        {
+          "phrase": "oranżeria",
+          "match": "oranżeria",
+          "uk": "оранжерея",
+          "ru": "оранжерея"
+        },
+        {
+          "phrase": "zapałki",
+          "match": "zapałki",
+          "uk": "сірники",
+          "ru": "спички"
+        },
+        {
+          "phrase": "grajcary",
+          "match": "grajcary",
+          "uk": "крейцери",
+          "ru": "крейцеры"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Co Boka przybija do drzewa na polanie?",
+          "answer": "Czerwoną kartkę: TU BYLI CHŁOPCY Z PLACU BRONI."
+        },
+        {
+          "question": "Gdzie chłopcy chowają się przed pościgiem?",
+          "answer": "W szklarni."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział III",
+    "questions": []
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "id": 9,
+  "title": "Rozdział IX",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Małe i wielkie litery",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Oto kilka stron z Wielkiej Księgi Związku Kitowców:",
+            "PROTOKÓŁ",
+            "Na dzisiejszym walnym zebraniu podjęliśmy następujące uchwały i wpisujemy je niniejszym do Wielkiej Księgi naszego Związku.",
+            "§1",
+            "Na 17 stronie Wielkiej Księgi znajduje się wpis o następującym brzmieniu: erno nemeczek. Małymi literami."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/184.png",
+          "alt": "W wielkiej księdze nazwisko jest zapisane maleńko."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Niniejszy zapis traci ważność, ponieważ został dokonany na skutek pomyłki. Walne zebranie oświadcza niniejszym, że Związek bezpodstawnie obraził wspomnianego członka, który zniósł tę urazę w honorowy sposób, a potem, w czasie wojny, spisał się jak prawdziwy bohater, co jest faktem historycznym. Z tego względu walne zebranie stwierdza, że poprzedni zapis był błędem Związku i że wobec tego protokolant ma wpisać w tym miejscu nazwisko wspomnianego członka samymi dużymi literami.",
+            "§2",
+            "Wpisuję zatem od początku do końca samymi dużymi literami:",
+            "ERNO NEMECZEK"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/185.png",
+          "alt": "Protokolant wpisuje nazwisko ogromnymi literami."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "podpisany: Lesik, protokolant, m.p"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "protokół",
+          "match": "PROTOKÓŁ",
+          "uk": "протокол",
+          "ru": "протокол"
+        },
+        {
+          "phrase": "księga",
+          "match": "Księgi",
+          "uk": "книга",
+          "ru": "книга"
+        },
+        {
+          "phrase": "litera",
+          "match": "literami",
+          "uk": "літера",
+          "ru": "буква"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jakimi literami był wpisany Nemeczek na 17 stronie?",
+          "answer": "Małymi literami: erno nemeczek."
+        },
+        {
+          "question": "Jak protokolant ma wpisać to nazwisko teraz?",
+          "answer": "Samymi dużymi literami: ERNO NEMECZEK."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "W podręczniku",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "§3",
+            "Walne zebranie Związku Kitowców jednogłośnie postanowiło złożyć podziękowanie generałowi Janoszowi Boce za to, że przeprowadził wczorajszą bitwę tak, jak to czynią prawdziwi wodzowie, o których uczyliśmy się na historii. W dowód uznania postanawiamy, że każdy członek Związku Kitowców obowiązany jest w domu w swym podręczniku historii na stronie 168, czwarty wiersz od góry, obok tytułu „Hetman Janosz Hunyadi”∗, dopisać atramentem „i Janosz Boka”."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/186.png",
+          "alt": "Chłopiec dopisuje atramentem w podręczniku historii."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Podjęliśmy tę uchwałę, ponieważ nasz wódz w pełni na to zasługuje, bo gdyby nie przeprowadził lak dobrze bitwy, to zostalibyśmy pokonani przez czerwone koszule. Każdy zobowiązany jest również do wpisania ołówkiem w rozdziale „Klęska pod Mohaczem”∗∗ nad nazwiskiem arcybiskupa Tomoriego∗∗∗, który również został pokonany: „i Ferenc Acz”."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/187.png",
+          "alt": "Inny chłopiec dopisuje ołówkiem nad nazwiskiem w książce."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "podręcznik",
+          "match": "podręczniku",
+          "uk": "підручник",
+          "ru": "учебник"
+        },
+        {
+          "phrase": "atrament",
+          "match": "atramentem",
+          "uk": "чорнило",
+          "ru": "чернила"
+        },
+        {
+          "phrase": "ołówek",
+          "match": "ołówkiem",
+          "uk": "олівець",
+          "ru": "карандаш"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co członkowie mają dopisać atramentem obok Hunyadiego?",
+          "answer": "„i Janosz Boka”."
+        },
+        {
+          "question": "Co mają dopisać ołówkiem nad Tomorim?",
+          "answer": "„i Ferenc Acz”."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Dwie trąbki",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "§4",
+            "Ponieważ generał Janosz Boka, wbrew naszym sprzeciwom, siłą zarekwirował związkowy majątek (24 grajcary), ponieważ wszyscy musieli oddać to, co posiadali, na cele wojenne, a kupiono tylko jedną trąbkę za l forinta i 40 grajcarów,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/188.png",
+          "alt": "Dwie trąbki i kupka grajcarów na stole."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "chociaż na bazarze Rosera można było dostać trąbkę za 60 lub 50 grajcarów, ale musiano kupić droższą, żeby miała silniejszy głos, i teraz są dwie trąbki, bo w czasie walki zdobyło wojenną trąbkę czerwonych koszul, a że nie trzeba już ani jednej, a nawet gdyby okazała się potrzebna, to zupełnie wystarczy jedna - postanawiamy zażądać zwrotu związkowego majątku (24 grajcarów), więc niech generał Boka sprzeda jedną trąbkę, jak to obiecał,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/189.png",
+          "alt": "Chłopcy chcą, żeby jedną trąbkę sprzedać."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "bo nam są potrzebne pieniądze (24 grajcary)."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "grajcar",
+          "match": "grajcary",
+          "uk": "крейцер",
+          "ru": "крейцер"
+        },
+        {
+          "phrase": "trąbka",
+          "match": "trąbkę",
+          "uk": "сурма",
+          "ru": "горн"
+        },
+        {
+          "phrase": "bazar",
+          "match": "bazarze",
+          "uk": "базар",
+          "ru": "базар"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Ile grajcarów związek chce dostać z powrotem?",
+          "answer": "24 grajcary."
+        },
+        {
+          "question": "Dlaczego kupili droższą trąbkę?",
+          "answer": "Żeby miała silniejszy głos."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Kłótnia o kit",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "§5",
+            "Prezes Związku Pat Kolnay otrzymuje niniejszym naganę od członków za to, że dopuścił do wyschnięcia związkowego kitu. Ponieważ dyskusję w tej sprawie należy zaprotokołować, wpisuję ją niniejszym w całości:",
+            "Prezes: Nie żułem kitu, ponieważ byłem zajęty przygotowaniami do wojny."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/190.png",
+          "alt": "Kolnay tłumaczy, czemu kit wysechł."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Członek Barabasz: Aha, ale to nie jest żadne usprawiedliwienie.",
+            "Prezes: Barabasz zawsze się mnie czepia, więc ja przywołuję go do porządku. Ja chętnie żuję kit, bo dobrze wiem, co to jest obowiązek, i po to jestem prezesem, żeby zgodnie z regulaminem żuć związkowy kit, ale nie pozwolę, żeby ktoś mnie się ciągle czepiał.",
+            "Członek Barabasz: Ja się nikogo nie czepiam.",
+            "Prezes: Właśnie że się czepiasz.",
+            "Członek Barabasz: A nie!",
+            "Prezes: A tak!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/191.png",
+          "alt": "Kolnay i Barabasz kłócą się: a tak, a nie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Członek Barabasz: A nie!",
+            "Prezes: Dobrze, niech ci będzie.",
+            "Członek Rychter: Szanowni zebrani! Stawiam wniosek, aby do Wielkiej Księgi wpisać naganę dla prezesa za to, że zaniedbał swoje obowiązki.",
+            "Członkowie: Tak jest! Tak jest!",
+            "Prezes: Chciałem się odwołać od tej decyzji i prosić, żeby Związek ten jeden raz mi przebaczył, chociażby z tego względu, że wczoraj walczyłem dzielnie jak dziki lew, że byłem adiutantem i w czasie największego niebezpieczeństwa wybiegłem na szaniec, i przeciwnik rozłożył mnie na ziemi, i cierpiałem za nasze państwo, więc dlaczego mam jeszcze teraz dodatkowo cierpieć za to, że nie żułem związkowego kitu.",
+            "Członek Barabasz: To zupełnie co innego.",
+            "Prezes: Wcale nie co innego.",
+            "Członek Barabasz: Co innego.",
+            "Prezes: A nie!",
+            "Członek Barabasz: A tak!",
+            "Prezes: Dobrze, niech ci będzie."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "kit",
+          "match": "kitu",
+          "uk": "замазка",
+          "ru": "замазка"
+        },
+        {
+          "phrase": "nagana",
+          "match": "naganę",
+          "uk": "догана",
+          "ru": "выговор"
+        },
+        {
+          "phrase": "czepiać się",
+          "match": "czepia",
+          "uk": "чіплятися",
+          "ru": "придираться"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Dlaczego Kolnay nie żuł kitu?",
+          "answer": "Bo był zajęty przygotowaniami do wojny."
+        },
+        {
+          "question": "Kto ciągle się z nim spiera?",
+          "answer": "Barabasz."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Nagana",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Członek Rychter. Proszę o przyjęcie mego wniosku.",
+            "Członkowie: Przyjmujemy, przyjmujemy.",
+            "Głosy z lewej strony: Nie przyjmujemy.",
+            "Prezes: To głosujmy.",
+            "Członek Barabasz: Proszę o przeprowadzenie głosowania, każdy oddzielnie, po nazwisku.",
+            "Głosowanie zostaje przeprowadzone."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/192.png",
+          "alt": "Członkowie głosują, podnosząc ręce."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Prezes: Większością trzech głosów Związek postanowił, że prezes Pat Kolnay zostaje ukarany naganą. Ale to świństwo.",
+            "Członek Barabasz: Prezes nie ma prawa używać w stosunku do większości ordynarnych słów.",
+            "Prezes: A ma!",
+            "Członek Barabasz: A nie ma.",
+            "Prezes: A ma.",
+            "Członek Barabasz: A nie ma.",
+            "Prezes: Dobrze, niech ci będzie.",
+            "Tym samym porządek dzienny został wyczerpany i prezes zamknął obrady.",
+            "protokołował Lesik m.p.",
+            "przewodniczył Kolnay m.p.",
+            "nadal jednak utrzymuję, że jest to świństwo."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/193.png",
+          "alt": "Lesik dopisuje na końcu, że to świństwo."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "głosowanie",
+          "match": "głosowania",
+          "uk": "голосування",
+          "ru": "голосование"
+        },
+        {
+          "phrase": "nagana",
+          "match": "naganą",
+          "uk": "догана",
+          "ru": "выговор"
+        },
+        {
+          "phrase": "świństwo",
+          "match": "świństwo",
+          "uk": "свинство",
+          "ru": "свинство"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Ilu głosami Kolnay dostał naganę?",
+          "answer": "Większością trzech głosów."
+        },
+        {
+          "question": "Co Lesik dopisał na samym końcu?",
+          "answer": "Że nadal uważa tę naganę za świństwo."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział IX",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Jak najpierw zapisano Nemeczka w księdze?",
+        "options": [
+          "Małymi literami",
+          "Samymi dużymi literami",
+          "Wcale go nie zapisano"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Co dopisują obok hetmana Hunyadiego?",
+        "options": [
+          "i Ferenc Acz",
+          "i Janosz Boka",
+          "i Pat Kolnay"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co dopisują nad arcybiskupem Tomorim?",
+        "options": [
+          "i Ferenc Acz",
+          "i Janosz Boka",
+          "i Nemeczek"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Ile grajcarów związek chce z powrotem?",
+        "options": [
+          "40",
+          "24",
+          "60"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Za co Kolnay dostaje naganę?",
+        "options": [
+          "Za sprzedaż trąbki",
+          "Za kłótnię z Boką",
+          "Za wyschnięty kit"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Kto stawia wniosek o naganę?",
+        "options": [
+          "Rychter",
+          "Barabasz",
+          "Lesik"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Jaką większością przyjęto naganę?",
+        "options": [
+          "Jednego głosu",
+          "Trzech głosów",
+          "Wszystkich głosów"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co Lesik dopisuje na końcu protokołu?",
+        "options": [
+          "Że kit był smaczny",
+          "Że to świństwo",
+          "Że Boka jest hetmanem"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

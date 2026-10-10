@@ -1,0 +1,1094 @@
+{
+  "id": 4,
+  "title": "Rozdział IV",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Zbiórka o drugiej",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Zegar znów wybił godzinę pierwszą i chłopcy w klasie zaczęli pakować książki. Pan profesor Rac zatrzasnął dziennik i stanął na katedrze. Zawsze usłużny prymus Czengey podbiegł do nauczyciela i pomógł mu włożyć palto. Siedzący w różnych ławkach chłopcy z Placu Broni spoglądali na Bokę w oczekiwaniu poleceń. Wiedzieli, że dziś po południu, już o drugiej, odbędzie się zbiórka na Placu, ponieważ trzyosobowy patrol zwiadowczy miał złożyć sprawozdanie z wyprawy do Ogrodu Botanicznego. O tym, że wyprawa się udała i przewodniczący chłopców z Placu Broni dzielnie zrewizytował czerwone koszule - wszyscy już wiedzieli. Ale chłopcy ciekawi byli szczegółów wyprawy, przygód, jakie się przydarzyły wysłannikom, oraz niebezpieczeństw, które musieli pokonać. Z Boki nawet obcęgami nie wyrwaliby słowa na ten temat. Czonakosz plótł jak zwykle, co mu ślina na język przyniosła, i okropnie przy tym blagował. Opowiadał o jakichś dzikich zwierzętach, z którymi spotkali się w ruinach zamku w Ogrodzie Botanicznym, mówił, że Nemeczek omal nie utonął w stawie... że czerwoni siedzieli na wyspie wokół olbrzymiego, płonącego stosu... Wszystko mu się przy tym plątało i zawsze zapominał o tym, co najważniejsze. Poza tym co chwila ogłuszał słuchaczy przeraźliwymi gwizdami, którymi kończył każde zdanie, co dodatkowo utrudniało słuchanie.",
+            "Nemeczek natomiast czuł się bardzo ważny i swoją tajemniczością jeszcze podsycał ciekawość. Gdy pytano go o wydarzenia, odpowiadał z powagą:",
+            "- Nie wolno mi nic powiedzieć."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/73.png",
+          "alt": "Nemeczek odmawia opowiedzieć o wyprawie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Albo też:",
+            "- Zapytajcie naszego przewodniczącego.",
+            "Wszyscy okropnie zazdrościli Nemeczkowi, który, mimo że był tylko szeregowcem, wziął udział w tak wspaniałej wyprawie. Panowie podporucznicy i porucznicy czuli, że po tych wydarzeniach szeregowy Nemeczek stał się znacznie ważniejszy od nich, ba, niektórzy nawet zaczęli głosić, że malca niezwłocznie awansują na oficera i na Placu, poza czarnym psem Słowaka - Hektorem, nie będzie już żadnego szeregowca...",
+            "Nim jeszcze pan profesor Rac opuścił klasę, Boka podniósł do góry dwa palce."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/74.png",
+          "alt": "Boka podnosi dwa palce, a chłopcy salutują."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Miało to znaczyć, że o drugiej godzinie spotykają się na Placu. Inni chłopcy, którzy nie należeli do grupy z Placu Broni, odczuwali straszliwą zazdrość, kiedy na ten znak Boki wtajemniczeni potwierdzili salutowaniem, iż wiedzą, o co mu chodzi. O drugiej na Placu!"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "prymus",
+          "match": "prymus",
+          "uk": "відмінник",
+          "ru": "отличник"
+        },
+        {
+          "phrase": "szeregowiec",
+          "match": "szeregowcem",
+          "uk": "рядовий",
+          "ru": "рядовой"
+        },
+        {
+          "phrase": "zbiórka",
+          "match": "zbiórka",
+          "uk": "збір",
+          "ru": "сбор"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "O której godzinie chłopcy z Placu Broni mieli się spotkać?",
+          "answer": "O drugiej."
+        },
+        {
+          "question": "Dlaczego koledzy zazdrościli Nemeczkowi?",
+          "answer": "Bo jako szeregowiec wziął udział w wyprawie do Ogrodu Botanicznego."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Wezwanie profesora Raca",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Już chcieli wychodzić z klasy, kiedy nastąpiło coś nieoczekiwanego.",
+            "Profesor Rac zatrzymał się na stopniu katedry.",
+            "- Zaczekajcie - powiedział.",
+            "Natychmiast zapanowała cisza.",
+            "Nauczyciel wyciągnął z kieszeni palta małą karteczkę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/75.png",
+          "alt": "Profesor Rac czyta nazwiska z karteczki."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Włożył okulary i zaczął odczytywać:",
+            "- Weiss!",
+            "- Obecny - odpowiedział z przestrachem w głosie Weiss.",
+            "Profesor czytał dalej następujące nazwiska:",
+            "- Rychter! Czele! Kolnay! Barabasz! Lesik! Nemeczek!",
+            "Wyczytywani odpowiadali kolejno:",
+            "- Obecny! Obecny!",
+            "Profesor Rac schował kartkę do kieszeni i powiedział:",
+            "- Przed pójściem do domu zgłosić się do mnie w pokoju nauczycielskim. Mam do was małą sprawę.",
+            "Po czym, nie wyjaśniając przyczyny tego dziwnego zaproszenia, wyszedł z klasy.",
+            "W klasie aż zaszumiało.",
+            "- Dlaczego nas wzywa?",
+            "- Dlaczego mamy zostać?",
+            "- Czego od nas chce?",
+            "Takie pytania zadawali sobie wezwani przez profesora chłopcy. A ponieważ tak się złożyło, że wszyscy wyczytani byli z Placu Broni, więc cała klasa natychmiast zgromadziła się wokół Boki.",
+            "- Ja też nie wiem, o co może chodzić - powiedział przewodniczący - Idźcie, a ja zaczekam na was na korytarzu.",
+            "Następnie Boka zwrócił się do swoich podkomendnych:",
+            "- Wobec tego spotkamy się nie o drugiej, lecz o trzeciej."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/76.png",
+          "alt": "Boka przenosi zbiórkę na trzecią."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ze względu na tę nieprzewidzianą przeszkodę."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "katedra",
+          "match": "katedry",
+          "uk": "кафедра",
+          "ru": "кафедра"
+        },
+        {
+          "phrase": "karteczka",
+          "match": "karteczkę",
+          "uk": "картка",
+          "ru": "записка"
+        },
+        {
+          "phrase": "przeszkoda",
+          "match": "przeszkodę",
+          "uk": "перешкода",
+          "ru": "помеха"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kogo profesor Rac wyczytał z karteczki?",
+          "answer": "Weissa, Rychtera, Czelego, Kolnaya, Barabasza, Lesika i Nemeczka."
+        },
+        {
+          "question": "Na którą godzinę Boka przeniósł zbiórkę?",
+          "answer": "Na trzecią."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Przy zielonym stole",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wielki korytarz szkolny zaludnił się w mgnieniu oka. Z innych klas również wychodzili uczniowie. Na cichym przed chwilą korytarzu zapanował gwar, tłok, wzajemne przepychanie się. Wszyscy bardzo się śpieszyli.",
+            "- Zostajecie w kozie? - jakiś chłopiec zwrócił się do smutnej grupki sterczącej pod drzwiami nauczycielskiego pokoju.",
+            "- Nie - odpowiedział hardo Weiss.",
+            "Chłopiec odwrócił się i wybiegł ze szkoły. Patrzyli za nim z zazdrością. Mógł spokojnie iść do domu...",
+            "Po kilku minutach oczekiwania otworzyły się drzwi pokoju nauczycielskiego i zza mlecznej szyby wyłoniła się wysoka, szczupła sylwetka profesora Raca.",
+            "- Wejdźcie - powiedział i ruszył pierwszy.",
+            "W pokoju nauczycielskim było pusto. Chłopcy w śmiertelnej ciszy stanęli wokół długiego zielonego stołu."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/77.png",
+          "alt": "Chłopcy stoją wokół zielonego stołu."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ostatni z wchodzących ostrożnie zamknął za sobą drzwi. Profesor Rac usiadł na głównym miejscu przy stole i spojrzał na chłopców.",
+            "- Czy wszyscy są?",
+            "- Tak.",
+            "Z dołu, z podwórza, dobiegał radosny gwar śpieszących do domu uczniów. Nauczyciel zamknął okno i w dużym pokoju, z półkami pełnymi książek, zapanowała głucha, złowroga cisza. Po dłuższej chwili przerwał ją głos nauczyciela:",
+            "- Dowiedziałem się, że założyliście jakieś stowarzyszenie. Dlatego was tu wezwałem. Podobno ta wasza organizacja nazywa się Związkiem Kitowców. Ten, który mnie o tym poinformował, wręczył mi listę członków tego związku. Czy to prawda , że należycie do tego związku?",
+            "Nikt nie odpowiadał. Wszyscy stali w milczeniu obok siebie z nisko opuszczonymi głowami, co było najlepszym dowodem prawdziwości powyższego oskarżenia."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/78.png",
+          "alt": "Chłopcy milczą ze spuszczonymi głowami."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nauczyciel mówił dalej:",
+            "- Zacznijmy od początku. Przede wszystkim chcę wiedzieć, kto założył ten związek, kiedy jasno i wyraźnie oświadczyłem, że nie pozwalam na zakładanie żadnej, ale to żadnej organizacji.",
+            "Nikt jednak nie odpowiadał."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "koza",
+          "match": "kozie",
+          "uk": "карцер",
+          "ru": "карцер"
+        },
+        {
+          "phrase": "stowarzyszenie",
+          "match": "stowarzyszenie",
+          "uk": "товариство",
+          "ru": "общество"
+        },
+        {
+          "phrase": "oskarżenie",
+          "match": "oskarżenia",
+          "uk": "звинувачення",
+          "ru": "обвинение"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jak nazywało się stowarzyszenie, o którym mówił profesor?",
+          "answer": "Związek Kitowców."
+        },
+        {
+          "question": "Jak chłopcy zareagowali na pytanie profesora?",
+          "answer": "Milczeli i stali ze spuszczonymi głowami."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Bryła kitu",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Po długiej ciszy odezwał się wreszcie jakiś zalękniony głos:",
+            "- To Weiss.",
+            "Profesor Rac surowo spojrzał na Weissa.",
+            "- Weiss! Czy ty nie potrafisz się sam zgłosić?",
+            "- Ależ tak, potrafię - odpowiedział cichutko Weiss.",
+            "- To dlaczego nie przyznałeś się od razu?",
+            "Na to pytanie biedny Weiss nie znalazł odpowiedzi. Profesor Rac zapalił cygaro i wypuścił kłąb dymu.",
+            "- No to po kolei - powiedział. - Po pierwsze powiedz mi, o jakich tu kitowców chodzi, co to w ogóle znaczy?",
+            "Zamiast odpowiedzi Weiss wyjął z kieszeni dużą bryłę kitu i położył ją na stole."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/79.png",
+          "alt": "Weiss kładzie na stole bryłę kitu."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Przez chwilę patrzył na nią, a potem tak cicho, że ledwo go było słychać, powiedział:",
+            "- To jest właśnie kit.",
+            "- A cóż to takiego? - zapytał nauczyciel.",
+            "- Kit to kit, to taka masa, którą przykleja się szyby do ram okiennych. Szklarz wkłada szybę w ramę, i potem przylepiają kitem, a my to wydłubujemy paznokciem.",
+            "- I to ty wydrapałeś ten cały kit?",
+            "- Nie, panie profesorze. To jest związkowy kit.",
+            "Nauczyciel uniósł brwi ze zdziwienia.",
+            "- Co takiego? - zapytał.",
+            "Weiss nabrał nieco odwagi.",
+            "- To jest kit zebrany przez członków związku - powiedział - a zarząd mnie właśnie powierzył jego przechowywanie. Poprzednio Kolnay przechowywał kit, bo on jest naszym skarbnikiem, ale u niego kit wysechł, bo go nigdy nie żuł.",
+            "- Więc ten kit trzeba żuć?",
+            "- Tak, bo inaczej wysycha i wtedy nie można go ugniatać. Ja codziennie żułem kit.",
+            "- Dlaczego właśnie ty?",
+            "- Bo zgodnie z naszym statutem prezes powinien przynajmniej raz dziennie żuć związkowy kit, żeby nie stwardniał...",
+            "Tu Weiss załamał się, wybuchnął płaczem i pochlipując dodał:",
+            "- A teraz właśnie ja... jestem prezesem."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/80.png",
+          "alt": "Weiss płacze i mówi, że jest prezesem."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "kit",
+          "match": "kit",
+          "uk": "замазка",
+          "ru": "замазка"
+        },
+        {
+          "phrase": "statut",
+          "match": "statutem",
+          "uk": "статут",
+          "ru": "устав"
+        },
+        {
+          "phrase": "prezes",
+          "match": "prezesem",
+          "uk": "голова",
+          "ru": "председатель"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co Weiss położył na stole?",
+          "answer": "Dużą bryłę kitu."
+        },
+        {
+          "question": "Dlaczego prezes miał żuć związkowy kit?",
+          "answer": "Żeby kit nie stwardniał."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Skąd wziął się kit",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Napięcie wzrosło. Głos nauczyciela brzmiał surowo:",
+            "- W jaki sposób zebraliście taki ogromny kawał kitu?",
+            "Zapanowała cisza. Nauczyciel spojrzał na Kolnaya.",
+            "- Kolnay! Gdzie to zebraliście?",
+            "Kolnay zaczął trajkotać tak gorliwie, jakby wierzył, że swoim szczerym wyznaniem wyratuje kolegów z opresji.",
+            "- Bo proszę pana psora, myśmy to uzbierali przez cały miesiąc. Naprzód to ja żułem, ale wtedy ten kit był mniejszy. Pierwszy kawałek przyniósł Weiss i od tego się zaczęło, wtedy założyliśmy nasz związek. Ojciec zabrał Weissa na przejażdżkę dorożką i on wydrapał kit z okna. Aż paznokcie sobie rozkrwawił. Potem ktoś wybił szybę w auli, więc całe popołudnie czekałem, aż przyjdzie szklarz, a on przyszedł dopiero o piątej i ja go wtedy poprosiłem, żeby dał mi trochę kitu, ale on nic nie odpowiedział, po prostu nie mógł mówić, bo on miał całą paszczę kitu.",
+            "Nauczyciel surowo zmarszczył brwi."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/81.png",
+          "alt": "Profesor marszczy brwi, a Kolnay opowiada."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Jak ty się wyrażasz? Zwierzę ma paszczę, nie człowiek!",
+            "- Przepraszam, całe usta miał pełne kitu. Bo żuł kit. Więc podszedłem i poprosiłem go, żeby pozwolił mi się przyglądać, jak będzie wprawiał szybę. Patrzyłem, jak przyciął szybę, wprawił ją i wreszcie poszedł. A kiedy już poszedł, to ja zaraz wydrapałem kit."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/82.png",
+          "alt": "Kolnay wydrapuje kit po odejściu szklarza."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "I zabrałem. Ale nie dla siebie, lecz dla naszego związku... zwią... związ.. kuuu... - i również się rozpłakał.",
+            "- Przestań płakać - powiedział profesor Rac.",
+            "Weiss, który w zdenerwowaniu miętosił róg kurtki, nie omieszkał zauważyć:",
+            "- Zaraz ryczy...",
+            "Ale Kolnay dalej szlochał i to tak rozpaczliwie, że aż serce się krajało. Weiss syknął więc znowu:",
+            "- Nie rycz!",
+            "Ale wkrótce i on zaczął beczeć. Łzy wzruszyły widać profesora Raca. Mocno zaciągnął się cygarem. Wtedy elegancik Czele zdecydował zachować się tak, jak zwykli to czynić rzymscy bohaterowie i jak wczoraj na Placu Broni postąpił Boka, więc godnym krokiem wystąpił przed oblicze profesora i stanowczym głosem oświadczył:",
+            "- Panie profesorze, ja również zbierałem kit dla związku.",
+            "I śmiało spojrzał nauczycielowi w oczy. Profesor Rac zapytał:",
+            "- Skąd go brałeś?",
+            "- Z domu - odpowiedział Czele - stłukłem szybkę w zbiorniczku do kąpieli w klatce dla ptaków. Mama kazała to zaraz naprawić, a ja wydłubałem potem kit i woda wypłynęła na dywan, kiedy kanarek zaczął się kąpać. Ale po co taki kanarek ma się kąpać? Wróble na przykład w ogóle się nie kąpią, są brudne i wcale im to nie przeszkadza.",
+            "Profesor Rac pochylił się na swoim krześle i pogroził Czelemu.",
+            "- Nie rezonuj, Czele, bo ci zaraz zepsuje ten twój dobry humor! Mów dalej, Kolnay!",
+            "Kolnay pochlipywał jeszcze. Wytarł nos i zapytał:",
+            "- A co mam jeszcze mówić?",
+            "- Skąd wzięliście resztę kitu?",
+            "- Czele właśnie przed chwilą powiedział... I związek dał mi raz sześćdziesiąt grajcarów na ten cel...",
+            "To już się panu profesorowi Racowi zupełnie nie podobało.",
+            "- A więc również kupowaliście kit?",
+            "- Nie - odparł Kolnay. - Tylko mój ojciec jest lekarzem i przed południem jeździ fiakrem do pacjentów, raz zabrał mnie ze sobą, a ja z okna wydłubałem kit, bo był bardzo miękki, no to związek dał mi sześć dziesiątek, żebym sam się tym fiakrem przejechał, więc po południu wsiadłem i pojechałem aż na Urzędnicze Parcele, po drodze wydłubałem kit ze wszystkich czterech okien, a potem piechotą wróciłem do domu.",
+            "Profesor zastanowił się chwilę.",
+            "- Czy to było wtedy, kiedy spotkałem cię przy Akademii Sztabu Generalnego?",
+            "- Tak jest.",
+            "- I odezwałem się do ciebie... A ty mi nie odpowiedziałeś.",
+            "Kolnay pochylił głowę i ze smutkiem odparł:",
+            "- Nie mogłem, bo miałem pełną paszczę kitu.",
+            "I Kolnay znów się załamał i znów zaczął płakać.",
+            "Weiss ponownie się zdenerwował, zaczął miętosić w ręku kurtkę i zmieszany powiedział:",
+            "- Znów ryczy...",
+            "I sam w bek."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/83.png",
+          "alt": "Weiss i Kolnay płaczą przed profesorem."
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "szklarz",
+          "match": "szklarz",
+          "uk": "скляр",
+          "ru": "стекольщик"
+        },
+        {
+          "phrase": "fiakier",
+          "match": "fiakrem",
+          "uk": "фіакр",
+          "ru": "фиакр"
+        },
+        {
+          "phrase": "paszcza",
+          "match": "paszczę",
+          "uk": "паща",
+          "ru": "пасть"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kto przyniósł pierwszy kawałek kitu?",
+          "answer": "Weiss."
+        },
+        {
+          "question": "Dlaczego Kolnay nie odpowiedział profesorowi przy Akademii?",
+          "answer": "Bo miał pełną paszczę kitu."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Składki i znaczek",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nauczyciel wstał i zaczął przechadzać się po pokoju.",
+            "- Ładna sprawa. A kto był prezesem?",
+            "Usłyszawszy to pytanie Weiss błyskawicznie uspokoił się. Przestał płakać i dumnie uniósłszy głowę oświadczył:",
+            "- Ja!",
+            "- A kto był skarbnikiem?",
+            "- Kolnay.",
+            "- Oddaj pieniądze, które wam zostały.",
+            "- Proszę.",
+            "Kolnay sięgnął do kieszeni. A miał nie mniej przepastne kieszenie niż Czonakosz. Zaczął w nich grzebać i po kolei wyjmować wszystko, co w nich trzymał. Przede wszystkim wydobył jednego forinta∗ i czterdzieści trzy grajcary. Potem dwa znaczki pocztowe po pięć grajcarów, kartkę pocztową, dwa znaczki skarbowe o wartości jednej korony każdy, osiem nowych stalówek i jedną kolorową kulkę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/84.png",
+          "alt": "Na stole leżą pieniądze, znaczki i kulka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nauczyciel sposępniał na widok pieniędzy i dokładnie je przeliczył.",
+            "- Skąd braliście pieniądze?",
+            "- Ze składek członkowskich. Co tydzień każdy płacił dziesięć grajcarów składki.",
+            "- A po co były wam potrzebne pieniądze?",
+            "- Wpłacaliśmy składki dla zasady. Weiss zrezygnował bowiem jako prezes z pensji.",
+            "- Ile miał dostawać tej pensji?",
+            "- Pięć grajcarów tygodniowo. Ja przyniosłem znaczki, pocztówkę Barabasz, a znaczki skarbowe Rychter. Ojciec mu... to znaczy on je ojcu...",
+            "- Ukradł! Co? Rychter! - przerwał gwałtownie nauczyciel.",
+            "Rychter wystąpił i spuścił oczy.",
+            "- Ukradłeś? Przyznaj się!",
+            "Chłopiec bez słowa skinął potwierdzająco głową."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/85.png",
+          "alt": "Rychter potwierdza, że ukradł znaczek."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Cóż to za deprawacja! Kim jest twój ojciec? - nauczyciel był wstrząśnięty i z dezaprobatą kręcił głową.",
+            "- Mój ojciec, doktor Ernest Rychter, jest adwokatem. Ale nasz związek ukradkiem zwrócił ten znaczek.",
+            "- Ukradkiem?",
+            "- No bo najpierw to ja ukradłem ojcu ten znaczek, ale później bałem się, że ojciec zauważy, więc związek dał mi jedną koronę, żebym odkupił znaczek i podrzucił ojcu na biurko. Lecz właśnie wtedy ojciec mnie przyłapał na gorącym uczynku, to znaczy, nie wtedy, kiedy zabierałem znaczek, ale wtedy, kiedy go ukradkiem chciałem oddać, i zdrowo mi przyłoił...",
+            "Na surowe spojrzenie profesora Rychter natychmiast poprawił się:",
+            "- Dostałem za to od ojca lanie, a potem jeszcze dodatkowo przyłożył mi po buzi za to, że ukradłem ten znaczek, który chciałem położyć mu na biurku. Ojciec się strasznie gniewał i pytał, komu ja ten znaczek ukradłem, a ja nie chciałem się przyznać, bo znów dostałbym po buzi, więc powiedziałem, że to Kolnay dał mi ten znaczek, i wtedy tatuś powiedział: „Natychmiast oddaj Kolnayowi, bo on na pewno gdzieś go ukradł”, więc ja zaniosłem z powrotem znaczek Kolnayowi i dlatego teraz nasz związek ma dwa znaczki.",
+            "Profesor Rac zastanowił się nad tym, co usłyszał.",
+            "- A po co kupowaliście nowy znaczek, skoro można było oddać stary?",
+            "- Nie dało rady - odpowiedział za Rychtera Kolnay - bo na odwrocie przystawiliśmy pieczątkę naszego związku.",
+            "- To i pieczątkę macie? Gdzie ta pieczątka?",
+            "- Barabasz jest naszym strażnikiem pieczęci."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "skarbnik",
+          "match": "skarbnikiem",
+          "uk": "скарбник",
+          "ru": "казначей"
+        },
+        {
+          "phrase": "składka",
+          "match": "składki",
+          "uk": "внесок",
+          "ru": "взнос"
+        },
+        {
+          "phrase": "grajcar",
+          "match": "grajcarów",
+          "uk": "крейцер",
+          "ru": "крейцер"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Skąd związek brał pieniądze?",
+          "answer": "Ze składek: każdy płacił dziesięć grajcarów tygodniowo."
+        },
+        {
+          "question": "Co Rychter zrobił ze znaczkiem skarbowym?",
+          "answer": "Ukradł go ojcu, a potem próbował oddać odkupiony znaczek."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Pieczątka i kara",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Przyszła więc kolej na Barabasza. Teraz on wystąpił do przodu. Posłał mordercze spojrzenie Kolnayowi, z którym zawsze się spierał. Pamiętał jeszcze o niedawnym zdarzeniu z kapeluszem na Placu Broni, przed głosowaniem... Ale co robić, wyjął z kieszeni sporządzoną z gumy pieczątkę wraz z poduszką do stemplowania i posłusznie postawił ją na nauczycielskim stole."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/86.png",
+          "alt": "Barabasz kładzie pieczątkę na stole."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nauczyciel obejrzał pieczątkę. Napis brzmiał: „Związek Kitowców, Budapeszt, 1889”. Profesor Rac stłumił uśmiech i znów pokiwał głową. Ośmieliło to Barabasza do tego stopnia, że sięgnął w kierunku stołu i chciał zabrać z powrotem pieczątkę. Ale profesor położył na niej dłoń.",
+            "- Czego chcesz?",
+            "- Panie profesorze - wydusił z siebie Barabasz - ja złożyłem przysięgę, że raczej oddam życie, niż pozwolę odebrać sobie pieczęć!",
+            "Nauczyciel schował pieczątkę do kieszeni.",
+            "- Cisza! - powiedział.",
+            "Ale Barabasz nie chciał się pogodzić z tym faktem.",
+            "- Jak tak, to proszę również zabrać Czelemu chorągiew!",
+            "- To i chorągiew macie? Oddaj ją - powiedział nauczyciel patrząc na Czelego.",
+            "Czele sięgnął do kieszeni i wyjął z niej malutką chorągiewkę na kawałku drutu. Tę chorągiewkę, podobnie jak sztandar chłopców z Placu Broni, wykonała siostra Czelego. Chorągiewka była czerwono - biało - zielona i było na niej napisane: „Związek Kitowców, Budapeszt 1889. Pszysięgamy, nigdy już niewolnikami nie być nam!”∗"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/87.png",
+          "alt": "Czele pokazuje malutką chorągiewkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Hmm - chrząknął nauczyciel - co to za ptaszek pisze przysięgamy przez „sz”? Kto to napisał?",
+            "Nikt nie odpowiadał. Nauczyciel grzmiącym głosem powtórzył:",
+            "- Kto to napisał?",
+            "Nagle Czele wpadł na pewien pomysł. Po co dalej sypać kolegów? Przysięgamy przez „sz” napisał Barabasz, ale niby dlaczego miałby za to cierpieć? Więc Czele odezwał się:",
+            "- To moja młodsza siostra tak napisała, panie profesorze.",
+            "I przełknął po tym kłamstwie ślinę. Nie było to szlachetne, ale uratował jednak przyjaciela... Nauczyciel nic nie powiedział. A chłopcy zaczęli teraz mówić jeden przez drugiego.",
+            "- Panie profesorze, Barabasz nie powinien był mówić o chorągwi, to naprawdę nieładnie z jego strony - powiedział ze złością Kolnay.",
+            "Barabasz usprawiedliwiał się:",
+            "- On zawsze się mnie czepia! Jak nie ma pieczęci, to nie ma i naszego związku! Koniec!",
+            "- Cisza! - przerwał dyskusję profesor Rac. - Już ja was nauczę! Związek ulega natychmiastowemu rozwiązaniu i żebym więcej nie słyszał o niczym podobnym. Z zachowania dostaniecie wszyscy obniżony stopień, a Weiss będzie miał obniżony o dwa stopnie, bo on był prezesem związku.",
+            "- Przepraszam! - skromnie zaznaczył Weiss. - Akurat ja byłem w tym momencie prezesem, ale właśnie dzisiaj miało odbyć się zebranie, na którym mieliśmy wyznaczyć nowego prezesa na ten miesiąc.",
+            "- I mieliśmy mianować Kolnaya - powiedział z szyderczym uśmiechem Barabasz.",
+            "- Nic mnie to nie obchodzi - stwierdził nauczyciel. - Jutro wszyscy zostaniecie w szkole do drugiej. Już ja was nauczę! A teraz możecie iść do domów.",
+            "- Do widzenia, panie profesorze! - zawołali chórem i ruszyli w stronę drzwi. Weiss wykorzystał chwilowe zamieszanie, żeby sięgnąć po kit. Ale nauczyciel dostrzegł jego manewr.",
+            "- Zostaw to!",
+            "Weiss zrobił niewinną minę.",
+            "- To nie dostaniemy z powrotem naszego kitu?",
+            "- Nie! I kto z was ma jeszcze kit, ten niech go natychmiast odda. Jeśli się dowiem, że któryś z was zatrzymał kit, to zastosuję najsurowszą karę!",
+            "Po tych słowach wystąpił do przodu Lesik, który dotąd milczał jak głaz. Wyjął z ust kawałek kitu i z bólem serca dokleił go brudnymi rękoma do związkowej bryły.",
+            "- To wszystko?",
+            "Zamiast odpowiedzi Lesik szeroko rozdziawił usta. Pokazał, że naprawdę więcej już nie ma. Nauczyciel sięgnął po kapelusz.",
+            "- Niech no tylko jeszcze raz usłyszę, że założyliście jakiś związek! Marsz do domu!",
+            "Chłopcy w milczeniu wymykali się chyłkiem z pokoju nauczycielskiego i tylko jeden z nich odezwał się cicho:",
+            "- Do widzenia, panie profesorze!",
+            "Był to Lesik, który poprzednio nie mógł wypowiedzieć słów pożegnania, ponieważ miał usta pełne kitu."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "pieczęć",
+          "match": "pieczęci",
+          "uk": "печатка",
+          "ru": "печать"
+        },
+        {
+          "phrase": "chorągiew",
+          "match": "chorągiew",
+          "uk": "прапор",
+          "ru": "знамя"
+        },
+        {
+          "phrase": "rozwiązanie",
+          "match": "rozwiązaniu",
+          "uk": "розпуск",
+          "ru": "роспуск"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaki napis był na pieczątce?",
+          "answer": "„Związek Kitowców, Budapeszt, 1889”."
+        },
+        {
+          "question": "Jaką karę dostał Weiss?",
+          "answer": "Stopień z zachowania obniżony o dwa stopnie, a jutro zostaje w szkole do drugiej."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Świeży kit",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nauczyciel wyszedł, rozwiązany przed chwilą Związek Kitowców pozostał samotnie. Chłopcy spojrzeli na siebie ze smutkiem. Kolnay zrelacjonował całe przesłuchanie czekającemu na korytarzu Boce. Ten odetchnął z ulgą.",
+            "- Bardzo się przestraszyłem - powiedział - bo już myślałem, że ktoś zdradził nasz Plac Broni...",
+            "W trakcie tej rozmowy podszedł do nich Nemeczek i szeptem powiedział:",
+            "- Popatrzcie... stałem przy oknie, kiedy was przesłuchiwano... szyba była dopiero co wprawiona... i...",
+            "Pokazał kawałek świeżego kitu, który przed chwilą wydrapał z okna."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/88.png",
+          "alt": "Nemeczek pokazuje świeży kit."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wszyscy spojrzeli z podziwem. Weissowi zabłysły oczy.",
+            "- Jeśli znów mamy kit, to znów istnieje nasz związek! Przeprowadzimy zebranie związku na Placu...",
+            "- Na Placu! Na Placu Broni! - krzyknęli wszyscy i ruszyli pędem do domów. Na schodach rozległ się okrzyk, który był hasłem chłopców z Placu Broni:",
+            "- Hola ho! Hola ho!",
+            "I wszyscy wybiegli przez bramę szkoły na ulicę. Boka pozostał z tyłu, szedł powoli, samotnie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/89.png",
+          "alt": "Boka idzie do domu sam i zamyślony."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nie miał powodów do radości. Cały czas myślał o Gerebie, o zdrajcy Gerebie, którego widział chodzącego z latarnią po wyspie w Ogrodzie Botanicznym. Boka wrócił do domu, wciąż pogrążony w rozmyślaniach, zjadł obiad i wziął się do odrabiania łaciny."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "zdradzić",
+          "match": "zdradził",
+          "uk": "зрадити",
+          "ru": "предать"
+        },
+        {
+          "phrase": "wydrapać",
+          "match": "wydrapał",
+          "uk": "видряпати",
+          "ru": "выковырять"
+        },
+        {
+          "phrase": "samotnie",
+          "match": "samotnie",
+          "uk": "самотньо",
+          "ru": "одиноко"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Czego bał się Boka podczas przesłuchania?",
+          "answer": "Że ktoś zdradził Plac Broni."
+        },
+        {
+          "question": "Co pokazał kolegom Nemeczek?",
+          "answer": "Świeży kit wydrapany z okna."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "Gereb u Słowaka",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Bóg jeden raczy wiedzieć, w jaki sposób członkowie Związku Kitowców uwinęli się tak błyskawicznie, ale o pół do trzeciej pojawili się już na Placu. Barabasz przyszedł chyba prosto od stołu, bo żuł jeszcze skórkę po ogromnej pajdzie chleba. Przyczaił się też przy furtce na Kolnaya, żeby dać mu kuksańca. Stanowczo za dużo nazbierało się Kolnayowi na koncie.",
+            "Kiedy już byli w komplecie, Weiss wezwał ich pod sągi.",
+            "- Otwieram walne zebranie - ogłosił bardzo poważnym tonem."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/90.png",
+          "alt": "Weiss otwiera zebranie pod sągami."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kolnay, który już dostał sójkę od Barabasza, a i sam zdążył mu oddać, był zdania, że wbrew zakazowi należy utrzymać związek.",
+            "Barabasz natychmiast zaprotestował:",
+            "- On dlatego tak mówi, bo teraz na niego kolej, żeby był prezesem. Ja natomiast uważam, że dosyć już tego Związku Kitowców. Wy wszyscy po kolei jesteście prezesami, a my nic tylko żujemy ten kit. Mnie już wstręt do tego bierze. Nic, tylko ciągle mam ten klajster w gębie. Po co mi to?",
+            "Z kolei Nemeczek chciał coś powiedzieć.",
+            "- Proszę o głos - zwrócił się do prezesa.",
+            "- Pan sekretarz prosi o głos - powiedział z powagą Weiss i zadzwonił kupionym za dwa grajcary dzwoneczkiem.",
+            "Ale Nemeczkowi, który w Związku Kitowców pełnił funkcję sekretarza, głos nagle uwiązł w gardle. Spostrzegł bowiem pod jednym z sągów Gereba. Nikt nie wiedział o Gerebie tego, co on i Boka. Tylko oni dwaj widzieli go na własne oczy pamiętnego wczorajszego wieczoru. Gereb skradał się między sągami drzewa w kierunku małej budki, w której mieszkał Słowak ze swoim psem. Nemeczek czuł, że jego obowiązkiem jest śledzić zdrajcę i nie odstępować go ani na krok. Boka powiedział Nemeczkowi, że do czasu spotkania na Placu Gereb nie może zorientować się, że widziano go, jak siedział z czerwonymi koszulami na wyspie przy latarni. Niech myśli, że nikt niczego nie podejrzewa.",
+            "Lecz Gereb przyszedł wcześniej i oto krążył sam wśród sągów. Nemeczek za wszelką cenę chciał wiedzieć, po co Gereb idzie do Słowaka. Więc odezwał się w te słowa:",
+            "- Dziękuję, panie prezesie, ale swoje przemówienie wygłoszę kiedy indziej. Przypomniało mi się, że mam coś bardzo ważnego do załatwienia.",
+            "Weiss znów potrząsnął małym dzwoneczkiem.",
+            "- Pan sekretarz rezygnuje z głosu.",
+            "W tym momencie pana sekretarza już nie było. Pędził bez tchu, ale nie za Gerebem, lecz okrężną drogą, żeby wyjść Gerebowi naprzeciw. Przeciął biegiem Plac, wpadł na ulicę Pawła, tam skręcił w ulicę Marii i gnał co sił w kierunku bramy tartaku. Omal nie został przejechany przez załadowaną polanami furę, która właśnie wytaczała się przez bramę. Mały, żelazny komin głośno pykał i dymił kłębami białej pary. Piła parowa w tartaku świszczała, że aż hej, ostrzegając Nemeczka: Osstrożżżnie! Osstrożżnie!",
+            "- Nie bój się, będę ostrożny! - odpowiedział w duchu Nemeczek i minąwszy biegiem tartak, skręcił między sągi polan, prosto w kierunku chaty Słowaka. Dach skleconej z desek budki był spadzisty i niemal dotykał sągu, który stał za budką. Nemeczek wdrapał się na sąg i położył na brzuchu."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/91.png",
+          "alt": "Nemeczek leży na sągu i patrzy na budkę."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wystawił ostrożnie głowę i czekał na to, co się teraz stanie. Czego Gereb mógł chcieć od stróża tartaku? Może był to jakiś podstęp wojenny czerwonych koszul? Postanowił, że podsłucha rozmowę, choćby nie wiem co miało się później z nim stać. Och, jaką chwałę przyniesie mu ten czyn! Jakże dumny będzie, że to właśnie on wykrył nową zdradę!",
+            "Kiedy tak czekał i rozglądał się wokół, nagle zobaczył Gereba. Szedł powoli i ciągle oglądał się, jak ktoś, kto boi się, że go śledzą. I dopiero gdy przekonał się, że nikt się za nim nie skrada, odważnie ruszył przed siebie. Słowak spokojnie siedział na ławeczce przed swoją budką i palił fajkę nabitą końcówkami cygar, które przynosili mu chłopcy. Każdy zbierał w domu nie dopalone cygara dla poczciwego Jana.",
+            "Na widok Gereba pies poderwał się, szczeknął kilka razy, ale gdy zorientował się, że to ktoś tutejszy, ułożył się znowu na swoim miejscu. Gereb podszedł tak blisko do Słowaka, że dach zakrył ich przed oczyma Nemeczka. Ale mały nabrał już pewności. Cichutko, tak cicho, żeby nikt nie słyszał, przeczołgał się z sągu na dach budy. Położył się tam płasko na brzuchu i przesunął do przodu, w górę, tak żeby móc wychylić głowę i widzieć, co się na dole dzieje. Raz i drugi trzasnęły pod nim deski, a wtedy Nemeczkowi zamierało serce w piersiach... Ale czołgał się dalej, aż wysadził wreszcie głowę poza skraj dachu. Gdyby w tej chwili Słowakowi lub Gerebowi przyszło na myśl spojrzeć w górę, wówczas na pewno z przerażeniem ujrzeliby nad okapem jasnowłosą, mądrą główkę Nemeczka, który szeroko otwartymi oczyma obserwował wszystko, co dzieje się w dole.",
+            "Gereb podszedł do Słowaka i przyjaźnie zagadał:",
+            "- Dzień dobry, Jano!",
+            "- Dzień dobry! - odpowiedział Słowak nie wyjmując z ust fajki.",
+            "Gereb podszedł bliżej.",
+            "- Przyniosłem cygara, Jano!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/92.png",
+          "alt": "Gereb daje Słowakowi cygara."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na tę wiadomość Słowak wyjął fajkę z ust. Zabłysły mu oczy. Biedny Jano miał w życiu niewiele okazji, by widzieć całe cygaro. Trafiały do niego jedynie niedopałki.",
+            "Gereb wyjął z kieszeni trzy cygara i wcisnął je stróżowi w rękę.",
+            "„Oho - przemknęło Nemeczkowi przez myśl - dobrze zrobiłem, że tu wlazłem. Gereb musi czegoś chcieć, skoro zaczyna od cygar”.",
+            "I usłyszał, jak Gereb cicho powiedział do Słowaka:",
+            "- Jano, wejdźmy do budki... nie chcę tu z wami mówić na dworze... nie chcę, żeby mnie widziano... mam do was ważną sprawę. I dostaniecie za to ode mnie jeszcze więcej cygar.",
+            "I wyciągnął z kieszeni całą ich garść.",
+            "Nemeczek aż pokręcił głową ze zdumienia.",
+            "„Chce go namówić do jakiegoś wielkiego świństwa, jeśli mu przyniósł aż tyle cygar” - pomyślał.",
+            "Oczywiście Słowak z radością wszedł do budki, a Gereb za nim. Za Gerebem do środka wszedł również pies. Nemeczka ogarnęła wściekłość.",
+            "„Nie usłyszę nic z tego, o czym będą mówili - przemknęło mu przez myśl - na nic cały ten chytry plan...”",
+            "I pozazdrościł psu, który zdążył wśliznąć się do środka, nim oni zamknęli za sobą drzwi budki. Bo i drzwi zamknęli bardzo starannie. Nemeczkowi przypomniała się bajeczka o tym, jak Baba Jaga z krogulczym nosem zamienia królewicza w czarnego kundla, i dałby dwadzieścia najpiękniejszych szklanych kulek za to, żeby właśnie teraz jakaś czarownica oblekła go w postać kudłatego Hektora, a Hektora zamieniła w jasnowłosego Nemeczka. Ostatecznie obaj byli kolegami, jedynymi szeregowcami na Placu...",
+            "Zamiast Baby Jagi z pomocą Nemeczkowi przyszedł zupełnie ktoś inny, a mianowicie pewien chrząszcz z mocnymi jak stal żuchwami. Otóż mały kornik, który wraz z całą swoją rodziną dawno temu nażarł się do syta miękkim drewnem deski, wcale nie przypuszczał, że odda tym ogromną przysługę chłopcom z Placu Broni. Tam bowiem, gdzie korniki wyżarły deskę, była ona pusta w środku. Nemeczek przycisnął ucho do jednej z takich desek i zaczął nasłuchiwać. Początkowo ze środka dobiegały jedynie stłumione głosy, ale wkrótce Nemeczek z radością stwierdził, że rozumie każde słowo prowadzonej w budce rozmowy. Gereb mówił cicho, jak ktoś, kto nawet w tak odosobnionym miejscu boi się, żeby go nikt nie podsłuchał:",
+            "- Słuchajcie, Jano, dostaniecie ode mnie tyle cygar, ile tylko zechcecie. Ale będziecie za to musieli coś zrobić.",
+            "W odpowiedzi zaburczał głos Jana:",
+            "- A co miałbym zrobić?",
+            "- Nic wielkiego, trzeba tylko przepędzić z Placu chłopców. Nie wolno pozwalać im, żeby grali tu w piłkę i rozrzucali sagi.",
+            "Przez kilka chwil panowała cisza. Nemeczek doszedł do wniosku, że Słowak zastanawia się.",
+            "I znów rozległ się głos stróża:",
+            "- Trzeba ich przepędzić?",
+            "- Tak.",
+            "- Niby dlaczego?",
+            "- Bo chcą tu przyjść inni chłopcy. A są to bardzo bogaci chłopcy... i wtedy będziecie dostawali, Jano, tyle cygar, ile dusza zapragnie... i pieniądze też...",
+            "To poskutkowało.",
+            "- Pieniądze też? - zapytał Jano.",
+            "- Tak. I to forinty!",
+            "Forinty ostatecznie przekonały Słowaka.",
+            "- W porządku - powiedział. - Przepędzimy ich."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/93.png",
+          "alt": "Słowak zgadza się przepędzić chłopców."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Szczęknęła klamka, zaskrzypiały drzwi. Gereb wyszedł na dwór. Ale Nemeczka nie było już wtedy na górze. Niczym kot zsunął się z dachu, zeskoczył na równe nogi i już pędził między sagami w stronę Placu. Był rozgorączkowany i czuł, że w tej chwili losy wszystkich chłopców i całego Placu Broni znajdują się w jego rękach. Kiedy ujrzał grupę chłopców, już z daleka zawołał:"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "sąg",
+          "match": "sągów",
+          "uk": "штабель дров",
+          "ru": "штабель дров"
+        },
+        {
+          "phrase": "podsłuchać",
+          "match": "podsłucha",
+          "uk": "підслухати",
+          "ru": "подслушать"
+        },
+        {
+          "phrase": "forint",
+          "match": "forinty",
+          "uk": "форинт",
+          "ru": "форинт"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Czego Gereb zażądał od Słowaka?",
+          "answer": "Żeby przepędził chłopców z Placu."
+        },
+        {
+          "question": "Czym Gereb przekonał Jana?",
+          "answer": "Cygarami, a potem obietnicą forintów."
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": "Tchórz i łza",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Boka!",
+            "Ale nikt mu nie odpowiadał.",
+            "- Boka! Panie przewodniczący!",
+            "Któryś z chłopców odezwał się:",
+            "- Jeszcze nie przyszedł!",
+            "Nemeczek gnał niczym wicher. Należało natychmiast zawiadomić Bokę o tym, co się stało. Trzeba szybko działać, żeby chłopcy nie zostali wypędzeni ze swojego królestwa. Kiedy w biegu minął ostatni sąg, spostrzegł członków Związku Kitowców, którzy ciągle jeszcze obradowali. Weiss z poważną miną prowadził obrady i kiedy jasnowłosy chłopiec przebiegł koło nich, krzyknął do niego:",
+            "- Panie sekretarzu! Hola ho!",
+            "Nemeczek w biegu dał znak ręką, że nie może się zatrzymać, gdyż ma jakąś nie cierpiącą zwłoki sprawę.",
+            "- Panie sekretarzu! - krzyknął za nim Weiss i żeby wzmocnić wagę wezwania gwizdnął i energicznie potrząsnął dzwoneczkiem.",
+            "- Nie mam chwili do stracenia! - odkrzyknął Nemeczek i pobiegł dalej, żeby złapać Bokę w domu. Wtedy Weiss sięgnął po ostateczny środek. Wojskowym tonem wydał komendę:",
+            "- Szeregowy! Stój!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/94.png",
+          "alt": "Weiss zatrzymuje Nemeczka rozkazem."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Jak rozkaz, to rozkaz - Nemeczek musiał się zatrzymać. Ostatecznie Weiss był podporucznikiem... Małego aż dławiła wściekłość, ale cóż było robić, skoro Weiss powołał się na swoją oficerską rangę.",
+            "- Tak jest, panie poruczniku! - i stanął na baczność.",
+            "- Posłuchaj, proszę cię - powiedział prezes Związku Kitowców - właśnie przed chwilą postanowiliśmy, że nasz związek będzie działał nadal jako tajna organizacja. I wybraliśmy nowego prezesa.",
+            "Chłopcy z entuzjazmem wznieśli okrzyk na cześć nowego prezesa:",
+            "- Niech żyje Kolnay!",
+            "Tylko Barabasz, ironicznie się uśmiechając, powiedział:",
+            "- Precz z Kolnayem!",
+            "Dawny prezes ciągnął jednak dalej:",
+            "- Jeśli pan, panie sekretarzu, chce utrzymać swoją funkcję, to powinien pan razem z nami złożyć przysięgę na dochowanie tajemnicy, bo gdyby profesor Rac o tym się dowiedział...",
+            "W tym właśnie momencie Nemeczek zobaczył skradającego się wśród sągów Gereba. Jeśli Gerebowi uda się teraz ujść, to koniec ze wszystkim... Koniec z fortecami, koniec z Placem Broni... Gdyby Boka przemówił teraz Gerebowi do sumienia, to może zmieniłby on jeszcze swe zamiary, poprawił się. Nemeczek niemal płakał ze złości. Przerwał wypowiedź prezesa:",
+            "- Panie prezesie. Ja teraz nie mam czasu... ja muszę iść...",
+            "Weiss zapytał go surowym tonem:",
+            "- Czyżby pan sekretarz czegoś się bał? A może pan sekretarz boi się tego, że jeśli wykryją nasz związek, to wówczas i pan zostanie ukarany?",
+            "Ale Nemeczek nie zwracał już na prezesa uwagi. Patrzył w stronę Gereba, który ukrył się wśród sągów i czekał, aż chłopcy wreszcie stąd odejdą i, nie zauważony, będzie mógł wymknąć się na ulicę... Gdy więc Nemeczek przejrzał zamiary Gereba, bez słowa odwrócił się od członków Związku Kitowców, zagarnął na piersiach kurtkę i gazu - niczym wicher przeleciał przez Plac i wypadł na ulicę.",
+            "Wśród obradujących zapanowało milczenie. Po chwili w tej grobowej ciszy rozległ się równie grobowy głos prezesa:",
+            "- Wszyscy szanowni zebrani tu członkowie widzieli zachowanie się Erno Nemeczka. Oświadczam zatem wszem i wobec, że Erno Nemeczek jest tchórzem!",
+            "- Tak jest! - zagrzmiało walne zebranie.",
+            "A Kolnay jeszcze dodatkowo krzyknął:",
+            "- I zdrajcą!",
+            "Rychter bardzo się zdenerwował i poprosił o głos.",
+            "- Proponuję, aby tego tchórza, który opuścił nas w trudnej sytuacji, zdjąć ze stanowiska sekretarza, wykluczyć ze związku i wpisać do tajnej księgi protokolarnej jako zdrajcę!",
+            "- Brawo! - zawołali jednym głosem. Wtedy prezes wydał wyrok:",
+            "- Walne zebranie uznaje Erno Nemeczka za tchórzliwego zdrajcę, pozbawia go funkcji sekretarza i wyklucza ze związku. Panie protokolancie!",
+            "- Obecny - zgłosił się Lesik.",
+            "- Proszę umieścić w protokole, że walne zebranie uznało Erno Nemeczka za zdrajcę, i proszę wpisać jego nazwisko małymi literami.",
+            "Wśród zebranych rozległ się szmer. W myśl statutu była to bowiem najsurowsza kara. Chłopcy stanęli wokół Lesika, który natychmiast usiadł na ziemi, położył na kolanach zakupiony za pięć grajcarów zeszyt w czarnej okładce, będący tajną księgą protokołów związku, i ogromniastymi kulfonami wpisał: ,,erno nemeczek jest zdrajcą!!!”"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/95.png",
+          "alt": "Lesik wpisuje Nemeczka do księgi małymi literami."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "W taki oto sposób Związek Kitowców pozbawił Erno Nemeczka honoru.",
+            "Natomiast Erno Nemeczek lub, jak kto woli - erno nemeczek - pędził w tej chwili w stronę ulicy Kinizsi, gdzie w skromnym, parterowym domku mieszkał Boka. Wpadł do bramy i niemal zderzył się z Boką.",
+            "- Ho, ho! - powiedział oszołomiony Boka - a ty co tu robisz?",
+            "Nemeczek, ciężko dysząc, opowiedział o tym, co słyszał i co widział, po czym, złapawszy Bokę za kurtkę, przynaglał do pośpiechu. Po chwili razem już biegli w stronę Placu Broni.",
+            "- Czyś ty naprawdę to wszystko słyszał i widział? - zapytał w biegu Boka.",
+            "- Naprawdę słyszałem i widziałem.",
+            "- A Gereb jest tam jeszcze?",
+            "- Jeśli się pośpieszymy, to może go złapiemy.",
+            "Przy klinice musieli się jednak zatrzymać. Biedny Nemeczek zaczął gwałtownie kasłać. Oparł się o ścianę:",
+            "- Bieg... - powiedział - biegnij... dalej sam... a ja... a ja tu się wykaszlę.",
+            "I zaniósł się głośnym kaszlem.",
+            "- Jestem przeziębiony - tłumaczył Boce, który dalej stał przy nim. - Wtedy, w Ogrodzie Botanicznym, przeziębiłem się... Kiedy wpadłem do stawu, to jeszcze nie było nic takiego, ale tam w szklarni, w basenie, woda była bardzo zimna. Czułem okropne dreszcze.",
+            "Skręcili w ulicę wiodącą w stronę Placu Broni. I akurat w tym samym momencie, kiedy znaleźli się na rogu, otworzyła się mała furtka w parkanie. Gereb pośpiesznie opuszczał Plac. Nemeczek gwałtownie złapał Bokę za ramię:",
+            "- Patrz, właśnie wychodzi!",
+            "Boka zwinął dłonie w tubkę i w cichej uliczce rozległ się gromki okrzyk:",
+            "- Gereb!",
+            "Gereb zatrzymał się i odwrócił w ich stronę. Kiedy zobaczył Bokę, roześmiał się głośno i pobiegł w przeciwną stronę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/96.png",
+          "alt": "Gereb śmieje się i ucieka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Jego szyderczy śmiech ostro zabrzmiał wśród kamieniczek. Gereb po prostu wyśmiał ich.",
+            "Obaj chłopcy stali nieruchomo jakby im nogi wrosły w ziemię. Gereb zniknął im z oczu. Czuli, że wszystko przepadło. Nie odzywając się do siebie szli powoli w stronę furtki wiodącej na Plac Broni. Z wewnątrz dobiegały wesołe okrzyki grających w piłkę chłopców, a potem rozległo się gromkie zawołanie: to członkowie Związku Kitowców wiwatowali na cześć nowego prezesa... Tam, na Placu, nikt jeszcze nie wiedział, że oto ten mały kawałek ziemi być może przestał już do nich należeć. A przecież ta piędź nieurodzajnej ziemi, ten skrawek wciśnięty między dwie peszteńskie kamienice stanowił dla nich bezkresną przestrzeń, oznaczał wolność i swobodę, w zależności od ich dziecięcej wyobraźni zmieniał się przed południem w amerykańską prerię, a po południu w węgierską pusztę, w deszcz stawał się morzem, a zimą biegunem północnym, słowem był zawsze tym, czego wymagały chłopięce marzenia, i niezmiennie służył wspaniałej zabawie.",
+            "- Widzisz - powiedział Nemeczek - oni jeszcze nic nie wiedzą...",
+            "Boka opuścił głowę.",
+            "- Nic nie wiedzą - powtórzył cicho.",
+            "Nemeczek jednak wierzył w mądrość Boki. Póki miał przy sobie rozważnego i dojrzałego kolegę, nie tracił nadziei. Przestraszył się naprawdę dopiero wówczas, kiedy w oczach Boki zobaczył pierwszą łzę i usłyszał, jak przewodniczący, jak sam przewodniczący i wódz chłopców z Placu Broni zapytał z głębokim smutkiem:"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/97.png",
+          "alt": "W oczach Boki pojawia się pierwsza łza."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- I co my teraz zrobimy?"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "tchórz",
+          "match": "tchórzem",
+          "uk": "боягуз",
+          "ru": "трус"
+        },
+        {
+          "phrase": "protokół",
+          "match": "protokole",
+          "uk": "протокол",
+          "ru": "протокол"
+        },
+        {
+          "phrase": "kaszel",
+          "match": "kaszlem",
+          "uk": "кашель",
+          "ru": "кашель"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Za kogo walne zebranie uznało Nemeczka?",
+          "answer": "Za tchórzliwego zdrajcę."
+        },
+        {
+          "question": "Co Nemeczek zobaczył w oczach Boki?",
+          "answer": "Pierwszą łzę."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział IV",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "O której godzinie Boka najpierw wyznaczył zbiórkę na Placu?",
+        "options": [
+          "O pierwszej",
+          "O drugiej",
+          "O trzeciej"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jak nazywała się tajna organizacja chłopców?",
+        "options": [
+          "Związek Kitowców",
+          "Czerwone koszule",
+          "Plac Broni"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kto był prezesem związku w chwili przesłuchania?",
+        "options": [
+          "Kolnay",
+          "Barabasz",
+          "Weiss"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Po co prezes żuł związkowy kit?",
+        "options": [
+          "Żeby kit nie stwardniał",
+          "Żeby ukryć go przed profesorem",
+          "Żeby wygrać zakład"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kto przechowywał pieniądze związku?",
+        "options": [
+          "Weiss",
+          "Kolnay",
+          "Rychter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co profesor schował do kieszeni?",
+        "options": [
+          "Pieczątkę związku",
+          "Dziennik klasowy",
+          "Latarnię Gereba"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Co Gereb obiecał Słowakowi za przepędzenie chłopców?",
+        "options": [
+          "Cygara i forinty",
+          "Czerwoną koszulę",
+          "Stopień oficera"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Jak Związek Kitowców ukarał Nemeczka?",
+        "options": [
+          "Mianował go prezesem",
+          "Uznał za zdrajcę i wykluczył",
+          "Wysłał go do profesora Raca"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

@@ -179,14 +179,7 @@
       "id": "part-03",
       "title": "Nemeczek opowiada o Ferim Aczu",
       "description": "",
-      "paragraphs": [
-        
-        
-
-        
-      ],
       "content": [
-        
         {
           "type": "text",
           "paragraphs": [
@@ -202,23 +195,23 @@
           "type": "text",
           "paragraphs": [
             "- Cześć - powiedzieli przybysze. - Co nowego?",
-        "Nemeczek szybko łapał ustami powietrze, bo chciał wszystko opowiedzieć jednym tchem.",
-        "- Straszne rzeczy! - krzyknął.",
-        "- Co się stało?",
-        "- Coś okropnego! Aż trudno uwierzyć!",
-        "- Ale co takiego?",
-        "- Feri Acz był tutaj!",
-        "Ta wiadomość wywarła na całej trójce ogromne wrażenie. Spoważnieli natychmiast.",
-        "- Niemożliwe! - powiedział Gereb.",
-        "- Przysięgam na Boga... - Nemeczek położył rękę na sercu.",
-        "- Nie przysięgaj - przerwał mu Boka i z całą powagą wydał komendę:",
-        "- Baczność!",
-        "Nemeczek stuknął obcasami. Boka podszedł do niego bliżej.",
-        "- Opowiedz dokładnie, co widziałeś.",
-        "- Kiedy wszedłem między sagi - zaczął Nemeczek - usłyszałem głośne szczekanie psa. Poszedłem za Hektorem i nagle usłyszałem jakiś szelest w środkowej cytadeli. Wdrapałem się na górę i wtedy zobaczyłem, że jest tam Feri Acz w czerwonej koszuli.",
-        "- Stał na szczycie? W cytadeli?",
-        "- Na samym szczycie! - powiedział Nemeczek i żeby potwierdzić swą prawdomówność, podnosił już rękę do serca na znak przysięgi, ale surowe spojrzenie Boki przywołało go do porządku. Więc tylko dodał:",
-        "- I zabrał chorągiewkę!"
+            "Nemeczek szybko łapał ustami powietrze, bo chciał wszystko opowiedzieć jednym tchem.",
+            "- Straszne rzeczy! - krzyknął.",
+            "- Co się stało?",
+            "- Coś okropnego! Aż trudno uwierzyć!",
+            "- Ale co takiego?",
+            "- Feri Acz był tutaj!",
+            "Ta wiadomość wywarła na całej trójce ogromne wrażenie. Spoważnieli natychmiast.",
+            "- Niemożliwe! - powiedział Gereb.",
+            "- Przysięgam na Boga... - Nemeczek położył rękę na sercu.",
+            "- Nie przysięgaj - przerwał mu Boka i z całą powagą wydał komendę:",
+            "- Baczność!",
+            "Nemeczek stuknął obcasami. Boka podszedł do niego bliżej.",
+            "- Opowiedz dokładnie, co widziałeś.",
+            "- Kiedy wszedłem między sagi - zaczął Nemeczek - usłyszałem głośne szczekanie psa. Poszedłem za Hektorem i nagle usłyszałem jakiś szelest w środkowej cytadeli. Wdrapałem się na górę i wtedy zobaczyłem, że jest tam Feri Acz w czerwonej koszuli.",
+            "- Stał na szczycie? W cytadeli?",
+            "- Na samym szczycie! - powiedział Nemeczek i żeby potwierdzić swą prawdomówność, podnosił już rękę do serca na znak przysięgi, ale surowe spojrzenie Boki przywołało go do porządku. Więc tylko dodał:",
+            "- I zabrał chorągiewkę!"
           ]
         },
         {
@@ -226,27 +219,29 @@
           "src": "../../images/chlopcy-z-placu-broni/21.png",
           "alt": "..."
         },
-        { 
-          "type": "text", 
-          "paragraphs": ["Czele aż syknął:",
-        "- Chorągiewkę?",
-        "- Właśnie!",
-        "Wszyscy czterej ruszyli w stronę fortecy. Nemeczek skromnie biegł na końcu, po części dlatego, że jako szeregowcowi nie wypadało mu wysuwać się przed oficerów, po części z obawy, że gdzieś w pobliżu błąka się jeszcze Feri Acz. Chorągiewki rzeczywiście nie było. Nawet drzewca brakowało. Wszyscy byli niesłychanie wzburzeni, jedynie Boka zachował zimną krew.",
-        "- Powiedz siostrze - zwrócił się do Czelego - żeby na jutro uszyła nową chorągiewkę.",
-        "- Dobrze - odpowiedział Czele - ale ona nie ma już zielonego płótna. Czerwone jeszcze jest, a zielonego zabrakło.",
-        "Boka spokojnie zapytał:",
-        "- A białe ma?",
-        "- Ma.",
-        "- To niech uszyje czerwono - białą chorągiewkę. Od tej chwili nasze barwy będą czerwono - białe.",
-        "Wszyscy się z tym zgodzili. Gereb zwrócił się do Nemeczka:",
-        "- Szeregowy!",
-        "- Na rozkaz!",
-        "- Do jutra proszę wprowadzić poprawkę do regulaminu: odtąd nasze barwy będą nie czerwono - zielone, lecz czerwono - białe.",
-        "- Tak jest, panie poruczniku.",
-        "Wtedy Gereb łaskawie rzucił wyprężonemu na baczność jasnowłosemu chłopcu:",
-        "- Spocznij!",
-        "Nemeczek stanął swobodnie. Chłopcy wdrapali się na górę i stwierdzili, że Feri Acz odłamał drzewce chorągiewki. Przybity gwoździami kawałek odłamanego drzewca smętnie tkwił na swoim miejscu."]
-         },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Czele aż syknął:",
+            "- Chorągiewkę?",
+            "- Właśnie!",
+            "Wszyscy czterej ruszyli w stronę fortecy. Nemeczek skromnie biegł na końcu, po części dlatego, że jako szeregowcowi nie wypadało mu wysuwać się przed oficerów, po części z obawy, że gdzieś w pobliżu błąka się jeszcze Feri Acz. Chorągiewki rzeczywiście nie było. Nawet drzewca brakowało. Wszyscy byli niesłychanie wzburzeni, jedynie Boka zachował zimną krew.",
+            "- Powiedz siostrze - zwrócił się do Czelego - żeby na jutro uszyła nową chorągiewkę.",
+            "- Dobrze - odpowiedział Czele - ale ona nie ma już zielonego płótna. Czerwone jeszcze jest, a zielonego zabrakło.",
+            "Boka spokojnie zapytał:",
+            "- A białe ma?",
+            "- Ma.",
+            "- To niech uszyje czerwono - białą chorągiewkę. Od tej chwili nasze barwy będą czerwono - białe.",
+            "Wszyscy się z tym zgodzili. Gereb zwrócił się do Nemeczka:",
+            "- Szeregowy!",
+            "- Na rozkaz!",
+            "- Do jutra proszę wprowadzić poprawkę do regulaminu: odtąd nasze barwy będą nie czerwono - zielone, lecz czerwono - białe.",
+            "- Tak jest, panie poruczniku.",
+            "Wtedy Gereb łaskawie rzucił wyprężonemu na baczność jasnowłosemu chłopcu:",
+            "- Spocznij!",
+            "Nemeczek stanął swobodnie. Chłopcy wdrapali się na górę i stwierdzili, że Feri Acz odłamał drzewce chorągiewki. Przybity gwoździami kawałek odłamanego drzewca smętnie tkwił na swoim miejscu."
+          ]
+        },
         {
           "type": "image",
           "src": "../../images/chlopcy-z-placu-broni/22.png",
@@ -258,7 +253,21 @@
         "start": 2229,
         "end": 2434
       },
-      
+      "vocabulary": [
+        {
+          "phrase": "płotu",
+          "match": "płotu",
+          "uk": "паркану",
+          "ru": "забора"
+        },
+        {
+          "phrase": "miarowe pukanie",
+          "match": "miarowe pukanie",
+          "uk": "розмірений стукіт",
+          "ru": "размеренный стук"
+        }
+      ],
+
       "questions": [
         {
           "question": "Co krzyknął Nemeczek, gdy przyszli koledzy?",
@@ -274,72 +283,181 @@
       "id": "part-04",
       "title": "Boka i czarna księga",
       "description": "",
-      "paragraphs": [
-        "Od strony Placu rozległy się okrzyki:",
-        "- Hola ho! Hola ho!",
-        "To było ich hasło. Widocznie nadeszli już chłopcy i rozglądali się po Placu. Słychać było donośne okrzyki:",
-        "- Hola ho!",
-        "Czele skinął na Nemeczka.",
-        "- Szeregowy!",
-        "- Na rozkaz!",
-        "- Odpowiedzcie kolegom.",
-        "- Tak jest, panie poruczniku.",
-        "Nemeczek przyłożył zwiniętą w trąbkę dłoń do ust i swoim cienkim, dziecinnym głosem zawołał:",
-        "- Hola ho!",
-        "Potem zeszli z fortecy i ruszyli w stronę Placu. Na środku Placu, skupieni w małej grupce, czekali na nich Czonakosz, Weiss, Kende, Kolnay i jeszcze kilku chłopców. Na widok Boki wszyscy stanęli na baczność, Boka bowiem był ich dowódcą, kapitanem.",
-        "- Cześć - powiedział Boka.",
-        "Kolnay wystąpił krok naprzód.",
-        "- Melduję posłusznie - powiedział - kiedy przyszliśmy, furtka nie była zamknięta. A zgodnie z regulaminem powinna być zamknięta od środka.",
-        "Boka surowo spojrzał na stojącą za nim asystę. A wszyscy spojrzeli na Nemeczka. Ten już przykładał rękę do serca, żeby przysiąc, iż to nie on zostawił furtkę otwartą, kiedy kapitan odezwał się:",
-        "- Kto wchodził ostatni?",
-        "Zapadła cisza. Nikt bowiem nie wszedł ostatni. Jeszcze przez chwilę panowało milczenie. Nagle Nemeczkowi rozjaśniła się twarz i powiedział:",
-        "- Melduję posłusznie, to pan kapitan wszedł ostatni.",
-        "- Ja? - zdziwił się Boka.",
-        "- Tak jest.",
-        "Boka zastanawiał się przez chwilę.",
-        "- Masz rację - stwierdził z powagą. - Zapomniałem zasunąć zasuwę. Panie poruczniku, proszę wpisać za karę moje nazwisko do czarnej księgi - zwrócił się do Gereba.",
-        "Gereb wyjął z kieszeni mały, czarny notes i wielkimi literami wpisał „Janosz Boka”. A obok, żeby było wiadomo, o jakie przewinienie chodzi, dopisał „furtka”.",
-        "Taka postawa dowódcy podobała się chłopcom. Boka wymierzał sprawiedliwość nawet samemu sobie. Był to przykład prawdziwego męstwa, o jakim nawet na lekcjach łaciny nie słyszeli, choć przecież wiele im mówiono o dzielnych Rzymianach. Lecz Boka był tylko zwykłym człowiekiem i miał też swoje słabości. Wprawdzie ukarał siebie, ale zaraz zwrócił się do Kolnaya, który zameldował o tym, że furtka nie została zamknięta.",
-        "- A ty nie powinieneś tak paplać i skarżyć. Panie poruczniku, proszę wpisać Kolnaya za donosicielstwo.",
-        "Pan porucznik sięgnął więc znów po złowieszczy notes i wpisał Kolnaya. Stojący z tyłu Nemeczek z radości, że to nie jego nazwisko wpisują do notesu, zaczął tańczyć czardasza. Trzeba bowiem wiedzieć, e w notesie figurowało wyłącznie nazwisko Nemeczka, bo wszyscy, zawsze i za wszystko, kazali wpisywać Nemeczka. I zbierający się co sobota trybunał osądzał jedynie Nemeczka. Co tu dużo mówić, tak to już było. Bo Nemeczek był jedynym szeregowcem."
-      ],
-      "audio": {
-        "start": null,
-        "end": null
-      },
-      "images": [
+      "content": [
         {
-          "src": "../../images/chlopcy-z-placu-broni/01.png",
-          "alt": ""
+          "type": "text",
+          "paragraphs": [
+            "Od strony Placu rozległy się okrzyki:",
+            "- Hola ho! Hola ho!",
+            "To było ich hasło. Widocznie nadeszli już chłopcy i rozglądali się po Placu. Słychać było donośne okrzyki:",
+            "- Hola ho!",
+            "Czele skinął na Nemeczka.",
+            "- Szeregowy!",
+            "- Na rozkaz!",
+            "- Odpowiedzcie kolegom.",
+            "- Tak jest, panie poruczniku.",
+            "Nemeczek przyłożył zwiniętą w trąbkę dłoń do ust i swoim cienkim, dziecinnym głosem zawołał:",
+            "- Hola ho!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/23.png",
+          "alt": "..."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Potem zeszli z fortecy i ruszyli w stronę Placu. Na środku Placu, skupieni w małej grupce, czekali na nich Czonakosz, Weiss, Kende, Kolnay i jeszcze kilku chłopców. Na widok Boki wszyscy stanęli na baczność, Boka bowiem był ich dowódcą, kapitanem."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/24.png",
+          "alt": "..."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Cześć - powiedział Boka.",
+            "Kolnay wystąpił krok naprzód.",
+            "- Melduję posłusznie - powiedział - kiedy przyszliśmy, furtka nie była zamknięta. A zgodnie z regulaminem powinna być zamknięta od środka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/25.png",
+          "alt": "..."
+        },
+
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka surowo spojrzał na stojącą za nim asystę. A wszyscy spojrzeli na Nemeczka. Ten już przykładał rękę do serca, żeby przysiąc, iż to nie on zostawił furtkę otwartą, kiedy kapitan odezwał się:",
+            "- Kto wchodził ostatni?",
+            "Zapadła cisza. Nikt bowiem nie wszedł ostatni. Jeszcze przez chwilę panowało milczenie. Nagle Nemeczkowi rozjaśniła się twarz i powiedział:",
+            "- Melduję posłusznie, to pan kapitan wszedł ostatni.",
+            "- Ja? - zdziwił się Boka.",
+            "- Tak jest.",
+            "Boka zastanawiał się przez chwilę.",
+            "- Masz rację - stwierdził z powagą. - Zapomniałem zasunąć zasuwę. Panie poruczniku, proszę wpisać za karę moje nazwisko do czarnej księgi - zwrócił się do Gereba.",
+            "Gereb wyjął z kieszeni mały, czarny notes i wielkimi literami wpisał „Janosz Boka”. A obok, żeby było wiadomo, o jakie przewinienie chodzi, dopisał „furtka”."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/26.png",
+          "alt": "..."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Taka postawa dowódcy podobała się chłopcom. Boka wymierzał sprawiedliwość nawet samemu sobie. Był to przykład prawdziwego męstwa, o jakim nawet na lekcjach łaciny nie słyszeli, choć przecież wiele im mówiono o dzielnych Rzymianach. Lecz Boka był tylko zwykłym człowiekiem i miał też swoje słabości. Wprawdzie ukarał siebie, ale zaraz zwrócił się do Kolnaya, który zameldował o tym, że furtka nie została zamknięta.",
+            "- A ty nie powinieneś tak paplać i skarżyć. Panie poruczniku, proszę wpisać Kolnaya za donosicielstwo.",
+            "Pan porucznik sięgnął więc znów po złowieszczy notes i wpisał Kolnaya. Stojący z tyłu Nemeczek z radości, że to nie jego nazwisko wpisują do notesu, zaczął tańczyć czardasza. Trzeba bowiem wiedzieć, że w notesie figurowało wyłącznie nazwisko Nemeczka, bo wszyscy, zawsze i za wszystko, kazali wpisywać Nemeczka. I zbierający się co sobota trybunał osądzał jedynie Nemeczka. Co tu dużo mówić, tak to już było. Bo Nemeczek był jedynym szeregowcem."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/27.png",
+          "alt": "..."
         }
       ],
-      "questions": []
+
+      "audio": {
+        "start": 2434,
+        "end": 2622
+      },
+      "questions": [
+        {
+          "question": "Kto zapomniał zasunąć zasuwę?",
+          "answer": "Boka."
+        },
+        {
+          "question": "Za co wpisano Kolnaya do czarnej księgi?",
+          "answer": "Za donosicielstwo."
+        }
+      ]
     },
     {
       "id": "part-05",
       "title": "Wybory przewodniczącego",
       "description": "",
-      "paragraphs": [
-        "Zakończono sprawy porządkowe i rozpoczęła się wielka narada. Po chwili wszyscy znali już sensacyjną wiadomość, że oto wódz czerwonych koszul, Feri Acz, odważył się wtargnąć w samo serce Placu Broni, że wdrapał się na środkową cytadelę i zabrał chorągiew. Oburzenie chłopców nie miało granic. Wszyscy otoczyli Nemeczka, który do swojej relacji dorzucał coraz to nowe szczegóły.",
-        "- A czy mówił coś do ciebie?",
-        "- No pewnie! - chwalił się Nemeczek.",
-        "- Co mówił?",
-        "- Krzyknął do mnie.",
-        "- Co krzyknął?",
-        "- Zawołał: „Nie boisz się, Nemeczku?” - tu jasnowłosy chłopiec przełknął ślinę, bo wiedział przecież, że to nieprawda. śe było całkiem inaczej. Bo z opowiadania wynikało, że Nemeczek jest niesłychanie odważny. Tak odważny, że Feri Acz aż się zdziwił i zapytał go: „Nie boisz się, Nemeczku?”",
-        "- A co tyś mu odpowiedział?",
-        "- Nic. Stanąłem pod fortecą. A on zszedł na drugą stronę i zniknął. Uciekł.",
-        "- To nieprawda! - krzyknął Gereb. - Feri Acz jeszcze przed nikim nie uciekał!",
-        "Boka spojrzał na Gereba.",
-        "- Ejże! Co ty go tak bronisz! - powiedział.",
-        "- Wcale nie bronię, mówię tylko - powiedział już nieco ciszej Gereb - że jest mało prawdopodobne, żeby Feri Acz przestraszył się Nemeczka.",
-        "Wszyscy roześmieli się. Rzeczywiście, to było mało prawdopodobne. Nemeczek, zbity z tropu, stał w środku grupy chłopców i wzruszał ramionami. Po chwili na środek wystąpił Boka.",
-        "- Słuchajcie, musimy coś zrobić - powiedział. - Na dziś zresztą wyznaczyliśmy wybory. Wybierzemy przewodniczącego. I to takiego, który będzie miał nieograniczoną władzę i któremu wszyscy bez zastrzeżeń się podporządkują. Możliwe, że z powodu tej sprawy dojdzie do wojny i wtedy będziemy potrzebowali dowódcy, który ustali strategię jak w prawdziwej bitwie. Szeregowy, wystąp! Baczność! Przygotujcie tyle kartek, ilu nas jest. I niech każdy na swojej kartce napisze, kto ma być przewodniczącym. Potem wrzucimy kartki do czapki i kto dostanie najwięcej głosów, ten zostanie przewodniczącym.",
-        "- Niech żyje! - krzyknęli wszyscy jednym głosem, a Czonakosz włożył dwa palce do ust i gwizdnął przenikliwie niczym parowóz. Zaczęto wyrywać z notesów kartki, Weiss wyjął swój ołówek. Dwóch chłopców zaczęło się sprzeczać, czyj kapelusz dostąpi zaszczytu urny wyborczej. Kolnay i Barabasz, którzy zawsze mieli do siebie pretensje, omal się o to nie pobili. Kolnay twierdził, że kapelusz Barabasza nie nadaje się do tego celu, bo jest brudny, Kende natomiast uważa}, że kapelusz Kolnaya jest jeszcze brudniejszy. Z tego sporu oczywiście natychmiast wyniknęło sprawdzanie stopnia zabrudzenia obu nakryć głowy. Małym scyzorykiem zaczęli zdrapywać brud, aby przekonać się, która warstwa grubsza. No i zagapili się, bo w tym czasie Czele oddał na społeczny cel swój mały czarny kapelusik. W takich sprawach elegant Czele był nie do pokonania."
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Zakończono sprawy porządkowe i rozpoczęła się wielka narada. Po chwili wszyscy znali już sensacyjną wiadomość, że oto wódz czerwonych koszul, Feri Acz, odważył się wtargnąć w samo serce Placu Broni, że wdrapał się na środkową cytadelę i zabrał chorągiew. Oburzenie chłopców nie miało granic. Wszyscy otoczyli Nemeczka, który do swojej relacji dorzucał coraz to nowe szczegóły."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/28.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- A czy mówił coś do ciebie?",
+            "- No pewnie! - chwalił się Nemeczek.",
+            "- Co mówił?",
+            "- Krzyknął do mnie.",
+            "- Co krzyknął?",
+            "- Zawołał: „Nie boisz się, Nemeczku?” - tu jasnowłosy chłopiec przełknął ślinę, bo wiedział przecież, że to nieprawda. śe było całkiem inaczej. Bo z opowiadania wynikało, że Nemeczek jest niesłychanie odważny. Tak odważny, że Feri Acz aż się zdziwił i zapytał go: „Nie boisz się, Nemeczku?”"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/29.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- A co tyś mu odpowiedział?",
+            "- Nic. Stanąłem pod fortecą. A on zszedł na drugą stronę i zniknął. Uciekł.",
+            "- To nieprawda! - krzyknął Gereb. - Feri Acz jeszcze przed nikim nie uciekał!",
+            "Boka spojrzał na Gereba.",
+            "- Ejże! Co ty go tak bronisz! - powiedział.",
+            "- Wcale nie bronię, mówię tylko - powiedział już nieco ciszej Gereb - że jest mało prawdopodobne, żeby Feri Acz przestraszył się Nemeczka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/30.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wszyscy roześmieli się. Rzeczywiście, to było mało prawdopodobne. Nemeczek, zbity z tropu, stał w środku grupy chłopców i wzruszał ramionami. Po chwili na środek wystąpił Boka."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/31.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Słuchajcie, musimy coś zrobić - powiedział. - Na dziś zresztą wyznaczyliśmy wybory. Wybierzemy przewodniczącego. I to takiego, który będzie miał nieograniczoną władzę i któremu wszyscy bez zastrzeżeń się podporządkują. Możliwe, że z powodu tej sprawy dojdzie do wojny i wtedy będziemy potrzebowali dowódcy, który ustali strategię jak w prawdziwej bitwie. Szeregowy, wystąp! Baczność! Przygotujcie tyle kartek, ilu nas jest. I niech każdy na swojej kartce napisze, kto ma być przewodniczącym. Potem wrzucimy kartki do czapki i kto dostanie najwięcej głosów, ten zostanie przewodniczącym."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/32.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Niech żyje! - krzyknęli wszyscy jednym głosem, a Czonakosz włożył dwa palce do ust i gwizdnął przenikliwie niczym parowóz. Zaczęto wyrywać z notesów kartki, Weiss wyjął swój ołówek. Dwóch chłopców zaczęło się sprzeczać, czyj kapelusz dostąpi zaszczytu urny wyborczej. Kolnay i Barabasz, którzy zawsze mieli do siebie pretensje, omal się o to nie pobili. Kolnay twierdził, że kapelusz Barabasza nie nadaje się do tego celu, bo jest brudny, Kende natomiast uważa}, że kapelusz Kolnaya jest jeszcze brudniejszy. Z tego sporu oczywiście natychmiast wyniknęło sprawdzanie stopnia zabrudzenia obu nakryć głowy. Małym scyzorykiem zaczęli zdrapywać brud, aby przekonać się, która warstwa grubsza. No i zagapili się, bo w tym czasie Czele oddał na społeczny cel swój mały czarny kapelusik. W takich sprawach elegant Czele był nie do pokonania."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/33.png"
+        }
       ],
       "audio": {
-        "start": null,
-        "end": null
+        "start": 2622,
+        "end": 2810
       },
       "images": [
         {
@@ -347,92 +465,201 @@
           "alt": ""
         }
       ],
-      "questions": []
+      "questions": [
+        {
+          "question": "Co zabrał Feri Acz?",
+          "answer": "Chorągiew."
+        },
+        {
+          "question": "Kogo mają wybrać chłopcy?",
+          "answer": "Przewodniczącego."
+        }
+      ]
     },
     {
       "id": "part-06",
       "title": "Nemeczek chce awansować",
       "description": "",
-      "paragraphs": [
-        "Nemeczek natomiast, ku zdumieniu wszystkich, zamiast rozdawać kartki wykorzystał okazję, że przez chwilę skupiła się na nim cała uwaga, i ściskając w zabrudzonej dłoni karteluszki, wystąpił krok naprzód. Stanął na baczność i odezwał się drżącym głosem:",
-        "- Melduję, panie kapitanie, że tak dłużej nie może być, żebym tylko ja był tu szeregowcem... Od czasu jak założyliśmy nasz związek, wszyscy już awansowali i są oficerami, a tylko ja jeden ciągle jestem szeregowcem i wszyscy mi rozkazują... i wszystko tylko ja muszę robić... i... i...",
-        "Nemeczek tak się wzruszył swoją niedolą, że po twarzy zaczęły mu spływać grube łzy.",
-        "- Trzeba go wykluczyć ze związku - chłodno zaproponował Czele.",
-        "- Beczy - powiedział ktoś inny.",
-        "Wszyscy wybuchnęli śmiechem. To rozżaliło Nemeczka do reszty. Uczuł kłucie w sercu, zaszlochał i głośno łkając wyjąkał:",
-        "- Zobaczcie w... w... czarnej księdze... tam też tylko ja... zawsze tylko ja jestem wpisywany... jak ten pies...",
-        "Boka przerwał mu spokojnym głosem:",
-        "- Jeśli natychmiast nie przestaniesz płakać, nie będziesz mógł więcej tutaj przychodzić. Nie zadajemy się z beksami.",
-        "Słowo „beksa” wywarło wrażenie. Mały, biedny Nemeczek okropnie się przestraszył, powoli opanował szloch. Wtedy kapitan położył mu rękę na ramieniu.",
-        "- Jeśli będziesz się dobrze sprawował i odpowiednio zasłużysz, to jeszcze w maju awansujesz na oficera. Na razie jednak pozostaniesz szeregowcem.",
-        "Chłopcy zgodzili się z takim postawieniem sprawy, bo gdyby Nemeczek już w dzisiejszym dniu stał się oficerem, to wszystko straciłoby sens. Po prostu nie byłoby komu rozkazywać. Ciszę przerwał ostry głos Gereba:",
-        "- Szeregowy, zatemperujcie ołówek!",
-        "Szeregowemu wciśnięto w garść ołówek, który ułamał się w kieszeni Weissa, ponieważ nosił on w kieszeni również kulki. Szeregowiec nie protestował więcej i z załzawionymi oczyma, pochlipując jeszcze trochę, jak to po wielkim płaczu bywa, całą przepełniającą serce gorycz skupił na zaostrzeniu ołówka Hardmutha numer dwa.",
-        "- Go... gotowe, panie poruczniku! - zameldował.",
-        "Oddał zatemperowany ołówek i głęboko westchnął. Zrozumiał, że na razie musi zrezygnować z awansu na oficera.",
-        "Rozdano karteczki. Wszyscy rozeszli się i każdy, na osobności, wypełniał kartki, bo była to bardzo ważna sprawa. Potem szeregowy zbierał je i wrzucał do kapelusza Czelego. Kiedy Nemeczek obchodził wszystkich z kapeluszem w ręku, Barabasz trącił w bok Kolnaya.",
-        "- Patrz, jego kapelusz też jest brudny!",
-        "Kolnay przyjrzał się dobrze kapeluszowi Czelego. I obaj doszli do wniosku, że nie mają się czego wstydzić. Jeżeli bowiem nawet kapelusz Czelego jest brudny, to już niczemu nie należy się dziwić."
-      ],
-      "audio": {
-        "start": null,
-        "end": null
-      },
-      "images": [
+      "content": [
         {
-          "src": "../../images/chlopcy-z-placu-broni/01.png",
-          "alt": ""
+          "type": "text",
+          "paragraphs": [
+            "Nemeczek natomiast, ku zdumieniu wszystkich, zamiast rozdawać kartki wykorzystał okazję, że przez chwilę skupiła się na nim cała uwaga, i ściskając w zabrudzonej dłoni karteluszki, wystąpił krok naprzód. Stanął na baczność i odezwał się drżącym głosem:"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/34.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Melduję, panie kapitanie, że tak dłużej nie może być, żebym tylko ja był tu szeregowcem... Od czasu jak założyliśmy nasz związek, wszyscy już awansowali i są oficerami, a tylko ja jeden ciągle jestem szeregowcem i wszyscy mi rozkazują... i wszystko tylko ja muszę robić... i... i...",
+            "Nemeczek tak się wzruszył swoją niedolą, że po twarzy zaczęły mu spływać grube łzy.",
+            "- Trzeba go wykluczyć ze związku - chłodno zaproponował Czele.",
+            "- Beczy - powiedział ktoś inny.",
+            "Wszyscy wybuchnęli śmiechem. To rozżaliło Nemeczka do reszty. Uczuł kłucie w sercu, zaszlochał i głośno łkając wyjąkał:"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/35.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Zobaczcie w... w... czarnej księdze... tam też tylko ja... zawsze tylko ja jestem wpisywany... jak ten pies...",
+            "Boka przerwał mu spokojnym głosem:",
+            "- Jeśli natychmiast nie przestaniesz płakać, nie będziesz mógł więcej tutaj przychodzić. Nie zadajemy się z beksami.",
+            "Słowo „beksa” wywarło wrażenie. Mały, biedny Nemeczek okropnie się przestraszył, powoli opanował szloch. Wtedy kapitan położył mu rękę na ramieniu."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/36.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Jeśli będziesz się dobrze sprawował i odpowiednio zasłużysz, to jeszcze w maju awansujesz na oficera. Na razie jednak pozostaniesz szeregowcem.",
+            "Chłopcy zgodzili się z takim postawieniem sprawy, bo gdyby Nemeczek już w dzisiejszym dniu stał się oficerem, to wszystko straciłoby sens. Po prostu nie byłoby komu rozkazywać. Ciszę przerwał ostry głos Gereba:",
+            "- Szeregowy, zatemperujcie ołówek!",
+            "Szeregowemu wciśnięto w garść ołówek, który ułamał się w kieszeni Weissa, ponieważ nosił on w kieszeni również kulki. Szeregowiec nie protestował więcej i z załzawionymi oczyma, pochlipując jeszcze trochę, jak to po wielkim płaczu bywa, całą przepełniającą serce gorycz skupił na zaostrzeniu ołówka Hardmutha numer dwa.",
+            "- Go... gotowe, panie poruczniku! - zameldował."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/37.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Oddał zatemperowany ołówek i głęboko westchnął. Zrozumiał, że na razie musi zrezygnować z awansu na oficera.",
+            "Rozdano karteczki. Wszyscy rozeszli się i każdy, na osobności, wypełniał kartki, bo była to bardzo ważna sprawa. Potem szeregowy zbierał je i wrzucał do kapelusza Czelego. Kiedy Nemeczek obchodził wszystkich z kapeluszem w ręku, Barabasz trącił w bok Kolnaya."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/38.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Patrz, jego kapelusz też jest brudny!",
+            "Kolnay przyjrzał się dobrze kapeluszowi Czelego. I obaj doszli do wniosku, że nie mają się czego wstydzić. Jeżeli bowiem nawet kapelusz Czelego jest brudny, to już niczemu nie należy się dziwić."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/39.png"
         }
       ],
-      "questions": []
+      "audio": {
+        "start": 2810,
+        "end": 2991
+      },
+
+      "questions": [
+        {
+          "question": "Kim Nemeczek nie chce już być?",
+          "answer": "Tylko szeregowcem."
+        },
+        {
+          "question": "Kiedy Boka obiecał mu awans?",
+          "answer": "W maju."
+        }
+      ]
     },
     {
       "id": "part-07",
       "title": "Boka zostaje przewodniczącym",
       "description": "",
-      "paragraphs": [
-        "Boka zaczął odczytywać zebrane kartki, po czym podawał je stojącemu koło niego Gerebowi. W sumie było czternaście kartek. Czytał je kolejno: Janosz Boka, Janosz Boka, Janosz Boka... Jeden raz pojawiło się inne nazwisko: Deżo Gereb. Chłopcy spojrzeli po sobie. Domyślili się, że była to kartka Boki, który z grzeczności oddał głos na Gereba. Potem znów były kartki z nazwiskiem Boki. I znów głos oddany na Gereba. I na zakończenie jeszcze jedna kartka: Deżo Gereb. Boka dostał w sumie jedenaście głosów, Gereb trzy. Gereb uśmiechał się z zakłopotaniem. Po raz pierwszy zdarzyło się, że otwarcie rywalizował z Boka o przywództwo. Był zadowolony z uzyskanych trzech głosów. Natomiast Boce spośród tych trzech głosów dwa sprawiły przykrość. Zastanawiał się, którzy z chłopców nie na niego głosowali, ale już po chwili pogodził się z tym faktem.",
-        "- A więc wybraliście mnie na przewodniczącego.",
-        "Chłopcy zaczęli wiwatować, a Czonakosz znów gwizdnął. Nemeczek miał jeszcze łzy w oczach, ale z ogromnym zapałem wołał „Niech żyje!”, bo bardzo lubił Bokę."
-      ],
-      "audio": {
-        "start": null,
-        "end": null
-      },
-      "images": [
+      "content": [
         {
-          "src": "../../images/chlopcy-z-placu-broni/01.png",
-          "alt": ""
+          "type": "text",
+          "paragraphs": [
+            "Boka zaczął odczytywać zebrane kartki, po czym podawał je stojącemu koło niego Gerebowi. W sumie było czternaście kartek. Czytał je kolejno: Janosz Boka, Janosz Boka, Janosz Boka... Jeden raz pojawiło się inne nazwisko: Deżo Gereb. Chłopcy spojrzeli po sobie. Domyślili się, że była to kartka Boki, który z grzeczności oddał głos na Gereba. Potem znów były kartki z nazwiskiem Boki. I znów głos oddany na Gereba. I na zakończenie jeszcze jedna kartka: Deżo Gereb. Boka dostał w sumie jedenaście głosów, Gereb trzy. "
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/40.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Gereb uśmiechał się z zakłopotaniem. Po raz pierwszy zdarzyło się, że otwarcie rywalizował z Boka o przywództwo. Był zadowolony z uzyskanych trzech głosów. Natomiast Boce spośród tych trzech głosów dwa sprawiły przykrość. Zastanawiał się, którzy z chłopców nie na niego głosowali, ale już po chwili pogodził się z tym faktem.",
+            "- A więc wybraliście mnie na przewodniczącego.",
+            "Chłopcy zaczęli wiwatować, a Czonakosz znów gwizdnął. Nemeczek miał jeszcze łzy w oczach, ale z ogromnym zapałem wołał „Niech żyje!”, bo bardzo lubił Bokę."
+          ]
         }
       ],
-      "questions": []
+      "audio": {
+        "start": 2991,
+        "end": 3069
+      },
+      "questions": [
+        {
+          "question": "Ile głosów dostał Boka?",
+          "answer": "Jedenaście."
+        },
+        {
+          "question": "Ile głosów dostał Gereb?",
+          "answer": "Trzy."
+        }
+      ]
     },
     {
       "id": "part-08",
       "title": "Boka planuje wyprawę do Ogrodu Botanicznego",
       "description": "",
-      "paragraphs": [
-        "Przewodniczący poprosił o spokój.",
-        "- Dziękuję wam, koledzy - powiedział - a teraz natychmiast weźmy się do dzieła. Myślę, że wszyscy zdajemy sobie sprawę z tego, że czerwone koszule chcą nam odebrać Plac i twierdze. Już wczoraj Pastorowie zabrali naszym kulki, a dziś buszował tu Feri Acz i wziął naszą chorągiew. Prędzej czy później przyjdą tutaj, żeby nas wypędzić. Ale my tego Placu nigdy nie oddamy, obronimy go!",
-        "Czonakosz wrzasnął z całej siły:",
-        "- Niech żyje Plac!",
-        "Rozejrzeli się po dużym Placu i po stojących na nim, oświetlonych wiosennym słońcem, sągach drzewa. Chłopcom błyszczały oczy, widać było, że kochają ten swój kawałeczekziemi i gotowi są o niego walczyć, gdy przyjdzie ku temu potrzeba. Był to swoisty rodzaj miłości ojczyzny. I kiedy wołali „Niech żyje nasz Plac!”, brzmiało to zupełnie tak, jakby wołali „Niech żyje Ojczyzna!”. Płonęły im oczy, mocno biły serca.",
-        "Boka mówił dalej:",
-        "- Nie będziemy czekali, aż oni przyjdą do nas, uprzedzimy ich i sami pójdziemy do Ogrodu Botanicznego.",
-        "W innej sytuacji chłopcy cofnęliby się przed tak śmiałym planem, ale teraz, rozentuzjazmowani, zgodnie zakrzyknęli:",
-        "- Chodźmy!",
-        "A ponieważ wszyscy krzyknęli jednocześnie, więc również Nemeczek zawołał „Chodźmy”. Wiedział biedak, że i tak będzie maszerował na samym końcu i że na pewno dadzą mu do niesienia płaszcze panów oficerów. Do rozbrzmiewających na Placu okrzyków dołączył spod jednej z twierdz jakiś ochrypły głos: „Chodźmy!”. Spojrzeli w tamtą stronę. To wołał stary Słowak. Stał z fajką w ustach i uśmiechał się. Obok warował jego pies Hektor. Chłopcy roześmieli się. A Słowak naśladując ich podrzucił w górę swój kapelusz i wrzasnął jeszcze raz:",
-        "- Chodźmy!",
-        "Na tym zakończyła się część oficjalna. Przyszła kolej na grę w palanta. Jeden z chłopców rozkazującym tonem zarządził:",
-        "- Szeregowy! Przynieście z magazynu piłkę i bijak!",
-        "Nemeczek natychmiast pobiegł do magazynu, który mieścił się pod jednym z sągów. Wczołgał się do środka i wydobył ze schowka piłkę oraz bijak. Koło sągu, obok Słowaka, stali Kende i Kolnay. Kende trzymał w ręku kapelusz Słowaka, a Kolnay badał grubość warstwy brudu. Kapelusz Słowaka był zdecydowanie najbrudniejszym kapeluszem świata.",
-        "Boka podszedł do Gereba.",
-        "- Dostałeś trzy głosy - powiedział.",
-        "- Tak - odparł dumnie Gereb i twardo spojrzał mu w oczy."
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Przewodniczący poprosił o spokój.",
+            "- Dziękuję wam, koledzy - powiedział - a teraz natychmiast weźmy się do dzieła. Myślę, że wszyscy zdajemy sobie sprawę z tego, że czerwone koszule chcą nam odebrać Plac i twierdze. Już wczoraj Pastorowie zabrali naszym kulki, a dziś buszował tu Feri Acz i wziął naszą chorągiew. Prędzej czy później przyjdą tutaj, żeby nas wypędzić. Ale my tego Placu nigdy nie oddamy, obronimy go!",
+            "Czonakosz wrzasnął z całej siły:",
+            "- Niech żyje Plac!",
+            "Rozejrzeli się po dużym Placu i po stojących na nim, oświetlonych wiosennym słońcem, sągach drzewa. Chłopcom błyszczały oczy, widać było, że kochają ten swój kawałeczekziemi i gotowi są o niego walczyć, gdy przyjdzie ku temu potrzeba. Był to swoisty rodzaj miłości ojczyzny. I kiedy wołali „Niech żyje nasz Plac!”, brzmiało to zupełnie tak, jakby wołali „Niech żyje Ojczyzna!”. Płonęły im oczy, mocno biły serca."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/41.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka mówił dalej:",
+            "- Nie będziemy czekali, aż oni przyjdą do nas, uprzedzimy ich i sami pójdziemy do Ogrodu Botanicznego.",
+            "W innej sytuacji chłopcy cofnęliby się przed tak śmiałym planem, ale teraz, rozentuzjazmowani, zgodnie zakrzyknęli:",
+            "- Chodźmy!",
+            "A ponieważ wszyscy krzyknęli jednocześnie, więc również Nemeczek zawołał „Chodźmy”. Wiedział biedak, że i tak będzie maszerował na samym końcu i że na pewno dadzą mu do niesienia płaszcze panów oficerów. Do rozbrzmiewających na Placu okrzyków dołączył spod jednej z twierdz jakiś ochrypły głos: „Chodźmy!”. Spojrzeli w tamtą stronę. To wołał stary Słowak. Stał z fajką w ustach i uśmiechał się. Obok warował jego pies Hektor. Chłopcy roześmieli się. A Słowak naśladując ich podrzucił w górę swój kapelusz i wrzasnął jeszcze raz:",
+            "- Chodźmy!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/42.png"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na tym zakończyła się część oficjalna. Przyszła kolej na grę w palanta. Jeden z chłopców rozkazującym tonem zarządził:",
+            "- Szeregowy! Przynieście z magazynu piłkę i bijak!",
+            "Nemeczek natychmiast pobiegł do magazynu, który mieścił się pod jednym z sągów. Wczołgał się do środka i wydobył ze schowka piłkę oraz bijak. Koło sągu, obok Słowaka, stali Kende i Kolnay. Kende trzymał w ręku kapelusz Słowaka, a Kolnay badał grubość warstwy brudu. Kapelusz Słowaka był zdecydowanie najbrudniejszym kapeluszem świata.",
+            "Boka podszedł do Gereba.",
+            "- Dostałeś trzy głosy - powiedział.",
+            "- Tak - odparł dumnie Gereb i twardo spojrzał mu w oczy."
+          ]
+        }
       ],
+
       "audio": {
-        "start": null,
-        "end": null
+        "start": 3069,
+        "end": 3235
       },
       "images": [
         {
@@ -440,7 +667,16 @@
           "alt": ""
         }
       ],
-      "questions": []
+      "questions": [
+        {
+          "question": "Dokąd chłopcy pójdą?",
+          "answer": "Do Ogrodu Botanicznego."
+        },
+        {
+          "question": "Czego chłopcy nie oddadzą?",
+          "answer": "Placu."
+        }
+      ]
     }
   ],
   "finalQuiz": {

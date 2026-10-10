@@ -13,6 +13,56 @@
       "id": 2,
       "title": "Rozdział II",
       "file": "chapter-02.json"
+    },
+    {
+      "id": 3,
+      "title": "Rozdział III",
+      "file": "chapter-03.json"
+    },
+    {
+      "id": 4,
+      "title": "Rozdział IV",
+      "file": "chapter-04.json"
+    },
+    {
+      "id": 5,
+      "title": "Rozdział V",
+      "file": "chapter-05.json"
+    },
+    {
+      "id": 6,
+      "title": "Rozdział VI",
+      "file": "chapter-06.json"
+    },
+    {
+      "id": 7,
+      "title": "Rozdział VII",
+      "file": "chapter-07.json"
+    },
+    {
+      "id": 8,
+      "title": "Rozdział VIII",
+      "file": "chapter-08.json"
+    },
+    {
+      "id": 9,
+      "title": "Rozdział IX",
+      "file": "chapter-09.json"
+    },
+    {
+      "id": 10,
+      "title": "Rozdział X",
+      "file": "chapter-10.json"
+    },
+    {
+      "id": 11,
+      "title": "Podsumowanie lektury",
+      "file": "chapter-11.json"
+    },
+    {
+      "id": 12,
+      "title": "Test z całej książki",
+      "file": "chapter-12.json"
     }
   ]
 }

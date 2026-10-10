@@ -1,0 +1,836 @@
+{
+  "id": 7,
+  "title": "Rozdział VII",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Lekcja łaciny",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nazajutrz, podczas lekcji łaciny, zdenerwowanie w klasie osiągnęło takie natężenie, że nawet pan profesor Rac zwrócił na to uwagę.",
+            "Chłopcy wiercili się niespokojnie w ławkach, byli podnieceni i w ogóle nie zwracali uwagi na kolegów, którzy akurat odpowiadali. Ten stan ogarnął zresztą nie tylko chłopców z Placu Broni, ale w ogóle całą klasę, ba, można powiedzieć - całą szkołę. Wieść o przygotowaniach wojennych szybko rozeszła się po wielkim gmachu szkolnym i nawet chłopcy ze starszych klas, z siódmej i ósmej, poważnie interesowali się sprawą. Czerwone koszule chodziły do szkoły realnej w dzielnicy Józsefvaros i oczywiste było, że gimnazjaliści życzyli zwycięstwa chłopcom z Placu Broni. Niektórzy uważali nawet, że od tego zwycięstwa zależy honor szkoły.",
+            "- Co się dziś z wami dzieje? - zapytał ze zniecierpliwieniem profesor Rac. - Kręcicie się, zajmujecie się wszystkim, tylko nie lekcjami, bujacie myślami w obłokach.",
+            "Ale nie dochodził dalej przyczyny zamieszania. Zadowolił się stwierdzeniem, że klasa ma po prostu zły dzień. Karcącym głosem dodał:",
+            "- Oczywiście, jest wiosna, więc w głowach wam tylko piłka i kulki... nie podoba wam się w szkole! No, już ja wam dam nauczkę!",
+            "Ale tylko tak mówił. Pan profesor Rac sprawiał wrażenie srogiego, a w gruncie rzeczy był człowiekiem łagodnego serca.",
+            "- Siadaj! - powiedział do ucznia, który właśnie odpowiadał i zaczął szukać w notesie następnego nazwiska.",
+            "W takiej chwili w klasie zawsze zapadała śmiertelna cisza."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/142.png",
+          "alt": "Chłopcy wstrzymują oddech, gdy profesor kartkuje notes."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wszyscy, nawet ci, którzy byli dobrze przygotowani do lekcji, wstrzymywali oddech i wpatrywali się w palce nauczyciela przewracające kartki notesu. Chłopcy wiedzieli już nawet, na której stronie wpisane są ich nazwiska. Kiedy pan profesor przeglądał końcowe kartki notesu, wówczas z ulgą oddychali ci, których nazwiska zaczynają się na A i B. Kiedy potem nagle pan profesor przerzucał się znów na początek notesu, wówczas odzyskiwali humor chłopcy na R, S i T.",
+            "Nauczyciel długo kartkował notes, po czym cicho powiedział:",
+            "- Nemeczek!",
+            "- Nieobecny! - zagrzmiała cała klasa. A jeden z dobrze znanych na Placu Broni głosów dodał:",
+            "- Jest chory.",
+            "- A co mu jest?",
+            "- Przeziębił się.",
+            "Profesor Rac spojrzał na klasę i zapytał:",
+            "- Dlaczego nie uważacie na siebie?",
+            "Chłopcy z Placu Broni wymienili porozumiewawcze spojrzenia. Oni dobrze wiedzieli, z jakich to powodów mały Nemeczek nie uważał na siebie. Chłopcy z Placu siedzący w różnych miejscach klasy, jedni w pierwszym rzędzie, inni w trzecim, a Czonakosz, co tu dużo mówić, w ostatnim, znacząco popatrzyli na siebie. Wszyscy wiedzieli jedno: Nemeczek przeziębił się w imię dobrej sprawy. Mówiąc wprost, Nemeczek przeziębił się dla Ojczyzny."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/143.png",
+          "alt": "Chłopcy z Placu milczą o tajemnicy Nemeczka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Skąpał się biedny przynajmniej trzykrotnie, pierwszy raz przypadkowo, po raz drugi z własnej woli - honorowo, po raz trzeci wreszcie - pod przymusem. Ale nikt, za skarby świata, nie zdradziłby tej wielkiej tajemnicy, którą znali właściwie wszyscy, włącznie ze Związkiem Kitowców. W łonie tego związku rozpoczęto już nawet starania zmierzające do wymazania nazwiska Nemeczka z czarnej księgi, tyle tylko, że członkowie nie mogli dojść do porozumienia, czy należy najpierw dokonać poprawek, to znaczy zamienić początkowe litery nazwiska z małych na duże i dopiero wtedy wymazać całość, czy też wykreślić od razu, bez żadnych ceregieli. A ponieważ Kolnay, który ciągle jeszcze był prezesem, uważał, że należy niezwłocznie, bez żadnych poprawek, usunąć nazwisko Nemeczka z książki, przeto Barabasz natychmiast zajął inne stanowisko i utworzył frakcję, która domagała się stanowczo, aby wpierw oddać honor nazwisku Nemeczka."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "łacina",
+          "match": "łaciny",
+          "uk": "латина",
+          "ru": "латынь"
+        },
+        {
+          "phrase": "notes",
+          "match": "notesie",
+          "uk": "записник",
+          "ru": "записная книжка"
+        },
+        {
+          "phrase": "Ojczyzna",
+          "match": "Ojczyzny",
+          "uk": "Батьківщина",
+          "ru": "Отчизна"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Dlaczego klasa nie mogła usiedzieć na łacinie?",
+          "answer": "Wszyscy myśleli o wojnie z czerwonymi koszulami."
+        },
+        {
+          "question": "Dlaczego Nemeczka nie było w szkole?",
+          "answer": "Był chory, przeziębił się."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Sami damy radę",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ale ten spór stracił na znaczeniu. Najważniejszą sprawą stała się bowiem oczekująca chłopców dziś po południu bitwa. Po lekcji łaciny do Boki zgłaszali się koledzy z klasy, którzy deklarowali pomoc, choć nie należeli do paczki. Boka jednak wszystkim odpowiadał tak samo:",
+            "- Bardzo żałujemy, ale nie możemy przyjąć waszej pomocy. Sami musimy obronić nasz kraj. Jeśli nawet czerwoni okażą się od nas silniejsi, to spróbujemy pokonać ich sprytem. Co będzie, to będzie, trudno, ale chcemy walczyć sami, bez niczyjej pomocy.",
+            "Zainteresowanie było tak ogromne, że zgłaszali się nie tylko uczniowie z innych klas - o godzinie pierwszej, kiedy wszyscy rozbiegli się do domów na obiad, straganiarz, sprzedający słodycze w bramie opodal szkoły, również zaproponował Boce swoje usługi.",
+            "- Paniczu - powiedział - gdybym przyszedł pomóc, tobym sam jeden ich wszystkich wyrzucił!",
+            "Boka uśmiechnął się.",
+            "- Dziękuję bardzo, sami damy sobie radę!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/144.png",
+          "alt": "Boka odmawia pomocy sprzedawcy słodyczy."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka śpieszył się do domu. W szkolnej bramie koledzy z klasy otoczyli chłopców z Placu Broni i udzielali im najrozmaitszych pożytecznych rad. Byli i tacy, którzy pokazywali, w jaki sposób należy podstawiać nogę. Inni zgłaszali się na przeszpiegi. A jeszcze inni prosili, żeby im pozwolono zobaczyć całą walkę. Ale nikt nie dostał na to zgody. Boka wydał surowy rozkaz: w momencie rozpoczęcia bitwy należy zamknąć furtkę i otworzyć ją dopiero wówczas, kiedy nieprzyjaciel zacznie się wycofywać.",
+            "Rozmowy te trwały zaledwie kilka chwil. Chłopcy rozbiegli się szybko, gdyż punktualnie o drugiej należało zameldować się na Placu. Piętnaście po pierwszej okolice gimnazjum całkowicie opustoszały. Nawet sprzedawca słodyczy zwijał swój kram i tylko szkolny woźny spokojnie palił fajkę przed bramą,"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/145.png",
+          "alt": "Woźny pali fajkę, a sprzedawca w fezie zwija kram."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "robiąc od czasu do czasu zgryźliwe uwagi pod adresem człowieka w tureckim fezie:",
+            "- Nie wróżę wam, człowieku, długiego żywota w naszym sąsiedztwie. Usuniemy was stąd razem z tą całą waszą śmieciarnią!",
+            "Sprzedawca nie reagował jednak na zaczepki woźnego. Wzruszał tylko ramionami. W swoim czerwonym fezie uważał się za ważną osobistość i wcale nie zamierzał się wdawać w rozmowy ze zwykłym woźnym. Tym bardziej że zdawał sobie doskonale sprawę, że woźny ma rację."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "straganiarz",
+          "match": "straganiarz",
+          "uk": "лоточник",
+          "ru": "лоточник"
+        },
+        {
+          "phrase": "fez",
+          "match": "fezie",
+          "uk": "феска",
+          "ru": "феска"
+        },
+        {
+          "phrase": "przeszpiegi",
+          "match": "przeszpiegi",
+          "uk": "розвідка",
+          "ru": "шпионаж"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Czy Boka przyjął pomoc kolegów z klasy?",
+          "answer": "Nie. Powiedział, że Plac muszą obronić sami."
+        },
+        {
+          "question": "Kto jeszcze chciał sam wyrzucić czerwonych koszul?",
+          "answer": "Sprzedawca słodyczy spod szkoły."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Stopień generała",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Punktualnie o godzinie drugiej, kiedy Boka w czerwono - zielonej czapce chłopców z Placu Broni pojawił się w furtce, cała armia w szyku wojskowym stała już na środku pola. Przyszli wszyscy. Brakowało jedynie Nemeczka, który leżał w domu chory. Tak więc w dniu bitwy, w samym dniu bitwy, armia z Placu Broni pozostała bez swego szeregowca. Na placu znajdowali się wyłącznie podporucznicy, porucznicy i kapitanowie. A szeregowiec, jedyny, stanowiący trzon armii szeregowiec, leżał chory w małym domku z ogródkiem przy ulicy Rakos.",
+            "Boka natychmiast zaczął działać i wojskowym tonem zawołał:",
+            "- Baczność!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/146.png",
+          "alt": "Armia staje na baczność przed Boką."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wszyscy wyprężyli się jak struny.",
+            "Boka odezwał się dźwięcznym, donośnym głosem:",
+            "- Niniejszym wiadomym się czyni, że składam swoją funkcję przewodniczącego, ponieważ jest to funkcja obowiązująca w czasie pokoju. Teraz mamy stan wojenny, więc przyjmuję stopień generała!",
+            "Była to dla wszystkich wielce przejmująca chwila. Chwila podniosła i historyczna, kiedy w obliczu największego zagrożenia Boka przyjmował stopień generała.",
+            "Po chwili Boka dodał:",
+            "- A teraz jeszcze raz przedstawię plan wojenny, żeby potem nie było żadnych nieporozumień.",
+            "Powtórzył dokładnie przebieg całej akcji. I choć wszyscy znali plan na pamięć, to przecież ze skupieniem wsłuchiwali się w każde słowo.",
+            "Kiedy generał skończył, padł rozkaz:",
+            "- Wszyscy na posterunki!",
+            "Stojący w szeregu chłopcy rozbiegli się natychmiast i przy Boce pozostał tylko Kolnay. Bo to on właśnie zastąpił chorego adiutanta Nemeczka. Przez ramię miał przewieszoną trąbkę z żółtej miedzi."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/147.png",
+          "alt": "Kolnay z miedzianą trąbką zastępuje Nemeczka."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Trąbka ta została zakupiona za jednego forinta i czterdzieści grajcarów, stanowiących wspólny majątek. W tej kwocie mieścił się również cały kapitał Związku Kitowców, w sumie dwudziestu sześciu grajcarów, które naczelny wódz po prostu zarekwirował na cele wojenne.",
+            "Była to piękna pocztowa trąbka: miała taki sam głos jak prawdziwa trąbka wojskowa. Ustalono, że trąbką podawane będą tylko trzy sygnały. Pierwszy oznaczający, że nadchodzi nieprzyjaciel, drugi wzywający do ataku, trzeci - miał szczególne znaczenie: na ten sygnał wszyscy powinni skupić się wokół generała. Chłopcy nauczyli się tych sygnałów na pamięć podczas wczorajszych manewrów."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "generał",
+          "match": "generała",
+          "uk": "генерал",
+          "ru": "генерал"
+        },
+        {
+          "phrase": "trąbka",
+          "match": "trąbkę",
+          "uk": "сурма",
+          "ru": "горн"
+        },
+        {
+          "phrase": "grajcar",
+          "match": "grajcarów",
+          "uk": "крейцер",
+          "ru": "крейцер"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaki stopień przyjął Boka na czas wojny?",
+          "answer": "Stopień generała."
+        },
+        {
+          "question": "Kto zastąpił chorego Nemeczka i co miał przy sobie?",
+          "answer": "Kolnay, z trąbką z żółtej miedzi."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Służąca z listem",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Siedzący okrakiem na szczycie płotu wartownik, z jedną nogą przerzuconą przez parkan od strony ulicy Pawła, wykrzyknął nagle przerażonym głosem:",
+            "- Panie generale!",
+            "- Słucham?",
+            "- Melduję posłusznie, że jakaś służąca z listem chce wejść na Plac.",
+            "- A kogo szuka?",
+            "- Mówi, że szuka pana generała.",
+            "Boka zbliżył się do parkanu.",
+            "- Przypatrz jej się dobrze, czy to przypadkiem nie przyszedł na przeszpiegi ktoś z czerwonych koszul przebrany za dziewczynę.",
+            "Wartownik przechylił się przez płot tak bardzo, że omal nie spadł na ulicę."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/148.png",
+          "alt": "Wartownik wychyla się z płotu."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Potem zameldował:",
+            "- Panie generale, melduję posłusznie, dobrze się jej przyjrzałem. To prawdziwa dziewczyna.",
+            "- Jeśli prawdziwa, to niech wejdzie.",
+            "I podszedł, żeby otworzyć furtkę. Najprawdziwsza dziewczyna weszła i rozejrzała się po Placu. Była bez chustki, w kapciach, przybiegła pewnie tak jak stała, prosto od zmywania."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/149.png",
+          "alt": "Służąca Mari przynosi list."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Przyniosłam list od państwa Gerebów - powiedziała. - Panicz przykazał, że to bardzo pilna sprawa i że czeka na odpowiedź...",
+            "Boka otworzył list zaadresowany do „Jaśnie Oświeconego Pana Przewodniczącego Boki”. Był to właściwie nie list, a plik kartek różnego formatu. Znajdowała się w nim kartka wyrwana z zeszytu i arkusik listowego papieru, i kawałek kartki z papeterii siostry, a wszystkie te kartki i karteluszki zapisano bitym maczkiem po obu stronach. Boka zaczął czytać."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "służąca",
+          "match": "służąca",
+          "uk": "служниця",
+          "ru": "служанка"
+        },
+        {
+          "phrase": "kapcie",
+          "match": "kapciach",
+          "uk": "капці",
+          "ru": "домашние туфли"
+        },
+        {
+          "phrase": "list",
+          "match": "list",
+          "uk": "лист",
+          "ru": "письмо"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kogo wartownik zobaczył przy płocie?",
+          "answer": "Służącą z listem, prawdziwą dziewczynę."
+        },
+        {
+          "question": "Od kogo był list?",
+          "answer": "Od państwa Gerebów."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "List Gereba",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kochany Boka!",
+            "Wiem wprawdzie, że ty nawet listownie nie będziesz chciał ze mną rozmawiać, ale ja muszę skorzystać z tej ostatniej już szansy, nim zerwę z wami ostatecznie. Dziś zdaję sobie sprawę, jak wielki popełniłem błąd i przyznaję, że wy nie zasłużyliście w niczym na takie moje postępowanie, tym bardziej że przepięknie zachowaliście się wobec mego ojca, a zwłaszcza Nemeczek, który powiedział ojcu, że ja was wcale nie zdradziłem. Mój ojciec tak się ucieszył, kiedy się okazało, że ja nie jestem zdrajcą, że jeszcze tego samego dnia kupił mi książkę ,,Tajemnicza wyspa” Juliusza Verne'a, o którą go już od dawna prosiłem. A ja tę książkę natychmiast zaniosłem w prezencie Nemeczkowi i nawet jej nie przeczy talem, chociaż bardzo chciałem ją przeczytać."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/150.png",
+          "alt": "Gereb zanosi Nemeczkowi książkę w prezencie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Na drugi dzień ojciec zauważył, że nie mam „Tajemniczej wyspy”, i zapytał: „Gdzie jest ta książka, ty niecnoto?”, a ja nie mogłem się przyznać, więc ojciec powiedział: „Ach, ty łobuzie, sprzedałeś ją na pewno w antykwariacie, poczekaj, już nigdy więcej nic ode mnie nie dostaniesz!” I tego dnia rzeczywiście nie dostałem nawet obiadu, ale wcale nie żałowałem. Jeśli biedny Nemeczek niewinnie za mnie cierpiał, to niech i ja trochę pocierpię za niego. Ale ja o tym tylko tak przy okazji, bo w innej sprawie piszę. Wczoraj w szkole, kiedy w ogóle nie chcieliście ze mną rozmawiać, cały czas zastanawiałem się, jak mógłbym naprawić swoją winę. I wreszcie znalazłem sposób. Pomyślałem sobie, że mogę naprawić błąd w taki sam sposób, w jaki go popełniłem. I dlatego zaraz po południu, kiedy z takim żalem odszedłem od was, bo ty nie chciałeś mnie z powrotem przyjąć, ruszyłem prosto do Ogrodu Botanicznego, aby zdobyć dla was ważne wieści. Naśladując Nemeczka wdrapałem się na to samo drzewo na wyspie, na którym on wtedy siedział przez całe popołudnie."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/151.png",
+          "alt": "Gereb siedzi na drzewie na wyspie."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Oczywiście przyszedłem na wyspę wcześnie, kiedy jeszcze nie było tam nikogo z czerwonych koszul. Wreszcie oni się pojawili gdzieś koło godziny czwartej i okropnie na mnie wymyślali, czego ja na drzewie musiałem wysłuchać. Ale nic mnie to nie obchodziło, bo znów czułem się chłopcem z Placu Broni, jednym z was, i przestało się liczyć to, że mnie wyrzuciliście, bo przecież mego serca nie mogliście wyrzucić, ono pozostało przy was i możesz mnie wyśmiać, ale powiem ci, że omal nie popłakałem się z radości, kiedy Feri Acz powiedział: ,,A ten Gereb mimo wszystko należy do nich, a nie do nas, i on nie jest prawdziwym zdrajcą. Ci chłopcy z Placu Broni chyba go do nas przysłali na przeszpiegi”. I przeprowadzili walne zebranie, a ja słyszałem każde ich słowo. Powiedzieli, że ponieważ Nemeczek wszystko podsłuchał, to oni dziś nie pójdą walczyć, bo wy jesteście przygotowani. Postanowili dopiero jutro przeprowadzić z wami bitwę. Ale wymyślili jeszcze coś bardzo chytrego i mówili o tym tak cicho, że musiałem zejść o dwie gałęzie niżej, żeby słyszeć, o czym mówią. Kiedy się poruszyłem, zaszeleściły liście, a Wendauer, który to usłyszał, powiedział: ,,A może Nemeczek znów siedzi na tym drzewie?” - ale to był tylko taki żart i, na szczęście, nikt nie podniósł głowy, żeby spojrzeć na drzewo. Zresztą gdyby nawet spojrzeli w górę, to i tak nic by nie zobaczyli, bo na gałęziach są bardzo gęste liście. Więc postanowili, że jutro przeprowadzą atak w taki sam sposób, jak to przedtem ustalili, ty ten plan musisz znać, bo Nemeczek wszystko ci powtórzył. Feri Acz powiedział: „Oni teraz myślą, że my zmienimy nasz plan wojenny, bo Nemeczek nas podsłuchał. Ale my tego planu nie zmienimy właśnie dlatego, że oni się spodziewają, iż zmienimy”. Tak postanowili. Potem przeprowadzili ćwiczenia, a ja siedziałem na drzewie do pół do siódmej w największym niebezpieczeństwie, bo możesz sobie wyobrazić, co by było, gdyby mnie zauważyli. Ledwo mogłem już na tym drzewie wytrzymać, ręce mi całkiem ścierpły i tak osłabłem, że gdyby nie poszli o pól do siódmej do domów, to spadłbym prosto na nich jak dojrzała gruszka, chociaż to wcale nie była grusza. Ale to tylko taki sobie żart. Liczy się to, czego się dowiedziałem. Po pół do siódmej zlazłem z drzewa i pobiegłem do domu, a po kolacji musiałem odrabiać przy świecy łacinę, bo straciłem przecież całe popołudnie. Teraz, drogi Boka. już tylko o jedno cię proszę. Uwierz mi, że wszystko, co napisałem w tym liście, jest szczerą prawdą i nie myśl, że jest to jeszcze jedno kłamstwo i że chcę was wprowadzić w błąd jako szpieg czerwonych koszul. Piszę list dlatego, że chce wrócić do was i chcę zasłużyć na wasze przebaczenie. Będę waszym wiernym żołnierzem i nie będę żałował swojej decyzji, nawet jeśli mnie zdegradujesz i odbierzesz rangę porucznika; wrócę do was równie chętnie jako szeregowy, tym bardziej że teraz, ze względu na chorobę Nemeczka, nie macie w swoim wojsku żadnego szeregowca, jeśli nie liczyć psa starego Jana, ale Hektor też chyba teraz nie jest szeregowcem, tylko psem wojennym. A ja jestem chłopakiem i mogę być dobrym szeregowym. Jeśli teraz ostatni już raz przebaczyłbyś mi i przyjął z powrotem, to ja natychmiast przyszedłbym do was i walczył razem z wami w jutrzejszej bitwie, a iv czasie walki postaram się naprawić wszystkie swoje błędy. Bardzo cię proszę, daj mi znać przez Mari, czy mogę do was przyjść, czy też nie chcecie, żebym przychodził. Ale gdybyście się zgodzili, to ja zaraz przyjdę, bo czekam na waszą odpowiedź w bramie przy ulicy Pawia 5.",
+            "Twój wierny przyjaciel",
+            "Gereb"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "książka",
+          "match": "książkę",
+          "uk": "книжка",
+          "ru": "книга"
+        },
+        {
+          "phrase": "przebaczenie",
+          "match": "przebaczenie",
+          "uk": "прощення",
+          "ru": "прощение"
+        },
+        {
+          "phrase": "szpieg",
+          "match": "szpieg",
+          "uk": "шпигун",
+          "ru": "шпион"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co Gereb zrobił z książką od ojca?",
+          "answer": "Zaniósł ją w prezencie Nemeczkowi, nawet jej nie przeczytawszy."
+        },
+        {
+          "question": "Na kiedy czerwone koszule przełożyły bitwę?",
+          "answer": "Na jutro, i nie zmieniają planu."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Szeregowy Gereb",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kiedy Boka doszedł do ostatnich zdań listu, zrozumiał, że Gereb nie kłamie, że chce zmazać swoją winę i warto go przyjąć z powrotem. Przywołał więc swego adiutanta.",
+            "- Adiutancie - rozkazał - zatrąbcie trzeci sygnał, niech wszyscy zbiorą się przy mnie.",
+            "- Czy dostanę odpowiedź? - zapytała Mari.",
+            "- Proszę jeszcze chwilę poczekać - odpowiedział stanowczym głosem generał.",
+            "Rozległ się dźwięk trąbki i spoza sągów niepewnie zaczęli wychodzić chłopcy, zdziwieni tym, że generał ich wzywa. Widok Boki, spokojnie stojącego w miejscu dowodzenia, ośmielił ich jednak i po chwili cała armia znów stała przed generałem w karnym szyku. Boka odczytał chłopcom list i zapytał:",
+            "- Czy przyjmiemy go z powrotem?",
+            "Chłopcy, co tu dużo mówić, mieli dobre serca, odpowiedzieli więc jednym głosem:",
+            "- Tak!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/152.png",
+          "alt": "Chłopcy zgadzają się przyjąć Gereba."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- Proszę mu powiedzieć, żeby tu przyszedł. To nasza odpowiedź - Boka zwrócił się do służącej.",
+            "Mari gapiła się na stojącą w szyku armię, na czerwono - zielone czapki, na uzbrojenie... Ale po chwili szybko wybiegła przez furtkę.",
+            "- Rychter! - zawołał Boka, kiedy już zostali sami.",
+            "Rychter wystąpił z szeregu.",
+            "- Oddaję Gereba pod twoją komendę - powiedział generał - i ty masz na niego uważać. W razie najmniejszego podejrzenia natychmiast zamkniesz go w budzie. Nie sądzę, żeby do tego doszło, ale ostrożność nigdy nie zawadzi. Spocznij! Dziś, jak słyszeliście, nie będzie bitwy. Wszystko, co planowaliśmy na dzisiaj, przekładamy na jutro. A że przeciwnik nie zmienia swego planu, więc u nas również wszystko zostaje po staremu.",
+            "Boka chciał mówić dalej, ale furtka, której po wyjściu Mari nikt nie zamknął, otworzyła się z trzaskiem i na Plac, niczym do raju, wpadł Gereb z promieniejącą twarzą. Ale gdy spostrzegł stojącą w szeregu armię, natychmiast spoważniał. Podszedł do Boki i wśród ogólnego napięcia zasalutował. Na głowie miał czerwono - zieloną czapkę chłopców z Placu Broni. Wyprężony na baczność powiedział:",
+            "- Panie generale, melduję się posłusznie!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/153.png",
+          "alt": "Gereb melduje się w czerwono-zielonej czapce."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "- W porządku - powiedział Boka całkiem zwyczajnie. - Jesteś przydzielony do Rychtera, na razie jako szeregowy. Zobaczymy, jak spiszesz się w czasie bitwy, być może odzyskasz swoją rangę.",
+            "Po czym Boka zwrócił się do swego wojska:",
+            "- Wam wszystkim natomiast najsurowiej zabraniam rozmawiać z Gerebem o tym, co się stało. On postanowił zmazać swoją winę, a my mu przebaczyliśmy. I musimy mu pomóc. Gerebowi także zabraniam o tym mówić i uważam sprawę za zakończoną.",
+            "Chłopcy słuchali w milczeniu, każdy mówił sobie w duchu: Boka jest naprawdę mądry, zasługuje na to, żeby być naszym generałem."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "adiutant",
+          "match": "Adiutancie",
+          "uk": "ад'ютант",
+          "ru": "адъютант"
+        },
+        {
+          "phrase": "szeregowy",
+          "match": "szeregowy",
+          "uk": "рядовий",
+          "ru": "рядовой"
+        },
+        {
+          "phrase": "sygnał",
+          "match": "sygnał",
+          "uk": "сигнал",
+          "ru": "сигнал"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Czy chłopcy przyjęli Gereba z powrotem?",
+          "answer": "Tak."
+        },
+        {
+          "question": "W jakiej randze Gereb ma na razie walczyć?",
+          "answer": "Jako szeregowy, pod komendą Rychtera."
+        }
+      ]
+    },
+    {
+      "id": "part-07",
+      "title": "Biała chorągiew",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Rychter natychmiast zaczął Gerebowi tłumaczyć, jakie zadania będzie spełniał jutro w czasie bitwy. Boka rozmawiał z Kolnayem. I kiedy tak cicho ze sobą dyskutowali, wartownik, który ciągle siedział okrakiem na płocie, gwałtownie przerzucił nogę do środka. Był tak przerażony, że dopiero po chwili wyjąkał:",
+            "- Panie generale... nieprzyjaciel nadchodzi!",
+            "Boka błyskawicznie doskoczył do furtki i zamknął zasuwę. Wszyscy spojrzeli na Gereba, który blady jak śmierć stał koło Rychtera."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/154.png",
+          "alt": "Blady Gereb przy Rychterze."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka ze złością krzyknął do niego:",
+            "- To jednak nas oszukałeś?! Znów nas okłamałeś?!",
+            "Gereb ze zdumienia nie mógł z siebie wydobyć słowa. Rychter chwycił go za ramię.",
+            "- Co to znaczy?! - ryknął Boka.",
+            "Dopiero teraz Gereb z trudem próbował odpowiedzieć:",
+            "- Może... może zauważyli mnie na tym drzewie... i chcieli zwieść...",
+            "Wartownik jeszcze raz wyjrzał na ulicę, po czym zeskoczył z parkanu, chwycił za swoją broń i wraz z innymi stanął w szeregu.",
+            "- Idą czerwone koszule - powtórzył.",
+            "Boka podszedł do furtki, otworzył ją i śmiało wyszedł na ulicę. Czerwoni rzeczywiście nadchodzili. Ale było ich tylko trzech: bracia Pastorowie i Sebenicz. Kiedy zobaczyli Bokę, Sebenicz wyciągnął spod kurtki białą chorągiew i zaczął nią wymachiwać."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/155.png",
+          "alt": "Trzech posłów z białą chorągwią."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Już z daleka krzyknął:",
+            "- Jesteśmy posłami!",
+            "Boka wrócił na Plac. Trochę mu wstyd było przed Gerebem, że zbyt pośpiesznie go posądził. Zaraz też zwrócił się do Rychtera:",
+            "- Puść go. To tylko posłowie z białą chorągwią. Przepraszam cię, Gereb.",
+            "Biedny Gereb odetchnął z ulgą. Przez przypadek wpadłby w tarapaty. Ale i wartownik dostał za swoje.",
+            "- A ty - krzyknął na niego Boka - dobrze się przypatrz na drugi raz, zanim ogłosisz alarm! Zachowałeś się jak strachliwy zając.",
+            "Po czym wydał rozkaz:",
+            "- W tył zwrot, skryć się za sągami. Ze mną zostaną tylko Czele i Kolnay. Nikt więcej! Odmaszerować!"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "poseł",
+          "match": "posłami",
+          "uk": "посол",
+          "ru": "парламентер"
+        },
+        {
+          "phrase": "chorągiew",
+          "match": "chorągiew",
+          "uk": "прапор",
+          "ru": "знамя"
+        },
+        {
+          "phrase": "zasuwa",
+          "match": "zasuwę",
+          "uk": "засув",
+          "ru": "засов"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Kto naprawdę nadchodził z ulicy?",
+          "answer": "Tylko trzej posłowie: bracia Pastorowie i Sebenicz."
+        },
+        {
+          "question": "Co niósł Sebenicz?",
+          "answer": "Białą chorągiew."
+        }
+      ]
+    },
+    {
+      "id": "part-08",
+      "title": "Reguły wojny",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy ruszyli wojskowym krokiem i wraz z Gerebem ukryli się szybko za sągami drzewa. Ostatnia czerwono - zielona czapka zniknęła z pola widzenia w tym samym momencie, kiedy zastukano do furtki. Adiutant otworzył zasuwę i na Plac weszli posłowie, wszyscy trzej w czerwonych koszulach i w czerwonych czapkach. Przybyli bez żadnej broni, a Sebenicz trzymał w ręku białą chorągiew.",
+            "Boka wiedział, jak należy się w takiej sytuacji zachować. Oparł swoją włócznię o parkan na znak, że w czasie pertraktacji nie użyje broni."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/156.png",
+          "alt": "Boka opiera włócznię o parkan."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Kolnay i Czele poszli w jego ślady, a Kolnay w swojej gorliwości posunął się tak daleko, że położył na ziemi również trąbkę.",
+            "Starszy Pastor wystąpił krok do przodu, żeby przedstawić misję, z którą przybyli.",
+            "- Czy mam zaszczyt rozmawiać z naczelnym wodzem?",
+            "- Tak, to jest nasz generał - odpowiedział Czele.",
+            "- Przybyliśmy jako posłowie - powiedział Pastor - i ja jestem dowódcą naszej misji. Przyszliśmy tu, żeby w imieniu naszego wodza, Feriego Acza, wypowiedzieć wam wojnę.",
+            "Kiedy Pastor wymienił nazwisko wodza czerwonych koszul, posłowie podnieśli ręce do czapek i oddali mu honory. Boka i jego towarzysze przez uprzejmość również zasalutowali. Pastor mówił dalej:",
+            "- Nie chcemy zaskoczyć przeciwnika. Przyjdziemy tu jutro dokładnie o pół do trzeciej. To wszystko, co mamy wam do powiedzenia. Prosimy o odpowiedź.",
+            "Boka zdawał sobie sprawę, że jest to bardzo ważna chwila. Głos mu drżał trochę.",
+            "- Przyjmujemy wypowiedzenie wojny - odpowiedział. - Musimy tylko ustalić reguły. Nie chcę, żeby wywiązała się zwykła bijatyka.",
+            "- My też nie chcemy - powiedział ponuro Pastor i swoim zwyczajem opuścił nisko głowę.",
+            "- Proponuję przyjąć - kontynuował Boka - trzy rodzaje prowadzenia walki. Na bomby piaskowe, zapasy oraz szermierkę na włócznie. Czy znacie obowiązujące w tych walkach zasady?",
+            "- Tak.",
+            "- Kto w zapasach dotknie ziemi obiema łopatkami, ten jest pokonany i odpada z walki. Ale może walczyć dalej na dzidy i bomby z piasku. Zgadzacie się?",
+            "- Zgadzamy.",
+            "- Włóczniami nie wolno ani uderzać, ani kłuć. Dozwolony tylko fechtunek∗.",
+            "- Tak jest.",
+            "- I dwóch nie może napadać na jednego. Ale całe oddziały mogą atakować się wzajemnie. Przyjmujecie?",
+            "- Przyjmujemy.",
+            "- Nie mam wam nic więcej do powiedzenia.",
+            "Boka zasalutował, a delegacja czerwonych koszul oddała mu honory. Pastor jednak znów się odezwał:",
+            "- Muszę was jeszcze o coś zapytać. Nasz dowódca polecił nam dowiedzieć się o zdrowie Nemeczka. Słyszeliśmy, że zachorował. Jeżeli to prawda, to chcielibyśmy go odwiedzić, ponieważ okazał się niezwykle odważny, a my takiego przeciwnika bardzo szanujemy.",
+            "- Mieszka na ulicy Rakos - rzekł Boka - pod trójką. Jest bardzo chory."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/157.png",
+          "alt": "Boka mówi, gdzie leży chory Nemeczek."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Delegacja zasalutowała w milczeniu. Sebenicz znów uniósł w górę białą chorągiew, starszy Pastor wydał komendę „Odmaszerować!” i trójka posłów opuściła Plac. Na ulicy usłyszeli sygnał trąbki. To generał wzywał do siebie swoją armię, aby opowiedzieć, co się wydarzyło."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "fechtunek",
+          "match": "fechtunek",
+          "uk": "фехтування",
+          "ru": "фехтование"
+        },
+        {
+          "phrase": "włócznia",
+          "match": "włócznię",
+          "uk": "спис",
+          "ru": "копье"
+        },
+        {
+          "phrase": "pertraktacje",
+          "match": "pertraktacji",
+          "uk": "переговори",
+          "ru": "переговоры"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "O której czerwone koszule przyjdą jutro?",
+          "answer": "O pół do trzeciej."
+        },
+        {
+          "question": "O co jeszcze zapytali posłowie?",
+          "answer": "O zdrowie Nemeczka i gdzie mieszka."
+        }
+      ]
+    },
+    {
+      "id": "part-09",
+      "title": "U chorego Nemeczka",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Delegacja czerwonych koszul spiesznym krokiem maszerowała w stronę ulicy Rakos i zatrzymała się dopiero przed domem, w którym mieszkał Nemeczek. śeby się jeszcze upewnić, zapytali stojącą w bramie dziewczynkę:",
+            "- Czy tu mieszka niejaki Nemeczek?",
+            "- Tak - odpowiedziała dziewczynka i zaprowadziła chłopców do ubogiego mieszkania na parterze, które zajmowali rodzice Nemeczka. Na drzwiach znajdowała się mała, pomalowana na niebiesko blaszana tabliczka z napisem: ,,Andrasz Nemeczek, krawiec”."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/158.png",
+          "alt": "Niebieska tabliczka na drzwiach krawca."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy weszli, ukłonili się i powiedzieli, co ich tu sprowadza. Matka Nemeczka, szczupła, wątła, jasnowłosa kobieta, bardzo podobna do swego syna - albo raczej odwrotnie, do której syn był bardzo podobny - zaprowadziła chłopców do pokoju, w którym leżał szeregowiec. Sebenicz, wchodząc, wysoko podniósł białą chorągiew, a starszy z Pastorów wystąpił krok do przodu.",
+            "- Ferenc Acz przesyła pozdrowienia i życzy ci, żebyś jak najszybciej wyzdrowiał.",
+            "Mały Nemeczek, blady i wymizerowany, leżał na poduszce ze zmierzwionymi włosami."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "../../images/chlopcy-z-placu-broni/159.png",
+          "alt": "Blady Nemeczek leży w łóżku."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Słysząc te słowa usiadł na łóżku. Uśmiechnął się radośnie i zapytał:",
+            "- Kiedy będzie wojna?",
+            "- Jutro!",
+            "Nemeczek posmutniał.",
+            "- To ja nie będę mógł przyjść - powiedział markotnie.",
+            "Posłowie nic nie odpowiedzieli. Po kolei podawali rękę Nemeczkowi, a groźny Pastor, wyraźnie wzruszony, rzekł:",
+            "- Nie gniewaj się za tamto.",
+            "- Nie gniewam się - powiedział cichutko Nemeczek i zaczął kaszleć. Opadł z powrotem na poduszkę, a Sebenicz poprawił mu ją pod głową. Po czym Pastor zarządził:",
+            "- Idziemy!",
+            "Chorąży znów uniósł w górę białą chorągiew i wszyscy trzej posłowie wyszli do kuchni. Tam zatrzymała ich z płaczem matka Nemeczka.",
+            "- Wy wszyscy... wszyscy jesteście takimi dzielnymi, dobrymi chłopcami... tak kochacie mojego biednego, małego synka... Poczekajcie chwilę... dostaniecie po filiżance czekolady...",
+            "Członkowie delegacji spojrzeli na siebie. Filiżanka czekolady była wielce smakowitą rzeczą, ale mimo to starszy Pastor wystąpił krok naprzód i po raz pierwszy nie opuszczając nisko głowy, jak to miał w zwyczaju, z godnością oświadczył:",
+            "- Dziękujemy bardzo, ale nie zasługujemy na czekoladę. Naprzód marsz!",
+            "I odmaszerowali."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "krawiec",
+          "match": "krawiec",
+          "uk": "кравець",
+          "ru": "портной"
+        },
+        {
+          "phrase": "poduszka",
+          "match": "poduszce",
+          "uk": "подушка",
+          "ru": "подушка"
+        },
+        {
+          "phrase": "czekolada",
+          "match": "czekolady",
+          "uk": "шоколад",
+          "ru": "шоколад"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Co było napisane na niebieskiej tabliczce?",
+          "answer": "Andrasz Nemeczek, krawiec."
+        },
+        {
+          "question": "Dlaczego Pastorowie nie wzięli czekolady?",
+          "answer": "Powiedzieli, że na nią nie zasługują."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Rozdział VII",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Dlaczego Nemeczka nie było na lekcji?",
+        "options": [
+          "Uciekł na Plac",
+          "Był chory",
+          "Siedział w kozie"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jaki stopień przyjął Boka?",
+        "options": [
+          "Generała",
+          "Kapitana",
+          "Szeregowca"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kto przyniósł list od Gereba?",
+        "options": [
+          "Feri Acz",
+          "Służąca Mari",
+          "Ojciec Gereba"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Co Gereb podsłuchał na drzewie?",
+        "options": [
+          "Że bitwa będzie jutro i plan się nie zmienia",
+          "Że Feri rezygnuje z Placu",
+          "Że Nemeczek już wyzdrowiał"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Jak chłopcy przyjęli Gereba?",
+        "options": [
+          "Wypędzili go",
+          "Przyjęli z powrotem jako szeregowca",
+          "Mianowali generałem"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kto przyszedł z białą chorągwią?",
+        "options": [
+          "Cała armia czerwonych koszul",
+          "Trzej posłowie",
+          "Sam Feri Acz"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "O której ma być jutrzejsza bitwa?",
+        "options": [
+          "O drugiej",
+          "O pół do trzeciej",
+          "O piątej"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Czego posłowie nie przyjęli u Nemeczka?",
+        "options": [
+          "Czekolady",
+          "Białej chorągwi",
+          "Listu"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

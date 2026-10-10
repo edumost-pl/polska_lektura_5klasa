@@ -1,0 +1,332 @@
+{
+  "id": 12,
+  "title": "Test z całej książki",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Autor, czas i miejsca",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Odpowiedz sam, a potem pokaż odpowiedź. Ta część sprawdza, czy wiesz, kto napisał książkę, kiedy dzieje się historia i jakie miejsca trzeba znać: Budapeszt, Plac Broni, Ogród Botaniczny i ulicę Rakos."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "autor",
+          "match": "napisał",
+          "uk": "автор",
+          "ru": "автор"
+        },
+        {
+          "phrase": "Budapeszt",
+          "match": "Budapeszt",
+          "uk": "Будапешт",
+          "ru": "Будапешт"
+        },
+        {
+          "phrase": "miejsce",
+          "match": "miejsca",
+          "uk": "місце",
+          "ru": "место"
+        }
+      ],
+      "audio": { "start": null, "end": null },
+      "questions": [
+        {
+          "question": "Kto napisał „Chłopców z Placu Broni”?",
+          "answer": "Ferenc Molnár, pisarz węgierski."
+        },
+        {
+          "question": "Jaka to książka?",
+          "answer": "Powieść dla młodzieży. Mówi o przyjaźni, honorze i stracie."
+        },
+        {
+          "question": "Gdzie toczy się akcja?",
+          "answer": "W Budapeszcie."
+        },
+        {
+          "question": "Kiedy dzieje się historia?",
+          "answer": "Pod koniec XIX wieku. Akcja trwa kilka dni."
+        },
+        {
+          "question": "Czym dla chłopców jest Plac Broni?",
+          "answer": "Ich ojczyzną. Nemeczek mówi, że Plac to ich kraj i całe państwo."
+        },
+        {
+          "question": "Co stoi na Placu Broni?",
+          "answer": "Sągi drewna, fortece, szaniec, tartak i buda stróża."
+        },
+        {
+          "question": "Gdzie zbierają się czerwone koszule?",
+          "answer": "Na wyspie w Ogrodzie Botanicznym. Po kłótni wyrzucają ich stamtąd i zakładają furtkę na mostku."
+        },
+        {
+          "question": "Gdzie mieszka Nemeczek?",
+          "answer": "Przy ulicy Rakos, w małej żółtej kamienicy. Ojciec jest biednym krawcem."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Bohaterowie",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Tu są pytania o bohaterów, których trzeba umieć opisać: wygląd, jeśli podaje go książka, i charakter. Najważniejsi to Nemeczek, Boka, Feri Acz, Gereb, Pastorowie i Jano."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "bohater",
+          "match": "bohaterów",
+          "uk": "герой",
+          "ru": "герой"
+        },
+        {
+          "phrase": "wygląd",
+          "match": "wygląd",
+          "uk": "зовнішність",
+          "ru": "внешность"
+        },
+        {
+          "phrase": "charakter",
+          "match": "charakter",
+          "uk": "характер",
+          "ru": "характер"
+        }
+      ],
+      "audio": { "start": null, "end": null },
+      "questions": [
+        {
+          "question": "Kto dowodzi chłopcami z Placu Broni i jaki ma charakter?",
+          "answer": "Janosz Boka, ich generał. Jest spokojny, sprawiedliwy i odpowiedzialny. Zostaje przy chorym Nemeczku."
+        },
+        {
+          "question": "Kto jest najmniejszym chłopcem i jak wygląda?",
+          "answer": "Erno Nemeczek. Jest jasnowłosy i dużo mniejszy od innych. Na początku jest jedynym szeregowcem."
+        },
+        {
+          "question": "Jaka czapka jest znakiem chłopców z Placu?",
+          "answer": "Czerwono-zielona. Nemeczek trzyma ją nawet pod poduszką i wkłada w chorobie."
+        },
+        {
+          "question": "Kto dowodzi czerwonymi koszulami i jak wygląda?",
+          "answer": "Feri Acz. Jest przystojny, ma wojownicze, błyszczące oczy, niski głos i czerwoną koszulę. Jest odważny i dumny."
+        },
+        {
+          "question": "Jacy są bracia Pastorowie?",
+          "answer": "Czarnowłosi, ogorzali i silni. Chodzą ze spuszczonymi głowami, patrzą ponuro i prawie się nie uśmiechają."
+        },
+        {
+          "question": "Co robi Gereb?",
+          "answer": "Przechodzi na stronę czerwonych koszul. Potem wraca, chce zmazać winę, a Boka przyjmuje go z powrotem jako szeregowego."
+        },
+        {
+          "question": "Jaki jest Czonakosz?",
+          "answer": "Wierny przyjaciel Boki. Odważny i zręczny, wychował się na wsi i łatwo wchodzi na drzewa."
+        },
+        {
+          "question": "Kto pilnuje Placu?",
+          "answer": "Słowak Jano. Pali fajkę, a obok niego jest pies Hektor. Jest prosty i życzliwy."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Wojna o Plac",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ta część jest o krzywdzie Nemeczka, o stawie na wyspie i o bitwie. Odpowiedz własnymi słowami, a potem porównaj z odpowiedzią."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "bitwa",
+          "match": "bitwie",
+          "uk": "битва",
+          "ru": "битва"
+        },
+        {
+          "phrase": "staw",
+          "match": "stawie",
+          "uk": "ставок",
+          "ru": "пруд"
+        },
+        {
+          "phrase": "krzywda",
+          "match": "krzywdzie",
+          "uk": "кривда",
+          "ru": "обида"
+        }
+      ],
+      "audio": { "start": null, "end": null },
+      "questions": [
+        {
+          "question": "Jak Związek Kitowców pierwszy raz wpisuje Nemeczka?",
+          "answer": "Małymi literami: „erno nemeczek”. Chłopiec czuje się upokorzony."
+        },
+        {
+          "question": "Co Nemeczek robi, gdy czerwone koszule trzymają go w stawie?",
+          "answer": "Nie zdradza kolegów. Mówi, że nigdy nie będzie zdrajcą, i wskazuje na Gereba."
+        },
+        {
+          "question": "Dlaczego Nemeczek choruje już przed bitwą?",
+          "answer": "Czerwoni trzymali go w zimnej wodzie stawu po szyję. Wychodzi przemoczony, a potem trawi go gorączka."
+        },
+        {
+          "question": "Kto wygrywa bitwę o Plac?",
+          "answer": "Chłopcy z Placu Broni. Pokonują czerwone koszule."
+        },
+        {
+          "question": "Jak Nemeczek rozstrzyga bitwę?",
+          "answer": "Już chory przybiega sam z domu, chwyta Feriego Acza i powala go na obie łopatki. Potem sam pada nieprzytomny."
+        },
+        {
+          "question": "Jaki stopień dostaje Nemeczek?",
+          "answer": "Boka mianuje go kapitanem. Chłopcy, a nawet generał, salutują małemu kapitanowi."
+        },
+        {
+          "question": "Co czerwone koszule robią po przegranej?",
+          "answer": "Odbierają Feriemu wodzostwo i wybierają starszego Pastora. Potem wyrzucają ich z Ogrodu Botanicznego."
+        },
+        {
+          "question": "Co Feri Acz robi w nocy po bitwie?",
+          "answer": "Wstydzi się przegranej. Przychodzi pod dom Nemeczka i sam pyta dozorcę, jak chory się czuje."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Koniec i wniosek",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ostatnie pytania są o śmierci Nemeczka, o Placu, który ma zniknąć, i o wniosku. Tego właśnie wymaga szkoła po tej lekturze."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "wniosek",
+          "match": "wniosku",
+          "uk": "висновок",
+          "ru": "вывод"
+        },
+        {
+          "phrase": "śmierć",
+          "match": "śmierci",
+          "uk": "смерть",
+          "ru": "смерть"
+        },
+        {
+          "phrase": "lektura",
+          "match": "lekturze",
+          "uk": "література для читання",
+          "ru": "школьное чтение"
+        }
+      ],
+      "audio": { "start": null, "end": null },
+      "questions": [
+        {
+          "question": "Jakie słowo daje Nemeczek i o co prosi Bokę?",
+          "answer": "Daje słowo, że umrze. Prosi, żeby Boka został przy nim aż do tej chwili."
+        },
+        {
+          "question": "Co lekarz mówi ojcu?",
+          "answer": "Że chłopiec nie dożyje jutrzejszego ranka, a może nawet dzisiejszego wieczoru."
+        },
+        {
+          "question": "Dokąd Nemeczek chce iść przed śmiercią?",
+          "answer": "Na Plac, zaraz. Woła, że nie wyzdrowieje, i wkłada czerwono-zieloną czapkę chłopców z Placu."
+        },
+        {
+          "question": "Co robi ojciec, gdy wie, że syn umiera?",
+          "answer": "Cierpi w milczeniu i szyje brązową marynarkę pana Czetnekiego. Myśli, że pieniądze mogą być potrzebne stolarzowi."
+        },
+        {
+          "question": "Z czym przychodzi delegacja Związku Kitowców?",
+          "answer": "Z uroczystym adresem i z księgą, w której nazwisko Nemeczka jest już wielkimi literami. Przewodniczącym jest Weiss."
+        },
+        {
+          "question": "Dlaczego chłopcy przychodzą za późno?",
+          "answer": "Pół godziny wybierali przewodniczącego delegacji. Gdy wchodzą, Nemeczek już nie oddycha. Barabasz mówi: „Przyszliśmy za późno”."
+        },
+        {
+          "question": "Co Jano odpowiada na wieść o śmierci i co robią Kolnay z Barabaszem?",
+          "answer": "Jano najpierw nie wie, który to chłopiec, a potem mówi: „Bidna chudzina”. Kolnay i Barabasz godzą się na Placu, a zaraz potem mówią o lekcji łaciny."
+        },
+        {
+          "question": "Co stanie się z Placem i jaki jest wniosek książki?",
+          "answer": "W poniedziałek robotnicy rozkopią Plac pod wielką, trzypiętrową kamienicę. Wniosek: bohaterstwo nie zależy od wzrostu. Liczą się wierność, honor i serce, a w życiu smutek splata się z radością."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Sprawdzian — cała książka",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Kto jest autorem książki?",
+        "options": ["Janosz Boka", "Ferenc Molnár", "Profesor Rac"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Gdzie toczy się akcja?",
+        "options": ["W Budapeszcie", "W Warszawie", "Na wsi u Czonakosza"],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kto jest generałem chłopców z Placu?",
+        "options": ["Feri Acz", "Kolnay", "Janosz Boka"],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Kto powala Feriego Acza?",
+        "options": ["Gereb", "Nemeczek", "Starszy Pastor"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jak związek najpierw wpisuje nazwisko Nemeczka?",
+        "options": ["Małymi literami", "Samymi wielkimi literami", "W ogóle go nie wpisuje"],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Co lekarz mówi o Nemeczku?",
+        "options": ["Że jutro wstanie do szkoły", "Że potrzebuje tylko zupy", "Że nie dożyje ranka, a może nawet wieczoru"],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Czego przede wszystkim uczy książka?",
+        "options": ["Że silniejszy zawsze ma rację", "Że bohaterem można być mimo małego wzrostu, jeśli jest się wiernym", "Że plac zabaw trzeba oddać bez walki"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "O co prosi profesor Rac nazajutrz?",
+        "options": ["By o trzeciej klasa zebrała się przy ulicy Rakos w ciemnych ubraniach", "By chłopcy przyszli na Plac budować dom", "By napisali kartkówkę z łaciny o Nemeczku"],
+        "answer": 0
+      }
+    ]
+  }
+}

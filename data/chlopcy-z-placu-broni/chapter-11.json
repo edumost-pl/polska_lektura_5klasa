@@ -1,0 +1,348 @@
+{
+  "id": 11,
+  "title": "Podsumowanie lektury",
+  "audio": "",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Gdzie i kiedy",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "To nie jest rozdział powieści. To krótka notatka, jakiej szkoła oczekuje po przeczytaniu lektury.",
+            "Autor to Ferenc Molnár, pisarz węgierski. Tytuł brzmi „Chłopcy z Placu Broni”. Jest to powieść dla młodzieży: przygodowa, ale też poważna, bo mówi o przyjaźni, honorze i stracie.",
+            "Akcja toczy się w Budapeszcie pod koniec XIX wieku. Trwa krótko: od przygotowań do wojny o plac aż do dnia po śmierci Nemeczka.",
+            "Najważniejsze miejsce to Plac Broni. Dla chłopców jest on ojczyzną. Stoją tam sągi drewna, fortece, szaniec, tartak i buda stróża. Obok jest Ogród Botaniczny z wyspą czerwonych koszul. Chłopcy chodzą też do szkoły na łacinę. Nemeczek mieszka przy ulicy Rakos, w małej żółtej kamienicy, w domu biednego krawca."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "Budapeszt",
+          "match": "Budapeszcie",
+          "uk": "Будапешт",
+          "ru": "Будапешт"
+        },
+        {
+          "phrase": "ojczyzna",
+          "match": "ojczyzną",
+          "uk": "батьківщина",
+          "ru": "родина"
+        },
+        {
+          "phrase": "powieść",
+          "match": "powieść",
+          "uk": "роман",
+          "ru": "роман"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Gdzie i kiedy dzieje się akcja?",
+          "answer": "W Budapeszcie, pod koniec XIX wieku."
+        },
+        {
+          "question": "Jakie miejsca są w książce najważniejsze?",
+          "answer": "Plac Broni, Ogród Botaniczny, szkoła i dom Nemeczka przy ulicy Rakos."
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "O czym jest książka",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Chłopcy z Placu Broni bawią się w wojsko i bronią swojego placu. Ich generałem jest Janosz Boka. Przeciwnikami są czerwone koszule z Ogrodu Botanicznego. Wodzem czerwonych jest Feri Acz. Chce zabrać chłopcom z Placu ich teren.",
+            "Najmniejszy z chłopców, Nemeczek, jest tylko szeregowcem. Związek Kitowców wpisuje jego nazwisko do księgi małymi literami. Chłopiec czuje się upokorzony. Na chwilę odchodzi do czerwonych, ale wraca do swoich.",
+            "W bitwie chłopcy z Placu wygrywają. Nemeczek powala Feriego Acza i zostaje kapitanem. Potem wpada do zimnej wody i ciężko choruje.",
+            "Koledzy poprawiają wpis: nazwisko Nemeczka ma być samymi wielkimi literami. Niosą też uroczysty adres z prośbą o przebaczenie. Przychodzą za późno. Nemeczek już nie oddycha.",
+            "Nazajutrz profesor Rac prosi klasę, by o trzeciej zebrała się przy ulicy Rakos w ciemnych ubraniach. Boka dowiaduje się jeszcze, że w poniedziałek robotnicy rozkopią Plac. Zbudują tam wielką, trzypiętrową kamienicę. Ojczyzna, za którą Nemeczek oddał życie, zniknie."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "szeregowiec",
+          "match": "szeregowcem",
+          "uk": "рядовий",
+          "ru": "рядовой"
+        },
+        {
+          "phrase": "przebaczenie",
+          "match": "przebaczenie",
+          "uk": "прощення",
+          "ru": "прощение"
+        },
+        {
+          "phrase": "kamienica",
+          "match": "kamienicę",
+          "uk": "кам’яниця",
+          "ru": "доходный дом"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "O co walczą dwie grupy chłopców?",
+          "answer": "O Plac Broni. Czerwone koszule chcą go zabrać chłopcom z Placu."
+        },
+        {
+          "question": "Jak kończy się historia Nemeczka i Placu?",
+          "answer": "Nemeczek umiera, zanim koledzy zdążą go przeprosić. Na Placu ma stanąć trzypiętrowa kamienica."
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Chłopcy z Placu",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Erno Nemeczek. Najmniejszy chłopiec na Placu, jasnowłosy, syn biednego krawca. Na początku jest jedynym szeregowcem: chętnie słucha rozkazów starszych. Nosi czerwono-zieloną czapkę chłopców z Placu i nie rozstaje się z nią nawet w chorobie. Jest dzielny, honorowy i bardzo wrażliwy. Małe litery w księdze ranią go bardziej niż bitwa. Mimo urazy wraca do swoich, powala wodza czerwonych i umiera za plac, którego już nigdy nie zobaczy.",
+            "Janosz Boka. Generał chłopców z Placu Broni. Spokojny, sprawiedliwy i odpowiedzialny. Potrafi ukarać nawet siebie, kiedy sam zawini. Nie lubi pustych słów i nie okazuje łez od razu. Przy chorym Nemeczku zostaje do końca. Dopiero wieść, że Plac zabudują, wyciska mu łzy. Na lekcji łaciny zaczyna rozumieć, że w życiu smutek i radość splatają się w jeden los.",
+            "Czonakosz. Wierny przyjaciel Boki. Odważny i zręczny: wychował się na wsi, więc łatwo wchodzi na drzewa. W wyprawach i w bitwie stoi po stronie Placu.",
+            "Gereb. Dumny chłopiec, który umie spojrzeć twardo w oczy. Przechodzi do czerwonych koszul. Feri Acz sam jednak mówi, że Gereb należy do chłopców z Placu, a nie do nich. Gereb wraca, prosi, by przyjęto go jako zwykłego szeregowca, i przynosi książkę w darze.",
+            "Kolnay i Barabasz. Kolnay jest prezesem Związku Kitowców, Barabasz często się z nim spiera, nawet o wyschnięty kit. Po śmierci Nemeczka godzą się na Placu, właśnie tam, gdzie mały kapitan ocalił ich zabawę. Chwilę później mówią już o jutrzejszej łacinie. Jeszcze nie pojmują, co się stało, a zwykły dzień już ich woła."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "honorowy",
+          "match": "honorowy",
+          "uk": "чесний, з почуттям гідності",
+          "ru": "честный, с чувством чести"
+        },
+        {
+          "phrase": "wrażliwy",
+          "match": "wrażliwy",
+          "uk": "вразливий",
+          "ru": "ранимый"
+        },
+        {
+          "phrase": "sprawiedliwy",
+          "match": "sprawiedliwy",
+          "uk": "справедливий",
+          "ru": "справедливый"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jak wygląda Nemeczek i jaki ma charakter?",
+          "answer": "Jest najmniejszy i jasnowłosy. Jest dzielny, honorowy i wrażliwy. Z szeregowca zostaje kapitanem."
+        },
+        {
+          "question": "Jaki jest Boka jako dowódca i przyjaciel?",
+          "answer": "Spokojny, sprawiedliwy i odpowiedzialny. Zostaje przy chorym Nemeczku i nie szuka taniej sławy."
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Czerwone koszule i dorośli",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Feri Acz. Przystojny wódz czerwonych koszul. Oczy błyszczą mu wojowniczo, głos ma niski, a na sobie czerwoną koszulę. Jest odważny, bystry i dumny. Po przegranej bitwie wstydzi się i traci wodzostwo. W nocy przychodzi pod dom Nemeczka i sam pyta dozorcę, jak czuje się chory chłopiec.",
+            "Bracia Pastorowie. Czarnowłosi, ogorzali i silni. Chodzą ze spuszczonymi głowami, patrzą ponuro spode łba i prawie nigdy się nie uśmiechają. Chłopcy z Placu boją się ich najbardziej. Starszy Pastor chce sam zostać wodzem zamiast Feriego.",
+            "Matka Nemeczka. Drobna, jasnowłosa kobieta. Czuwa przy łóżku po wielu nieprzespanych nocach. Przyjmuje winko i cukierki od sąsiadek, choć synek od dwóch dni pije tylko parę kropli mleka.",
+            "Ojciec Nemeczka. Biedny krawiec, prosty i cichy. Umie cierpieć w milczeniu. Gdy lekarz mówi, że chłopiec nie dożyje ranka, ojciec siada do szycia brązowej marynarki pana Czetnekiego. Myśli, że te kilka forintów mogą być potrzebne stolarzowi.",
+            "Jano. Słowak, stróż Placu. Pali fajkę, a obok biega pies Hektor. Jest prosty i życzliwy. Na wieść o śmierci nie od razu wie, który to chłopiec. Potem mówi tylko: „Bidna chudzina”.",
+            "Profesor Rac. Surowy nauczyciel łaciny. W dniu po śmierci Nemeczka wchodzi na katedrę poważnym, godnym krokiem. Prosi uczniów, by uczcili kolegę: o trzeciej, przy ulicy Rakos, w czarnych albo ciemnych ubraniach."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "przystojny",
+          "match": "Przystojny",
+          "uk": "вродливий",
+          "ru": "красивый"
+        },
+        {
+          "phrase": "ogorzały",
+          "match": "ogorzali",
+          "uk": "засмаглий",
+          "ru": "загорелый"
+        },
+        {
+          "phrase": "krawiec",
+          "match": "krawiec",
+          "uk": "кравець",
+          "ru": "портной"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jak wygląda Feri Acz i co robi po bitwie?",
+          "answer": "Jest przystojny, ma błyszczące oczy, niski głos i czerwoną koszulę. Po przegranej wstydzi się, traci wodzostwo, ale w nocy pyta o Nemeczka."
+        },
+        {
+          "question": "Jak zachowują się rodzice Nemeczka?",
+          "answer": "Matka czuwa przy łóżku. Ojciec, cichy krawiec, cierpi w milczeniu i szyje zamówienie, choć wie, że syn umiera."
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Czego uczy książka",
+      "description": "",
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Wniosek, który warto zapamiętać: prawdziwe bohaterstwo nie zależy od wzrostu ani od stopnia w zabawie. Najmniejszy chłopiec okazuje się największy, bo jest wierny swoim.",
+            "Książka uczy honoru. Nemeczka skrzywdzono zapisem małymi literami, a on i tak walczy za kolegów, nie za siebie. Własna uraza nie jest dla niego ważniejsza niż Plac.",
+            "Książka uczy przyjaźni. Boka nie zostawia chorego. Nie pociesza go pustymi słowami i nie ucieka, kiedy Nemeczek mówi o śmierci.",
+            "Książka uczy, że słowa ranią, a przeprosiny mają sens tylko wtedy, gdy zdążą dojść. Związek przynosi wielkie litery i uroczysty adres, lecz Nemeczek już ich nie widzi.",
+            "Książka uczy też, czym może być ojczyzna. Dla tych chłopców nie jest nią mapa. Jest nią piasek, fortece i buda stróża: miejsce, które się kocha i którego się broni. Nawet takie miejsce może zniknąć. Zostaje po nim to, jakim człowiekiem się było.",
+            "Ostatnie zdanie powieści mówi wprost, co zrozumiał Boka. Życie jest losem, w którym smutki i radości dziwnie splatają się razem. Tego właśnie wymaga od ucznia ta lektura: krótkiej treści, portretu bohaterów i tego jednego wniosku."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "bohaterstwo",
+          "match": "bohaterstwo",
+          "uk": "героїзм",
+          "ru": "героизм"
+        },
+        {
+          "phrase": "wierny",
+          "match": "wierny",
+          "uk": "вірний",
+          "ru": "верный"
+        },
+        {
+          "phrase": "przeprosiny",
+          "match": "przeprosiny",
+          "uk": "вибачення",
+          "ru": "извинения"
+        }
+      ],
+      "audio": {
+        "start": null,
+        "end": null
+      },
+      "questions": [
+        {
+          "question": "Jaki jest główny wniosek książki?",
+          "answer": "Prawdziwe bohaterstwo nie zależy od wzrostu. Liczą się wierność, honor i serce."
+        },
+        {
+          "question": "Dlaczego przeprosiny związku przychodzą za późno?",
+          "answer": "Nemeczek umiera, zanim zobaczy wielkie litery i uroczysty adres."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Mini test — Podsumowanie",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Kto jest autorem książki?",
+        "options": [
+          "Janosz Boka",
+          "Ferenc Molnár",
+          "Profesor Rac"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Gdzie toczy się akcja?",
+        "options": [
+          "W Budapeszcie",
+          "W Warszawie",
+          "Na wsi u Czonakosza"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kiedy dzieje się historia?",
+        "options": [
+          "Współcześnie",
+          "W średniowieczu",
+          "Pod koniec XIX wieku"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "O co walczą chłopcy?",
+        "options": [
+          "O Plac Broni",
+          "O księgę łaciny",
+          "O brązowy garnitur"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kto powala Feriego Acza?",
+        "options": [
+          "Boka",
+          "Nemeczek",
+          "Starszy Pastor"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Jak związek najpierw wpisuje Nemeczka?",
+        "options": [
+          "Samymi wielkimi literami",
+          "W ogóle go nie wpisuje",
+          "Małymi literami"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Jaki jest Boka?",
+        "options": [
+          "Spokojny i sprawiedliwy",
+          "Ponury i bez uśmiechu",
+          "Dumny zdrajca Placu"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Czego przede wszystkim uczy lektura?",
+        "options": [
+          "Że wygrywa ten, kto ma wyższy głos",
+          "Że bohaterem można być mimo małego wzrostu, jeśli jest się wiernym",
+          "Że plac zabaw trzeba oddać bez walki"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}
