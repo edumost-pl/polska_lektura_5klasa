@@ -1,0 +1,364 @@
+{
+  "id": 1,
+  "title": "Rozdział I — Первые события",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Урок и записка",
+      "description": "Читай после оригинала главы I. Имена и фразы оставлены так, как в книге.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_01_1.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В школе шёл обычный день, но мальчикам уже не сиделось. На уроке естествознания учитель показал опыт: в пламени palnika Bunsena вспыхнула изумрудно-зелёная полоска. За окном играла katarynka, был тёплый мартовский день, и класс перестал слушать.",
+            "Учитель это заметил и строго сказал: [b][i]„Czengey, zamknij okno!”[/i][/b] Czengey — первый ученик, он сидит на первой парте. Пока он шёл закрывать окно, Czonakosz шепнул маленькому светловолосому Nemeczkowi: [b][i]„Uwaga, Nemeczek!”[/i][/b]",
+            "По полу катилась бумажка. На одной стороне было написано: [b][i]„Podaj dalej do Boki”[/i][/b]. Nemeczek понял, что настоящее сообщение на обороте. Он его не прочитал: чужое письмо читать нельзя. Снова свернул бумажку и в нужный момент передал её Boke.",
+            "На обороте стояло: [b][i]„Dziś o trzeciej zbiórka na Placu. Wybieramy przewodniczącego. Ogłosić”[/i][/b]. Сегодня в три часа сбор на площади. Выбираем председателя. Объявить всем.",
+            "Boka спрятал записку в карман. После урока мальчики должны встретиться на Placu Broni."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "palnik Bunsena",
+          "match": "palnika Bunsena",
+          "uk": "пальник Бунзена",
+          "ru": "горелка Бунзена"
+        },
+        {
+          "phrase": "katarynka",
+          "match": "katarynka",
+          "uk": "шарманка",
+          "ru": "шарманка"
+        },
+        {
+          "phrase": "Czengey, zamknij okno!",
+          "match": "Czengey, zamknij okno!",
+          "uk": "Ченґей, зачини вікно!",
+          "ru": "Czengey, закрой окно!"
+        },
+        {
+          "phrase": "Uwaga, Nemeczek!",
+          "match": "Uwaga, Nemeczek!",
+          "uk": "Обережно, Nemeczek!",
+          "ru": "Осторожно, Nemeczek!"
+        },
+        {
+          "phrase": "Podaj dalej do Boki",
+          "match": "Podaj dalej do Boki",
+          "uk": "Передай далі Boka",
+          "ru": "Передай дальше Boke"
+        },
+        {
+          "phrase": "przewodniczący",
+          "match": "przewodniczącego",
+          "uk": "голова",
+          "ru": "председатель"
+        },
+        {
+          "phrase": "Plac Broni",
+          "match": "Placu Broni",
+          "uk": "площа Зброї",
+          "ru": "Plac Broni, их площадь"
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Спор у кондитерской",
+      "description": "Здесь впервые видно, чем Gereb отличается от Boki.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_01_2.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "У школьных ворот Czele спорил с продавцом сладостей. Раньше кусок chałwy стоил одного grajcara. Продавец поднял цену и сказал прямо: [b][i]„Do tej pory wszystko kosztowało grajcara. Ale od dziś będzie dwa grajcary!”[/i][/b]",
+            "Gereb разозлился. Сначала он подговорил Czelego: [b][i]„Rąbnij kapeluszem w ten kram!”[/i][/b] Czele снял шляпу и засомневался: шляпа была слишком хорошая. Тогда Gereb решил ударить своей.",
+            "Boka поймал его за руку и спокойно спросил: „Co ty robisz?” А потом сказал главное: [b][i]„Lubię odważnych, ale to, co chciałeś zrobić, nie miało przecież najmniejszego sensu.”[/i][/b]",
+            "Для Boki смелость — не сломать чужое из злости. Сначала подумать, потом действовать. Gereb вспыльчивый и хочет сразу ответить обидой. Boka умеет остановить и товарища, и бессмысленную драку."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "chałwa",
+          "match": "chałwy",
+          "uk": "халва",
+          "ru": "халва"
+        },
+        {
+          "phrase": "grajcar",
+          "match": "grajcara",
+          "uk": "крайцер, дрібна монета",
+          "ru": "крейцер, мелкая монета"
+        },
+        {
+          "phrase": "dwa grajcary",
+          "match": "dwa grajcary",
+          "uk": "два крайцери",
+          "ru": "два крейцера"
+        },
+        {
+          "phrase": "Rąbnij kapeluszem w ten kram!",
+          "match": "Rąbnij kapeluszem w ten kram!",
+          "uk": "Вдар капелюхом по цьому лотку!",
+          "ru": "Ударь шляпой по этому лотку!"
+        },
+        {
+          "phrase": "Co ty robisz?",
+          "match": "Co ty robisz?",
+          "uk": "Що ти робиш?",
+          "ru": "Что ты делаешь?"
+        },
+        {
+          "phrase": "Lubię odważnych…",
+          "match": "Lubię odważnych, ale to, co chciałeś zrobić, nie miało przecież najmniejszego sensu.",
+          "uk": "Я люблю сміливих, але в цьому вчинку не було жодного сенсу.",
+          "ru": "Я люблю смелых, но в этом поступке не было никакого смысла."
+        }
+      ]
+    },
+    
+    {
+      "id": "part-03",
+      "title": "Что такое einstand?",
+      "description": "Это не правило игры. Это сила против слабого.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_01_3.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "На улице их уже ждали Czonakosz и Nemeczek. Czonakosz сказал: [b][i]„Wczoraj w ogrodeum znów zrobili einstand!”[/i][/b] Кто? [b][i]„Bracia Pastorowie.”[/i][/b]",
+            "Einstand — слово, которым сильные мальчики в Будапеште отнимали чужое. Во время игры в шарики, перья или косточки сильный просто кричал: einstand! Это значило: вещь теперь его добыча. Если не отдашь — будет сила.",
+            "Это не честное правило и не обычная ссора. Это грабёж и объявление войны. Для слабого слово einstand означало: тебя не спросят.",
+            "Gereb сразу захотел драки. Czonakosz уже готов был свистнуть. Boka их остановил и попросил Nemeczka рассказать всё по порядку. Настоящий командир сначала узнаёт, что случилось, и только потом решает."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "ogrodeum",
+          "match": "ogrodeum",
+          "uk": "сад біля музею, так хлопці називали це місце",
+          "ru": "сад у музея, так мальчики называли это место"
+        },
+        {
+          "phrase": "einstand",
+          "match": "einstand",
+          "uk": "силою забрати чуже",
+          "ru": "силой объявить чужое своим"
+        },
+        {
+          "phrase": "bracia Pastorowie",
+          "match": "Bracia Pastorowie",
+          "uk": "брати Pastor",
+          "ru": "братья Pastor"
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Рассказ Nemeczka о братьях Pastor",
+      "description": "Nemeczek выиграл честно. Сильные всё равно забрали шарики.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_01_4.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Вчера после обеда в ogrodeum пошли Nemeczek, Weiss, Rychter, Kolnay и Barabasz. Сначала они хотели играть в palanta на ulicy Eszterhazy, но мяч был у учеников szkoły realnej, и те отказались играть вместе. Barabasz предложил идти в ogrodeum и бросать шарики у стены.",
+            "Подошли bracia Pastorowie: руки в карманах, шаг медленный. Мальчиков было пятеро, но Pastorowie такие сильные, что двое могли справиться и с десятком. Nemeczek честно говорит и о своём страхе: если начнётся беда, Kolnay и Barabasz сразу убегут, и он сам, скорее всего, тоже. Weiss сразу понял: будет einstand. Kolnay шепнул, что игру надо бросить. Nemeczek не ушёл — сейчас был его бросок.",
+            "Rychter промахнулся: рука дрожала. Nemeczek попал и выиграл все шарики, уже около тридцати. Он шагнул забрать выигрыш. Младший Pastor загородил дорогу и крикнул: [b][i]„Einstand!”[/i][/b] Старший стал складывать шарики в карман. Nemeczek сказал, что так нельзя. Младший схватил его за куртку: [b][i]„Czyś nie słyszał, że zawołaliśmy einstand?”[/i][/b]",
+            "Дальше Nemeczek замолчал. Kolnay и Barabasz смотрели из-за угла, Weiss стоял у стены бледный и уже почти плакал, Rychter не знал, бежать или остаться. Pastorowie забрали шарики и молча ушли.",
+            "Nemeczek не сделал ничего плохого: он выиграл честно. Сила оказалась важнее правды. Товарищи его не защитили. Страх оказался сильнее дружбы — и это тоже надо уметь назвать своими словами.",
+            "Gereb назвал случившееся безобразием, Czele — подлостью, Czonakosz уже слышал войну. Boka долго молчал. Раньше он не раздувал такие ссоры. Но эта несправедливость была слишком ясной. Он велел идти обедать, а после обеда встретиться на Placu Broni и решить вместе, что делать.",
+            "По дороге Czonakosz и Nemeczek на минуту снова стали просто детьми: у табачной фабрики вдохнули жёлтую пыль и расчихались. Обида никуда не делась. Перед серьёзным разговором им ещё можно посмеяться."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "palant",
+          "match": "palanta",
+          "uk": "палант, гра з м’ячем і битою",
+          "ru": "палант, игра с мячом и битой"
+        },
+        {
+          "phrase": "ulica Eszterhazy",
+          "match": "ulicy Eszterhazy",
+          "uk": "вулиця Естергазі",
+          "ru": "улица Eszterhazy"
+        },
+        {
+          "phrase": "szkoła realna",
+          "match": "szkoły realnej",
+          "uk": "реальна школа, інша школа",
+          "ru": "реальная школа, другая школа"
+        },
+        {
+          "phrase": "Einstand!",
+          "match": "Einstand!",
+          "uk": "Забираю! Це моя здобич!",
+          "ru": "Забираю! Это моя добыча!"
+        },
+        {
+          "phrase": "Czyś nie słyszał, że zawołaliśmy einstand?",
+          "match": "Czyś nie słyszał, że zawołaliśmy einstand?",
+          "uk": "Хіба ти не чув, що ми крикнули einstand?",
+          "ru": "Разве ты не слышал, что мы крикнули einstand?"
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Важные моменты",
+      "description": "Это нужно уметь пересказать своими словами.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Записка. На лицевой стороне: „Podaj dalej do Boki”. На обороте: „Dziś o trzeciej zbiórka na Placu. Wybieramy przewodniczącego. Ogłosić”.",
+            "Nemeczek не читает чужое. Он честный и не лезет в письмо, которое ему только поручили передать.",
+            "У лотка злится не Boka, а Gereb. Продавец поднял цену с одного grajcara до двух. Gereb хочет ударить шляпой по прилавку. Boka его останавливает: смелость без смысла — не смелость.",
+            "Einstand — это когда сильный силой забирает чужое. В книге это сделали bracia Pastorowie. Место — ogrodeum, сад у музея.",
+            "С Nemeczkiem были Weiss, Rychter, Kolnay и Barabasz. Отняли стеклянные шарики, около тридцати. Nemeczek выиграл их сам.",
+            "Товарищи испугались и не вступились. Boka не бросается в драку на улице. Он назначает разговор на Placu Broni, сегодня в три часа."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-06",
+      "title": "Самое главное в главе",
+      "description": "Войны ещё нет. Уже есть выбор, на чьей ты стороне.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Глава не про «плохих и хороших мальчиков». Она показывает три разных ответа на обиду. Gereb отвечает сразу и кулаком: сломать лоток, начать драку. Boka отвечает головой: остановить бессмысленный поступок и сначала выслушать. Nemeczek отвечает честью: не читает чужую записку и прямо рассказывает, как у него отняли выигрыш.",
+            "Самый трудный момент — не крик „Einstand!”, а то, что свои молчат. Weiss бледнеет, Rychter не знает, бежать ли, Kolnay и Barabasz смотрят из-за угла. Испугаться нормально: Pastorowie сильнее. Ненормально называть грабёж правилом игры. Nemeczek и сам не герой напоказ: он признаётся, что тоже мог убежать. Поэтому ему можно верить.",
+            "Самое главное: Plac Broni ещё впереди, но линия уже проведена. Если сильному можно крикнуть einstand и уйти с чужим, завтра он придёт за местом, которое мальчики считают своим. Boka это понимает. Поэтому сбор в три часа — не игра в председателя. Это первый взрослый разговор: что мы будем делать с несправедливостью."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-07",
+      "title": "Вопросы",
+      "description": "Сначала ответь сам. Потом открой ответ и сверь.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Отвечай коротко и точно. В ответе оставляй польские имена и фразы: так их легче узнать в книге и на sprawdzianie."
+          ]
+        }
+      ],
+      "vocabulary": [],
+      "questions": [
+        {
+          "question": "Что было написано на одной стороне записки?",
+          "answer": "„Podaj dalej do Boki” — передай дальше Boke."
+        },
+        {
+          "question": "Что было на обороте?",
+          "answer": "„Dziś o trzeciej zbiórka na Placu. Wybieramy przewodniczącego. Ogłosić”. Сегодня в три часа сбор на площади, выбираем председателя, объявить всем."
+        },
+        {
+          "question": "Почему Nemeczek не прочитал оборот?",
+          "answer": "Он не читает чужое письмо. Ему поручили передать записку, а не узнать, что в ней."
+        },
+        {
+          "question": "Кто закрыл окно и кто предупредил Nemeczka?",
+          "answer": "Окно закрыл Czengey, первый ученик. „Uwaga, Nemeczek!” шепнул Czonakosz."
+        },
+        {
+          "question": "Почему Gereb разозлился на продавца и что он хотел сделать?",
+          "answer": "Продавец поднял цену: раньше всё стоило одного grajcara, теперь — два. Gereb хотел ударить шляпой по лотку: сначала шляпой Czelego, потом своей."
+        },
+        {
+          "question": "Что сказал Boka и почему это важно?",
+          "answer": "„Lubię odważnych, ale to, co chciałeś zrobić, nie miało przecież najmniejszego sensu.” Он любит смелых, но бессмысленно портить чужое — не смелость."
+        },
+        {
+          "question": "Что означает einstand?",
+          "answer": "Сильный объявляет чужую вещь своей добычей и готов применить силу. Это не правило честной игры, а грабёж."
+        },
+        {
+          "question": "Где это случилось, кто отнял шарики и сколько их было?",
+          "answer": "В ogrodeum. Bracia Pastorowie забрали около тридцати шариков, которые Nemeczek только что выиграл."
+        },
+        {
+          "question": "Кто был с Nemeczkiem и как они себя повели?",
+          "answer": "Weiss, Rychter, Kolnay и Barabasz. Kolnay и Barabasz смотрели из-за угла, Weiss стоял бледный, Rychter не решился. Nemeczka никто не защитил."
+        },
+        {
+          "question": "Что решил Boka в конце главы?",
+          "answer": "Не драться сразу. Сначала обед, потом в три часа сбор на Placu Broni и общее решение."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Проверь главу I",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Кто не стал читать чужую записку?",
+        "options": [
+          "Gereb",
+          "Nemeczek",
+          "Czele"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Что Boka считает бессмысленным?",
+        "options": [
+          "Ударить шляпой по лотку продавца",
+          "Передать записку дальше",
+          "Рассказать, что случилось в ogrodeum"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Кто крикнул „Einstand!” и забрал шарики?",
+        "options": [
+          "Czonakosz и Weiss",
+          "bracia Pastorowie",
+          "ученики szkoły realnej"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Где мальчики встретятся в три часа?",
+        "options": [
+          "В ogrodeum",
+          "У кондитерской",
+          "На Placu Broni"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

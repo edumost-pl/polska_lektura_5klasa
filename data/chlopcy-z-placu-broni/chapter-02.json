@@ -681,6 +681,87 @@
   ],
   "finalQuiz": {
     "title": "Mini test — Rozdział II",
-    "questions": []
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Jak nazywa się plac przy ulicy Pawła?",
+        "options": [
+          "Ogród Botaniczny",
+          "Plac Broni",
+          "Ulica Marii"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kto jest jedynym szeregowcem?",
+        "options": [
+          "Nemeczek",
+          "Boka",
+          "Feri Acz"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kogo Nemeczek widzi na szczycie twierdzy?",
+        "options": [
+          "Gereba",
+          "Czonakosza",
+          "Feriego Acza"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Co znika ze szczytu twierdzy?",
+        "options": [
+          "Czarna księga",
+          "Czerwono-zielona chorągiewka",
+          "Czapka Nemeczka"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Za co wpisano Kolnaya do czarnej księgi?",
+        "options": [
+          "Za spóźnienie",
+          "Za kłótnię z Boką",
+          "Za donosicielstwo"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Ile głosów dostał Boka?",
+        "options": [
+          "Jedenaście",
+          "Trzy",
+          "Pięć"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kiedy Boka obiecał Nemeczkowi awans?",
+        "options": [
+          "Jutro rano",
+          "W maju",
+          "Po bitwie"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Dokąd chłopcy wybierają się na końcu rozdziału?",
+        "options": [
+          "Do szkoły",
+          "Do domu Nemeczka",
+          "Do Ogrodu Botanicznego"
+        ],
+        "answer": 2
+      }
+    ]
   }
 }

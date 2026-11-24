@@ -1,0 +1,263 @@
+{
+  "id": 3,
+  "title": "Rozdział III — Тайная экспедиция в Ogród Botaniczny",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "План Boki",
+      "description": "Смелость здесь — войти на чужую землю и не оскорбить.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_03_1.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "На следующий день после lekcji stenografii, уже в пятом часу, когда на улице зажигают фонари, Boka собирает мальчиков. Ждать нападения он не хочет. Возьмёт двоих самых смелых, пройдёт в Ogród Botaniczny, на остров czerwonych koszul, и прибьёт к дереву красную карточку.",
+            "На ней печатными буквами: [b][i]TU BYLI CHŁOPCY Z PLACU BRONI[/i][/b]. Czonakosz предлагает дописать что-нибудь обидное. Boka запрещает. Они не будут поступать как Feri Acz, который унёс их chorągiew. Карточка — визитка и предупреждение: мы не боимся войти туда, где вы собираетесь и прячете оружие.",
+            "Czele слышал, что по вечерам красные играют на острове в [b][i]Policjantów i złodziei[/i][/b]. Boka отвечает: Feri тоже пришёл к ним в такой час, когда знал, что они на Placu. Кто боится — пусть не идёт.",
+            "Первым выходит Nemeczek: [b][i]„Idę z tobą!”[/i][/b] Ему нужно заслужить обещанное звание. Здесь, у школы, не надо становиться на baczność: regulamin действует только на Placu. За ним — Czonakosz. Boka берёт с него слово: [b][i]„Przyrzeknij, że nie będziesz gwizdał!”[/i][/b] Один свист «напоследок» разрешает. Czonakosz свистит так, что оборачиваются прохожие, и обещает: на сегодня хватит.",
+            "Czele не идёт. Мать знает, когда кончается стенография. Если его не будет дома в pół do szóstej, на Plac его больше не отпустят. Для него это конец и звания, и своей земли.",
+            "Gereba на стенографии не было. В полдень он ещё был здоров. Boka помнит вчерашний взгляд в глаза. Пока командир — он, Gereb не станет первым. Зависть уже есть. Подозрение Boka пока держит при себе."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "lekcja stenografii", "match": "lekcji stenografii", "uk": "урок стенографії", "ru": "урок стенографии" },
+        { "phrase": "TU BYLI CHŁOPCY Z PLACU BRONI", "match": "TU BYLI CHŁOPCY Z PLACU BRONI", "uk": "ТУТ БУЛИ ХЛОПЦІ З PLACU BRONI", "ru": "Здесь были мальчики с Placu Broni" },
+        { "phrase": "Policjanci i złodzieje", "match": "Policjantów i złodziei", "uk": "поліцаї і злодії", "ru": "игра «полицейские и воры»" },
+        { "phrase": "Idę z tobą!", "match": "Idę z tobą!", "uk": "Я йду з тобою!", "ru": "Я иду с тобой!" },
+        { "phrase": "Przyrzeknij, że nie będziesz gwizdał!", "match": "Przyrzeknij, że nie będziesz gwizdał!", "uk": "Пообіцяй, що не будеш свистіти!", "ru": "Пообещай, что не будешь свистеть!" }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Тайный вход",
+      "description": "Они не звонят в ворота и не забирают чужое оружие.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_03_2.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Трое идут длинной ulicą Üllöi. Уже темно. Обычно в этот час они сидят над уроками, а не ходят по улице. Nemeczek радуется походу, пока Boka не осаживает его: это не забава, вспомни braci Pastorów. Nemeczek сразу серьёзнеет.",
+            "У Ogrodu Botanicznego ворота закрыты. Nemeczek хочет позвонить. Boka не даёт: звон услышат. Они ищут место, где каменная стена переходит в деревянный parkan. У забора стоит большая akacja, и сюда не достаёт свет фонаря.",
+            "Czonakosz подсаживает Boka. Тот смотрит внутрь, никого нет, и спрыгивает на грядку. За ним Nemeczek и Czonakosz. С akacji Czonakosz видит мост: на нём две фигуры. Boka понимает: там warta. Просто так на остров не пройти.",
+            "Дальше они крадутся к руинам. Сторож сада едва их не обнаруживает. Мальчики замирают в тёмной камере и пережидают, пока он уходит к своей будке у ulicy Üllöi.",
+            "В камере Boka спотыкается о tomahawk — деревянный топорик, оклеенный серебряной бумагой. Это оружие czerwonych koszul. Czonakosz хочет забрать его. Boka отказывает: это уже kradzież. Они только разбрасывают топорики, чтобы оставить след, что здесь кто-то был, и идут дальше."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "ulica Üllöi", "match": "ulicą Üllöi", "uk": "вулиця Уллёі", "ru": "улица Üllöi" },
+        { "phrase": "parkan", "match": "parkan", "uk": "паркан", "ru": "дощатый забор" },
+        { "phrase": "akacja", "match": "akacja", "uk": "акація", "ru": "акация" },
+        { "phrase": "warta", "match": "warta", "uk": "варта", "ru": "караул" },
+        { "phrase": "tomahawk", "match": "tomahawk", "uk": "томагавк", "ru": "томагавк, их деревянное оружие" },
+        { "phrase": "kradzież", "match": "kradzież", "uk": "крадіжка", "ru": "кража" }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Переправа на остров",
+      "description": "Nemeczek падает в воду и всё равно не кричит.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_03_3.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "С холма виден весь сад. У Boki театральная lornetka сестры Czelego. На острове среди деревьев горит огонёк: у czerwonych koszul latarnia. В бинокль Boka замечает фигуру с фонарём и узнаёт в ней своего. Вслух имя пока не называет: пока не уверен, подозревать нельзя. Czonakosz уже кричит «измена». Boka останавливает его: сначала дойти и увидеть.",
+            "У берега, в высоком sitowiu, они находят лодку. Nemeczek боится ступить на илистый край. Czonakosz зовёт его. Nemeczek скользит, хватается за тростник и по шею падает в воду. Не кричит. Встаёт сам. Вода течёт с него ручьями, в руке всё ещё тростинка. Czonakosz смеётся. Nemeczek напуган, но лезет в лодку.",
+            "На острове Boka оставляет Czonakosza у лодки. Если кто-то её заметит — свистеть во всю силу, тогда они бегут назад, а он отталкивает лодку. Czonakosz недоволен, что не идёт смотреть, и втайне рад: вдруг всё-таки можно будет свистнуть. Сам Boka берёт с собой промокшего Nemeczka."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "lornetka", "match": "lornetka", "uk": "бінокль", "ru": "бинокль" },
+        { "phrase": "latarnia", "match": "latarnia", "uk": "ліхтар", "ru": "фонарь" },
+        { "phrase": "sitowie", "match": "sitowiu", "uk": "очерет", "ru": "камыш" }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Предательство Gereba",
+      "description": "Он отдаёт врагу не площадь. Он отдаёт правило, которым свои защищали вход.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_03_4.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Сквозь ветки они видят поляну. На большом камне стоит latarnia, вокруг сидят chłopcy w czerwonych koszulach. Рядом с Feri Aczem — dwaj Pastorowie. Nemeczek дрожит и шепчет: узнаёшь? Boka узнаёт. Среди красных сидит Gereb. Подозрение с холма было верным.",
+            "Gereb объясняет, как войти на Plac. Со стороны ulicy Pawła трудно: regulamin требует закрыть zasuwę furtki за собой. Со стороны ulicy Marii ворота лесопилки открыты, но в крепостях часовые. Он предлагает прийти на Plac последним и оставить furtkę незапертой.",
+            "Feri Acz соглашается, но не хочет занимать пустую площадь. Войну объявят по правилам и нападут, когда свои будут на месте. Кто отобьётся — тому и Plac. Один из Pastorów говорит прямо, зачем им это: негде играть в palanta. Здесь нельзя, на ulicy Eszterhazy за место спорят. Им нужна площадка.",
+            "Gereb подтверждает: [b][i]„Tak!”[/i][/b] Для Nemeczka это слово тяжелее воды, в которой он стоит в мокрой одежде. Он обнимает Boka и повторяет: [b][i]„Panie kapitanie... panie kapitanie...”[/i][/b] Boka мягко отстраняет его: [b][i]„Płacz nic tu nie pomoże!”[/i][/b] И у самого командира сжимается горло. То, что сделал Gereb, стыдно."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "zasuwa", "match": "zasuwę", "uk": "засув", "ru": "засов" },
+        { "phrase": "ulica Marii", "match": "ulicy Marii", "uk": "вулиця Марії", "ru": "улица Марии" },
+        { "phrase": "Panie kapitanie", "match": "Panie kapitanie", "uk": "пане капітане", "ru": "господин капитан" },
+        { "phrase": "Płacz nic tu nie pomoże!", "match": "Płacz nic tu nie pomoże!", "uk": "Плач тут нічим не допоможе!", "ru": "Слёзы здесь не помогут!" }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Карточка и szklarnia",
+      "description": "Задание выполнено. Домой они уходят мокрые и уже не те, что вышли из школы.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_03_5.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Feri Acz командует уходить и сложить копья в кустах. На древках — маленькие красные флажки. Gereb уходит с ними. Поляна пустеет, на камне ещё горит свеча. Boka шепчет: теперь. Прикалывает красную карточку к большому дереву, открывает дверцу latarni и задувает свечу. Становится темно.",
+            "Nemeczka он хватает за руку: [b][i]„Pędź za mną, galopem!”[/i][/b] У берега лодка сидит в песке. Её приходится сталкивать. Красные зажигают фонарь и видят на дереве: [b][i]TU BYLI CHŁOPCY Z PLACU BRONI[/i][/b]. Feri понимает, что чужие ещё на острове. Начинается погоня.",
+            "Трое успевают к берегу раньше, чем их окружат, и бегут через аллеи. Boka кричит: [b][i]„Skryjemy się w szklarni!”[/i][/b] Маленькая дверь открыта. Они прячутся за большими кипарисами.",
+            "Oranżeria — стеклянный дом: пальмы, папоротники, мимозы, магнолии, в середине basen со złotymi rybkami. Жарко и влажно. Nemeczkowi в мокрой одежде здесь тепло, но он боится, что их запрут. Czonakosz лезет на полку, Nemeczek чиркает спичкой. Boka выбивает её: сквозь стекло вспышку видно. Поздно. Czerwone koszule идут к оранжерее.",
+            "Прячутся в одну секунду. Czonakosz — под полку. Nemeczek — в бассейн: он и так мокрый. Вода по подбородок, голова под веткой папоротника. Boka встаёт за дверью. Feri Acz с фонарём обходит проходы и под полки не успевает заглянуть: его отвлекает Sebenicz. В бассейн никто не смотрит.",
+            "Когда опасность проходит, Nemeczek вылезает, и с него снова льётся вода. Он не выдал их криком. Уже на ulicy Üllöi Czonakosz не выдерживает и свистит во всю силу: весь вечер это копилось. Обещание он сдержал, пока шла вылазка. Облегчение приходит только на дороге домой."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Pędź za mną, galopem!", "match": "Pędź za mną, galopem!", "uk": "Мчи за мною, галопом!", "ru": "Беги за мной, во весь опор!" },
+        { "phrase": "Skryjemy się w szklarni!", "match": "Skryjemy się w szklarni!", "uk": "Сховаємося в оранжереї!", "ru": "Спрячемся в оранжерее!" },
+        { "phrase": "oranżeria", "match": "Oranżeria", "uk": "оранжерея", "ru": "оранжерея" },
+        { "phrase": "basen", "match": "basen", "uk": "басейн", "ru": "бассейн" },
+        { "phrase": "złote rybki", "match": "złotymi rybkami", "uk": "золоті рибки", "ru": "золотые рыбки" }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Важные моменты",
+      "description": "Факты этой ночи. Их спрашивают по именам и по фразам.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Вылазка — после lekcji stenografii. Идут в Ogród Botaniczny, на остров czerwonych koszul.",
+            "На красной карточке: TU BYLI CHŁOPCY Z PLACU BRONI. Оскорбление Boka дописать не даёт.",
+            "Идут Boka, Czonakosz и Nemeczek. Czele остаётся: дома ждут к pół do szóstej. Czonakosz обещает не свистеть и свистит один раз заранее.",
+            "Gereba на стенографии не было. Boka уже подозревает зависть.",
+            "В сад входят не через ворота, а через parkan у akacji. На мосту стоит warta. В тайнике лежат tomahawki. Забрать их Boka запрещает: это kradzież.",
+            "Nemeczek падает в воду у лодки и не кричит. Czonakosz остаётся сторожить лодку. Дальше идут Boka и Nemeczek.",
+            "На поляне Gereb среди красных. Он обещает оставить открытой furtkę со стороны ulicy Pawła. Feri Acz хочет напасть по правилам, не на пустой Plac. Pastorom нужна площадка для palanta.",
+            "Nemeczek плачет: „Panie kapitanie...” Boka отвечает: „Płacz nic tu nie pomoże!”",
+            "Boka прикрепляет карточку, гасит latarnię и командует: „Pędź za mną, galopem!” Прячутся по крику: „Skryjemy się w szklarni!”",
+            "В oranżerii Nemeczek сидит в basenie со złotymi rybkami, вода по подбородок. Их не находят. Домой идут по ulicy Üllöi."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-07",
+      "title": "Самое главное в главе",
+      "description": "Смелость без подлости и предательство того, кто знает ваши правила.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka дважды останавливает «удобную» подлость. Czonakosz хочет обидеть надписью — нельзя, потому что так поступил Feri, когда забрал знамя. Czonakosz хочет унести tomahawk — нельзя, это уже кража. Их смелость в другом: войти на чужую землю и оставить своё имя. Карточка говорит «мы здесь были», а не «мы вас обокрали».",
+            "Nemeczek идёт не потому, что не боится. Он боится Pastorów, боится лодки, падает в воду и потом плачет на плече капитана. Но он вызвался первым, не закричал в воде и высидел в бассейне по подбородок, пока враг ходил рядом. Для него эта ночь — способ перестать быть только тем, кем командуют. Звание ещё не дано. Верность уже видна.",
+            "Ранит не нападение Feri Acza. Ранит Gereb. Он знает regulamin своих: furtkę надо закрывать. И именно это правило обещает сломать. Враг хочет Plac для palanta — детская причина. Предатель отдаёт им вход. Слёзы Nemeczka здесь не слабость перед дракой. Это горе от того, что свой сел к чужому фонарю и сказал „Tak”. Boka прав: плач острова не вернёт. И всё же ему самому нечем дышать. Командир, которому не больно от измены, мальчикам не нужен."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-08",
+      "title": "Вопросы",
+      "description": "Сначала ответь сам. Потом открой ответ.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В ответах оставляй польские имена и фразы: карточку, „Pędź za mną, galopem!”, „Skryjemy się w szklarni!”"
+          ]
+        }
+      ],
+      "vocabulary": [],
+      "questions": [
+        {
+          "question": "Зачем Boka ведёт мальчиков в Ogród Botaniczny?",
+          "answer": "Чтобы опередить нападение и доказать, что они не трусливее czerwonych koszul. На острове они оставляют красную карточку."
+        },
+        {
+          "question": "Что написано на карточке и чего на ней нет?",
+          "answer": "TU BYLI CHŁOPCY Z PLACU BRONI. Оскорбления нет: Boka запретил писать так, как поступил Feri Acz с их знаменем."
+        },
+        {
+          "question": "Кто идёт в вылазку и кто остаётся?",
+          "answer": "Идут Boka, Czonakosz и Nemeczek. Czele остаётся: мать ждёт его дома к pół do szóstej, иначе на Plac ему больше нельзя."
+        },
+        {
+          "question": "Что Boka запрещает Czonakoszowi и что всё-таки разрешает?",
+          "answer": "Обещание: „Przyrzeknij, że nie będziesz gwizdał!” Один свист заранее разрешает. В конце, уже на ulicy Üllöi, Czonakosz свистит снова."
+        },
+        {
+          "question": "Как они попадают в сад и что находят в тайнике?",
+          "answer": "Не звонят в ворота. Перелезают parkan у akacji. В камере лежат tomahawki. Boka не даёт их забрать: это kradzież."
+        },
+        {
+          "question": "Что случается с Nemeczkiem у лодки?",
+          "answer": "Он скользит и падает в воду по шею, но не кричит. Czonakosz остаётся сторожить лодку, а Nemeczek идёт с Boka дальше."
+        },
+        {
+          "question": "В чём предательство Gereba?",
+          "answer": "Он сидит среди czerwonych koszul и обещает оставить открытой furtkę со стороны ulicy Pawła. По regulaminowi её надо закрывать на zasuwę. Feri Acz хочет напасть, когда свои будут на Placu. Pastorom нужен plac для palanta."
+        },
+        {
+          "question": "Что говорит Nemeczek и что отвечает Boka?",
+          "answer": "Nemeczek повторяет: „Panie kapitanie...” Boka говорит: „Płacz nic tu nie pomoże!” Ему самому от поступка Gereba тяжело."
+        },
+        {
+          "question": "Какие две команды отдаёт Boka во время побега?",
+          "answer": "„Pędź za mną, galopem!” — бежать к лодке. „Skryjemy się w szklarni!” — спрятаться в оранжерее."
+        },
+        {
+          "question": "Где прячется каждый в oranżerii?",
+          "answer": "Czonakosz — под полкой. Nemeczek — в basenie со złotymi rybkami, вода по подбородок, голова под папоротником. Boka — за дверью. Feri Acz их не находит."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Проверь главу III",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Что Boka хочет оставить на острове?",
+        "options": [
+          "Карточку TU BYLI CHŁOPCY Z PLACU BRONI",
+          "Их czerwono-białą chorągiew",
+          "Украденный tomahawk"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Кто не идёт в Ogród Botaniczny?",
+        "options": ["Nemeczek", "Czele", "Czonakosz"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Что обещает врагам Gereb?",
+        "options": [
+          "Оставить открытой furtkę от ulicy Pawła",
+          "Отдать им czarną księgę",
+          "Привести Słowaka"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Где Nemeczek прячется от Feri Acza?",
+        "options": ["На akacji", "В basenie со złotymi rybkami", "В будке сторожа"],
+        "answer": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "praca-chlopcy",
+  "title": "Работа с книгой: Chłopcy z Placu Broni",
+  "author": "Ferenc Molnár · разбор по главам",
+  "cover": "images/chlopcy-z-placu-broni/cover.svg",
+  "audio": false,
+  "chapters": [
+    { "id": 1, "title": "Rozdział I — Первые события", "file": "chapter-01.json" },
+    { "id": 2, "title": "Rozdział II — Собрание на Placu Broni", "file": "chapter-02.json" },
+    { "id": 3, "title": "Rozdział III — Тайная экспедиция в Ogród Botaniczny", "file": "chapter-03.json" },
+    { "id": 4, "title": "Rozdział IV — Предательство Gereba", "file": "chapter-04.json" },
+    { "id": 5, "title": "Rozdział V — Собрание czerwonych koszul", "file": "chapter-05.json" },
+    { "id": 6, "title": "Rozdział VI — Подготовка к защите Placu Broni", "file": "chapter-06.json" },
+    { "id": 7, "title": "Rozdział VII — Канун битвы", "file": "chapter-07.json" },
+    { "id": 8, "title": "Rozdział VIII — Битва", "file": "chapter-08.json" },
+    { "id": 9, "title": "Rozdział IX — После победы", "file": "chapter-09.json" },
+    { "id": 10, "title": "Rozdział X — Финал", "file": "chapter-10.json" }
+  ]
+}

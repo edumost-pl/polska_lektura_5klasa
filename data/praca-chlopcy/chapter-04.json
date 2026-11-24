@@ -1,0 +1,252 @@
+{
+  "id": 4,
+  "title": "Rozdział IV — Предательство Gereba",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "После вылазки",
+      "description": "В два часа ждут рассказ патруля. Учитель вызывает семерых и не говорит зачем.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_04_1.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "После уроков chłopcy z Placu Broni смотрят на Boka. В два часа на Placu патруль должен рассказать про Ogród Botaniczny. Все уже знают, что вылазка удалась, и ждут подробностей. Czonakosz всё путает и свистит в конце каждой фразы. Nemeczek на расспросы отвечает: [b][i]„Nie wolno mi nic powiedzieć.”[/i][/b]",
+            "Завидуют ему все. Он всего лишь szeregowiec, а был в опасном деле. Кто-то уже хочет повысить его в офицеры. Тогда на Placu рядовым останется только чёрный пёс Słowaka — Hektor.",
+            "Пока pan profesor Rac ещё в классе, Boka поднимает два пальца: сбор в два часа. Свои салютуют. Чужие завидуют тайному знаку.",
+            "У двери учитель читает записку: Weiss, Rychter, Czele, Kolnay, Barabasz, Lesik, Nemeczek. Каждый отвечает: obecny. Перед уходом домой явиться в учительскую. Зачем — не говорит. Boki в списке нет, но все семь фамилий с Placu, поэтому класс обступает его. Он тоже не знает, в чём дело, ждёт в коридоре и переносит сбор с двух часов на три."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Nie wolno mi nic powiedzieć.", "match": "Nie wolno mi nic powiedzieć.", "uk": "Мені не можна нічого казати.", "ru": "Мне нельзя ничего сказать." },
+        { "phrase": "szeregowiec", "match": "szeregowiec", "uk": "рядовий", "ru": "рядовой" },
+        { "phrase": "pan profesor Rac", "match": "pan profesor Rac", "uk": "пан професор Rac", "ru": "господин учитель Rac" },
+        { "phrase": "obecny", "match": "obecny", "uk": "присутній", "ru": "здесь, я на месте" }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Związek Kitowców",
+      "description": "Учитель раскрыл другой союз: замазка, казна, печать и флаг с ошибкой.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_04_2.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В учительской мальчики стоят у длинного зелёного стола. Pan profesor Rac говорит: ему донесли, что они основали Związek Kitowców, и передали список. Это другой союз, не войско Placu Broni. Он запрещал любые организации. Мальчики молчат, опустив головы. Кто основатель? После тишины называют Weissa. Тот не признался сам и не может объяснить почему.",
+            "Учитель спрашивает, что такое kitowcy. Weiss кладёт на стол большой кусок kit, оконной замазки: её выковыривают из рам, когда стекло уже вставлено. Это общий кусок. Раньше его хранил Kolnay, skarbnik, но kit у него высох, потому что он его не жевал. По уставу prezes должен жевать замазку хотя бы раз в день, иначе она затвердеет. Weiss плачет: [b][i]„A teraz właśnie ja... jestem prezesem.”[/i][/b] Кусок собирали целый месяц.",
+            "Казна — из взносов, по десять grajcarów в неделю. Kolnay высыпает forinta и сорок три grajcary. Rychter взял у отца гербовую марку и испугался. Союз дал деньги купить новую и вернуть. Старую вернуть нельзя: на обороте уже печать. Strażnik pieczęci — Barabasz. Он клянётся отдать жизнь, но не печать. Учитель всё равно прячет её в карман. На печати: [b][i]„Związek Kitowców, Budapeszt, 1889”[/i][/b].",
+            "У Czelego ещё крошечный флаг. Его сшила сестра, как и знамя Placu. На флаге ошибка: [b][i]„Pszysięgamy, nigdy już niewolnikami nie być nam!”[/i][/b] Через sz написал Barabasz. Czele говорит учителю, что так написала младшая сестра, и этим закрывает товарища."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Związek Kitowców", "match": "Związek Kitowców", "uk": "спілка любителів замазки", "ru": "союз жевателей замазки" },
+        { "phrase": "kit", "match": "kit", "uk": "віконна замазка", "ru": "оконная замазка" },
+        { "phrase": "prezes", "match": "prezes", "uk": "голова", "ru": "председатель" },
+        { "phrase": "skarbnik", "match": "skarbnik", "uk": "скарбник", "ru": "казначей" },
+        { "phrase": "A teraz właśnie ja... jestem prezesem.", "match": "A teraz właśnie ja... jestem prezesem.", "uk": "А тепер саме я... голова.", "ru": "А теперь как раз я... председатель." },
+        { "phrase": "strażnik pieczęci", "match": "Strażnik pieczęci", "uk": "охоронець печатки", "ru": "хранитель печати" },
+        { "phrase": "Pszysięgamy", "match": "Pszysięgamy, nigdy już niewolnikami nie być nam!", "uk": "Присягаємо — написано з помилкою", "ru": "Присягаем — так на их флаге, с ошибкой" }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Наказание и свежий kit",
+      "description": "Союз замазки закрыт. Boka выдыхает: Plac Broni ещё не выдан.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_04_3.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Pan profesor Rac распускает Związek Kitowców сразу. Оценку за поведение снижают всем, Weissu — на две ступени, потому что он prezes. Weiss говорит, что председателем был только этот месяц и сегодня выбрали бы Kolnaya. Учителю всё равно. Завтра все остаются в школе do drugiej.",
+            "Все хором: do widzenia, panie profesorze! Weiss тянется за kit. Учитель велит оставить замазку и отдать всё, что ещё во рту. Lesik молчал до этой минуты. Он вынимает кусок изо рта и только потом может сказать: do widzenia. Учитель заканчивает: [b][i]Marsz do domu![/i][/b]",
+            "В коридоре Kolnay пересказывает допрос Boke. Тот выдыхает: пока семеро сидели за столом, он думал, что выдали Plac Broni. Выдали только союз замазки.",
+            "Nemeczek шепчет: во время допроса он стоял у окна, стекло только что вставили. Он показывает свежий kit. Если замазка снова есть, союз снова жив. Мальчики кричат пароль [b][i]Hola ho! Hola ho![/i][/b] и бегут на Plac. Boka идёт домой один, думает о Gerebie с фонарём на острове, ест обед и садится за латынь."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "do drugiej", "match": "do drugiej", "uk": "до другої години", "ru": "до двух часов" },
+        { "phrase": "do widzenia", "match": "do widzenia", "uk": "до побачення", "ru": "до свидания" },
+        { "phrase": "Marsz do domu!", "match": "Marsz do domu!", "uk": "Марш додому!", "ru": "Марш домой!" },
+        { "phrase": "Hola ho! Hola ho!", "match": "Hola ho! Hola ho!", "uk": "Пароль хлопців з Placu Broni.", "ru": "Пароль мальчиков с Placu Broni." }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Gereb у Słowaka",
+      "description": "Три сигары и forinty — плата за то, чтобы сторож прогнал своих.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_04_4.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "К половине третьего Związek Kitowców уже на Placu. Weiss открывает собрание. Nemeczek здесь sekretarz. Ему дают слово, и голос пропадает: между штабелями к будке Słowaka крадётся Gereb. Об острове знают только он и Boka. До сбора Gereb не должен понять, что его видели у latarni. Но он пришёл раньше и идёт к сторожу один. Nemeczek отказывается от слова и бежит в обход: ulica Pawła, ulica Marii, лесопилка. Оттуда он залезает на штабель и на крышу будки.",
+            "Słowak, для мальчиков ещё и Jano, курит трубку из окурков, которые они ему носят. Hektor лает и ложится: свой. Gereb говорит: [b][i]„Przyniosłem cygara, Jano!”[/i][/b] и даёт три целые сигары. Jano почти никогда не видел целой сигары, только окурки. Дальше они говорят уже в будке. Nemeczek слышит их через доску, которую выел короед.",
+            "Gereb обещает сколько угодно cygar и деньги, [b][i]forinty[/i][/b]. За это Jano должен прогнать мальчиков с Placu: здесь нельзя играть в мяч и раскидывать штабеля. Сюда хотят прийти другие, богатые. Сторож соглашается. Nemeczek срывается с крыши и бежит. Если Jano сам прогонит своих, Plac будет потерян раньше битвы."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "sekretarz", "match": "sekretarz", "uk": "секретар", "ru": "секретарь" },
+        { "phrase": "Jano", "match": "Jano", "uk": "Яно, так звуть сторожа", "ru": "Jano, так зовут сторожа Słowaka" },
+        { "phrase": "Przyniosłem cygara, Jano!", "match": "Przyniosłem cygara, Jano!", "uk": "Я приніс сигари, Jano!", "ru": "Я принёс сигары, Jano!" },
+        { "phrase": "forint", "match": "forinty", "uk": "форинти", "ru": "форинты, деньги" }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Маленькие буквы и слеза",
+      "description": "Союз замазки видит только побег. Командир Placu впервые не знает, что делать.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_04_5.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka на Placu ещё нет, и Nemeczek бежит к нему домой. Союз замазки всё ещё заседает. Weiss кричит: [b][i]„Panie sekretarzu! Hola ho!”[/i][/b] Nemeczek машет, что остановиться не может. Тогда Weiss командует по офицерскому чину: [b][i]Szeregowy! Stój![/i][/b] Nemeczek становится смирно. Ему говорят: союз будет жить дальше тайно, нового prezesa уже выбрали, это Kolnay. Sekretarz должен присягнуть хранить тайну, иначе pan profesor Rac узнает снова.",
+            "В эту минуту Nemeczek видит Gereba: тот прячется у штабелей и ждёт, чтобы уйти. Nemeczek говорит, что ему некогда, и бежит. Weiss решает, что тот боится наказания. Собрание видит только побег и объявляет: Erno Nemeczek — [b][i]tchórz[/i][/b]. Его снимают с должности, исключают и велят записать фамилию [b][i]małymi literami[/i][/b]. По уставу это самая тяжёлая кара: у имени отнимают достоинство. Lesik пишет: [b][i]erno nemeczek jest zdrajcą!!![/i][/b]",
+            "Nemeczek находит Boka у дома. На бегу назад он кашляет: он [b][i]przeziębiony[/i][/b] после ледяной воды в basenie szklarni. У калитки они видят Gereba. Boka зовёт: [b][i]„Gereb!”[/i][/b] Тот смеётся и убегает. На Placu ещё играют в мяч и славят нового prezesa. Там никто не знает, что земля, может быть, уже не их. Nemeczek держится, пока командир спокоен. Страх приходит вместе с первой слезой Boki и вопросом: [b][i]„I co my teraz zrobimy?”[/i][/b]"
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Panie sekretarzu! Hola ho!", "match": "Panie sekretarzu! Hola ho!", "uk": "Пане секретарю! Hola ho!", "ru": "Господин секретарь! Hola ho!" },
+        { "phrase": "Szeregowy! Stój!", "match": "Szeregowy! Stój!", "uk": "Рядовий! Стій!", "ru": "Рядовой! Стой!" },
+        { "phrase": "tchórz", "match": "tchórz", "uk": "боягуз", "ru": "трус" },
+        { "phrase": "małymi literami", "match": "małymi literami", "uk": "маленькими літерами", "ru": "маленькими буквами" },
+        { "phrase": "erno nemeczek jest zdrajcą", "match": "erno nemeczek jest zdrajcą", "uk": "ерно немечек — зрадник", "ru": "erno nemeczek — предатель, так его записали" },
+        { "phrase": "przeziębiony", "match": "przeziębiony", "uk": "застуджений", "ru": "простужен" },
+        { "phrase": "I co my teraz zrobimy?", "match": "I co my teraz zrobimy?", "uk": "І що ми тепер зробимо?", "ru": "И что же нам теперь делать?" }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Важные моменты",
+      "description": "Сначала разложи по порядку: школа, замазка, сторож, слеза.",
+      "figure": { "src": "", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В два часа ждут рассказ о вылазке. Nemeczek говорит: „Nie wolno mi nic powiedzieć.” Boka показывает два пальца. Pan profesor Rac вызывает семерых, Boki в списке нет, сбор переносят на три.",
+            "В учительской раскрывают другой союз, Związek Kitowców. Prezes Weiss должен жевать kit, иначе замазка затвердеет. Skarbnik — Kolnay, strażnik pieczęci — Barabasz, sekretarz — Nemeczek. На печати: „Związek Kitowców, Budapeszt, 1889”. На флаге ошибка „Pszysięgamy...”: написал Barabasz, а Czele берёт вину на сестру.",
+            "Союз распущен. Оценку снижают всем, Weissu — на две ступени. Завтра все остаются do drugiej. Boka боялся, что выдали Plac Broni. Nemeczek приносит свежий kit, и мальчики хотят собрать союз снова.",
+            "Gereb платит Jano тремя cygarami и обещает forinty, чтобы тот прогнал мальчиков. Nemeczek слышит это с крыши будки.",
+            "Weiss командует „Szeregowy! Stój!” Новым prezesem становится Kolnay. Nemeczek убегает за Gerebem, а союз пишет małymi literami: erno nemeczek jest zdrajcą!!!",
+            "Gereb на зов только смеётся. На Placu ещё играют. У Boki первая слеза и вопрос: „I co my teraz zrobimy?”"
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-07",
+      "title": "Самое главное в главе",
+      "description": "Свои наказывают не того и не за то.",
+      "figure": { "src": "", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В главе две тайны. Związek Kitowców — замазка, печать и флаг с ошибкой. Pan profesor Rac закрывает именно его. Boka в коридоре боится другого: что выдали Plac Broni. Свежий kit оживляет игру. Командир думает о Gerebie с фонарём.",
+            "Nemeczek в один день спасает союз замазки и теряет его. Он срывается с собрания, потому что Jano согласился прогнать своих за cygara и forinty. Weiss видит только отказ от присяги и записывает имя małymi literami: erno nemeczek. Мальчика, который стережёт Plac, свои называют предателем.",
+            "Раньше ход выбирал Boka. Здесь ход выбирает купленный сторож. Смех Gereba у калитки значит, что окликом его уже не остановить. Пока przewodniczący спокоен, Nemeczek держится. Первая слеза и вопрос [b]„I co my teraz zrobimy?”[/b] для него тяжелее крика „tchórz”. На Placu в эту минуту ещё играют и ничего не знают."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-08",
+      "title": "Вопросы",
+      "description": "Сначала ответь сам. Потом открой ответ.",
+      "figure": { "src": "", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В ответах оставляй польские имена и надписи: печать, флаг, erno nemeczek jest zdrajcą, „I co my teraz zrobimy?”. Разделяй два союза: Związek Kitowców и chłopców z Placu Broni."
+          ]
+        }
+      ],
+      "vocabulary": [],
+      "questions": [
+        {
+          "question": "Почему мальчики завидуют Nemeczkowi и что он отвечает на расспросы?",
+          "answer": "Он szeregowiec, но был в ночной вылазке вместе с Boka. Поручики уже хотят повысить его в офицеры. На вопросы он отвечает: „Nie wolno mi nic powiedzieć.”"
+        },
+        {
+          "question": "Кого вызывает pan profesor Rac и что делает Boka?",
+          "answer": "Weissa, Rychtera, Czelego, Kolnaya, Barabasza, Lesika и Nemeczka. Boki в списке нет. Он ждёт в коридоре и переносит сбор с двух часов на три."
+        },
+        {
+          "question": "Что такое Związek Kitowców и кто в нём главные?",
+          "answer": "Тайный союз, где собирают и жуют оконную замазку, kit, чтобы она не затвердела. Prezes — Weiss, skarbnik — Kolnay, strażnik pieczęci — Barabasz, sekretarz — Nemeczek. Это другой союз, отдельный от войска Placu Broni."
+        },
+        {
+          "question": "Что написано на печати и на флаге? Кто сделал ошибку?",
+          "answer": "На печати: „Związek Kitowców, Budapeszt, 1889”. На флаге с ошибкой: „Pszysięgamy, nigdy już niewolnikami nie być nam!” Через sz написал Barabasz. Czele говорит учителю, что так написала его младшая сестра."
+        },
+        {
+          "question": "Какое наказание даёт учитель?",
+          "answer": "Союз распущен сразу. Оценку за поведение снижают всем, Weissu — на две ступени, потому что он prezes. Завтра все остаются в школе do drugiej. Kit велят отдать."
+        },
+        {
+          "question": "Чего испугался Boka и что принёс Nemeczek?",
+          "answer": "Boka испугался, что выдали Plac Broni. Выдали только союз замазки. Nemeczek во время допроса выковырял свежий kit из только что вставленного стекла, и мальчики решили собрать союз снова."
+        },
+        {
+          "question": "Чем Gereb покупает Słowaka и зачем?",
+          "answer": "Тремя целыми сигарами, а потом обещанием ещё cygar и forintów. За это Jano должен прогнать мальчиков с Placu: сюда хотят прийти богатые. Słowak соглашается."
+        },
+        {
+          "question": "Почему Nemeczek убегает с собрания и что думает Weiss?",
+          "answer": "Gereb прячется у штабелей и вот-вот уйдёт. Nemeczek должен найти Boka, пока Plac ещё можно спасти. Weiss думает, что sekretarz боится нового наказания за союз, и командует: „Szeregowy! Stój!”"
+        },
+        {
+          "question": "Как союз наказывает Nemeczka?",
+          "answer": "Объявляет tchórzem и zdrajcą, снимает с должности sekretarza, исключает и пишет małymi literami: erno nemeczek jest zdrajcą!!! По уставу маленькие буквы — самая тяжёлая кара."
+        },
+        {
+          "question": "Чем заканчивается глава?",
+          "answer": "Nemeczek простужен после холодного basenu в szklarni. Gereb на зов „Gereb!” смеётся и убегает. На Placu ещё играют и славят нового prezesa. У Boki первая слеза, и он спрашивает: „I co my teraz zrobimy?”"
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Проверь главу IV",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Что распускает pan profesor Rac?",
+        "options": ["Plac Broni", "Związek Kitowców", "czerwone koszule"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Кто prezes союза замазки в начале допроса?",
+        "options": ["Nemeczek", "Kolnay", "Weiss"],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Что Gereb приносит Jano?",
+        "options": ["Три cygara", "Czerwoną kartkę", "Chorągiew Placu"],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Как записывают имя Nemeczka в тайную книгу?",
+        "options": [
+          "Большими буквами, как героя",
+          "Małymi literami: erno nemeczek jest zdrajcą",
+          "Не записывают вообще"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

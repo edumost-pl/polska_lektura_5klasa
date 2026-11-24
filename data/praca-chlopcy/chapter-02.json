@@ -1,0 +1,424 @@
+{
+  "id": 2,
+  "title": "Rozdział II — Собрание на Placu Broni",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Plac Broni — их место",
+      "description": "Для городских мальчиков пустой двор — это целая страна.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_02_1.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Plac Broni — не просто пустырь между дырявым забором и серыми стенами домов. Для мальчиков из Будапешта это их равнина и их свобода. На штабелях дров они строят fortece и twierdze. Что укреплять, решает Boka. Строят Czonakosz и Nemeczek.",
+            "У каждой крепости есть капитан и поручик. Офицером хочет быть почти каждый: командовать приятнее, чем слушаться. Szeregowiec на всём Placu только один — Nemeczek. Ему нравится подчиняться. Ему говорят: [b][i]„Pięty razem! Baczność!”[/i][/b] — и он становится смирно, с радостью.",
+            "Запомни это сразу. Пока остальные играют в командиров, весь груз приказов лежит на самом маленьком."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "forteca",
+          "match": "fortece",
+          "uk": "фортеця",
+          "ru": "крепость"
+        },
+        {
+          "phrase": "twierdza",
+          "match": "twierdze",
+          "uk": "твердиня",
+          "ru": "укрепление, цитадель"
+        },
+        {
+          "phrase": "szeregowiec",
+          "match": "Szeregowiec",
+          "uk": "рядовий",
+          "ru": "рядовой"
+        },
+        {
+          "phrase": "Pięty razem! Baczność!",
+          "match": "Pięty razem! Baczność!",
+          "uk": "П’яти разом! Струнко!",
+          "ru": "Пятки вместе! Смирно!"
+        }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Feri Acz забирает chorągiew",
+      "description": "До собрания враг уже побывал на их крепости.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_02_2.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nemeczek приходит раньше всех через furtkę со стороны ulicy Pawła и закрывает её изнутри: так велит regulamin. Днём у будки спит сторож Słowak. Ночью он стережёт дрова.",
+            "Пёс Hektor лает на среднюю крепость. Nemeczek лезет наверх и видит Feri Acza: нога на брёвнах, красная рубашка на ветру, насмешливая улыбка. Маленькая czerwono-zielona chorągiew, которую сшила сестра Czelego, исчезает. Nemeczek пугается и в то же время замечает, какой Feri сильный. Chłopcy z Ogrodu Botanicznego носят такие же czerwone koszule, потому что во всём копируют своего вожака.",
+            "Потом у забора четыре мерных удара — условный знак своих. Входят Boka, Czele и Gereb. Nemeczek, хоть ему не терпится всё выкрикнуть, сначала становится на baczność и отдаёт честь: он tylko szeregowiec.",
+            "Gereb приказывает: с этого дня их цвета не czerwono-zielone, а [b][i]czerwono-białe[/i][/b]. Древко знамени Feri уже сломал."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "furtka",
+          "match": "furtkę",
+          "uk": "хвіртка",
+          "ru": "калитка"
+        },
+        {
+          "phrase": "ulica Pawła",
+          "match": "ulicy Pawła",
+          "uk": "вулиця Павла",
+          "ru": "улица Павла"
+        },
+        {
+          "phrase": "regulamin",
+          "match": "regulamin",
+          "uk": "статут, правила",
+          "ru": "устав"
+        },
+        {
+          "phrase": "chorągiew",
+          "match": "chorągiew",
+          "uk": "прапор",
+          "ru": "знамя"
+        },
+        {
+          "phrase": "czerwono-zielona",
+          "match": "czerwono-zielona",
+          "uk": "червоно-зелена",
+          "ru": "красно-зелёная"
+        },
+        {
+          "phrase": "czerwone koszule",
+          "match": "czerwone koszule",
+          "uk": "червоні сорочки",
+          "ru": "красные рубашки, противники"
+        },
+        {
+          "phrase": "czerwono-białe",
+          "match": "czerwono-białe",
+          "uk": "червоно-білі",
+          "ru": "красно-белые"
+        },
+        {
+          "phrase": "baczność",
+          "match": "baczność",
+          "uk": "струнко",
+          "ru": "смирно"
+        }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Hola ho и czarna księga",
+      "description": "Boka наказывает сначала себя.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_02_3.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "С площади несётся их пароль: [b][i]„Hola ho! Hola ho!”[/i][/b] Czele приказывает рядовому ответить. Nemeczek тонким голосом кричит то же самое.",
+            "На середине Placu их ждут Czonakosz, Weiss, Kende, Kolnay и другие. При виде Boki все становятся смирно: он их капитан. Kolnay докладывает: furtka была открыта, а по уставу её закрывают изнутри. Все смотрят на Nemeczka.",
+            "Nemeczek говорит правду: последним вошёл сам капитан. Boka секунду думает и признаёт: «Забыл задвинуть засов». Потом приказывает записать в czarną księgę себя: [b][i]Janosz Boka[/i][/b], а рядом слово [b][i]furtka[/i][/b].",
+            "И сразу второе: Kolnaya записать за donosicielstwo. Доложить о нарушении можно. Ябедничать, когда дело уже ясно, Boka не принимает.",
+            "Nemeczek от радости пускается в танец. Обычно в чёрную книгу пишут только его: он единственный szeregowiec, и субботний суд судит только его. В этот раз фамилия в книге не его."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "Hola ho! Hola ho!",
+          "match": "Hola ho! Hola ho!",
+          "uk": "їхній клич",
+          "ru": "их клич, приветствие своих"
+        },
+        {
+          "phrase": "czarna księga",
+          "match": "czarną księgę",
+          "uk": "чорна книга провин",
+          "ru": "чёрная книга проступков"
+        },
+        {
+          "phrase": "Janosz Boka",
+          "match": "Janosz Boka",
+          "uk": "Янош Бока",
+          "ru": "Janosz Boka, так его пишут в книге"
+        },
+        {
+          "phrase": "donosicielstwo",
+          "match": "donosicielstwo",
+          "uk": "донощицтво",
+          "ru": "донос, ябедничество"
+        }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Выбор przewodniczącego",
+      "description": "Nemeczek просит звание. Его слёзы здесь важнее, чем счёт голосов.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_02_4.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Перед выбором przewodniczącego Nemeczek выходит вперёд и дрожащим голосом говорит капитану: так больше нельзя, чтобы szeregowcem был только он. Все уже офицеры, а ему все приказывают и всё должен делать он.",
+            "Он плачет. Czele холодно предлагает исключить его: beczy. Кто-то говорит: beksa. Мальчики смеются. Nemeczek вспоминает czarną księgę: туда тоже всегда пишут только его.",
+            "Boka останавливает его жёстко: [b][i]„Nie zadajemy się z beksami.”[/i][/b] Если сейчас же не перестанет плакать, на Plac ему больше нельзя. Слово beksa пугает Nemeczka сильнее врага. Он умолкает. Тогда Boka кладёт руку ему на плечо: если заслужишь, в мае станешь офицером. Пока остаёшься szeregowcem.",
+            "Gereb тут же командует: наточи карандаш. Nemeczek точит и понимает, что повышения сегодня не будет. Без единственного рядового офицерам некем командовать.",
+            "Голосуют тайно, карточки кладут в чёрную шляпу Czelego. Карточек четырнадцать. [b][i]Janosz Boka[/i][/b] — одиннадцать. [b][i]Deżo Gereb[/i][/b] — три. Один голос за Gereba отдал сам Boka, из вежливости. Два других ему больно: кто-то из своих выбрал не его.",
+            "Gereb улыбается смущённо и доволен тремя голосами: впервые он открыто стоит рядом с Boka как соперник. Nemeczek всё ещё со слезами на глазах кричит [b][i]„Niech żyje!”[/i][/b], потому что любит Boka. Czonakosz свистит."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "przewodniczący",
+          "match": "przewodniczącego",
+          "uk": "голова",
+          "ru": "председатель"
+        },
+        {
+          "phrase": "beczy",
+          "match": "beczy",
+          "uk": "реве",
+          "ru": "ревёт, плачет"
+        },
+        {
+          "phrase": "beksa",
+          "match": "beksami",
+          "uk": "плакса",
+          "ru": "плакса"
+        },
+        {
+          "phrase": "Nie zadajemy się z beksami.",
+          "match": "Nie zadajemy się z beksami.",
+          "uk": "Ми не водимося з плаксами.",
+          "ru": "Мы не водимся с плаксами."
+        },
+        {
+          "phrase": "Deżo Gereb",
+          "match": "Deżo Gereb",
+          "uk": "Деже Ґереб",
+          "ru": "Deżo Gereb, так его пишут в книге"
+        },
+        {
+          "phrase": "Niech żyje!",
+          "match": "Niech żyje!",
+          "uk": "Хай живе!",
+          "ru": "Да здравствует!"
+        }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Решение идти в Ogród Botaniczny",
+      "description": "Они не отдают Plac и не ждут, пока придут за ним.",
+      "figure": {
+        "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_02_5.png?raw=true",
+        "alt": ""
+      },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Boka сразу переходит к делу. Czerwone koszule хотят отнять Plac и twierdze. Вчера Pastorowie забрали шарики, сегодня Feri Acz забрал chorągiew. Рано или поздно они придут прогнать мальчиков. Boka говорит прямо: этот Plac они не отдадут.",
+            "Czonakosz кричит: [b][i]„Niech żyje Plac!”[/i][/b] Мальчики смотрят на брёвна в весеннем солнце. Этот клочок земли они любят как свою маленькую родину и готовы за него стоять.",
+            "Ждать нападения они не будут. Все кричат: [b][i]„Chodźmy!”[/i][/b] — идём к ним, в Ogród Botaniczny. Кричит и Nemeczek. Он знает, что рядовой пойдёт в самом хвосте и понесёт плащи офицеров. Ему всё равно нужно быть с ними.",
+            "Из-под крепости хрипло отзывается старый Słowak с трубкой. Рядом лежит Hektor. Słowak тоже кричит „Chodźmy!” и подбрасывает шляпу.",
+            "Официальная часть кончается, начинается palant. Рядовому приказывают принести мяч и биту. Nemeczek бежит к тайнику под штабелем. А Boka подходит к Gerebowi и спокойно говорит: [b][i]„Dostałeś trzy głosy.”[/i][/b] Gereb отвечает: [b][i]„Tak”[/i][/b] — и твёрдо смотрит ему в глаза."
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "phrase": "Niech żyje Plac!",
+          "match": "Niech żyje Plac!",
+          "uk": "Хай живе площа!",
+          "ru": "Да здравствует площадь!"
+        },
+        {
+          "phrase": "Chodźmy!",
+          "match": "Chodźmy!",
+          "uk": "Ходімо!",
+          "ru": "Пойдём!"
+        },
+        {
+          "phrase": "Ogród Botaniczny",
+          "match": "Ogród Botaniczny",
+          "uk": "Ботанічний сад",
+          "ru": "Ботанический сад, лагерь красных рубашек"
+        },
+        {
+          "phrase": "palant",
+          "match": "palant",
+          "uk": "палант, гра з м’ячем і битою",
+          "ru": "палант, игра с мячом и битой"
+        },
+        {
+          "phrase": "Dostałeś trzy głosy.",
+          "match": "Dostałeś trzy głosy.",
+          "uk": "Ти отримав три голоси.",
+          "ru": "Ты получил три голоса."
+        }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Важные моменты",
+      "description": "Это факты этой главы. Спор о kit сюда не входит.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Plac Broni для мальчиков — свобода и своя земля, не пустой двор. На штабелях — крепости. Командует Boka.",
+            "Единственный szeregowiec — Nemeczek. Поэтому приказы, чёрная книга и суд почти всегда про него.",
+            "Feri Acz в красной рубашке залез на крепость и унёс czerwono-zieloną chorągiew. Gereb меняет цвета на czerwono-białe. Противники — czerwone koszule из Ogrodu Botanicznego.",
+            "Пароль своих: „Hola ho! Hola ho!”",
+            "В czarną księgę Boka велит записать себя — за открытую furtkę — и Kolnaya за donosicielstwo. В книге его имя пишется Janosz Boka.",
+            "Голоса: Janosz Boka — 11, Deżo Gereb — 3. Один из трёх — голос самого Boki.",
+            "Nemeczek плачет, потому что хочет перестать быть единственным рядовым. Boka говорит: „Nie zadajemy się z beksami”, но обещает звание в мае, если заслужит.",
+            "Уже случилось: Pastorowie забрали шарики, Feri Acz забрал знамя. Решение: Plac не отдавать и самим идти. Крик: „Niech żyje Plac!” и „Chodźmy!”",
+            "Hektor — пёс Słowaka, сторожа площади. Słowak тоже кричит „Chodźmy!”",
+            "Спор о замазке и Związek Kitowców — не эта глава. Stan wojenny тоже позже. Здесь выбирают przewodniczącego и решают идти к противнику."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-07",
+      "title": "Самое главное в главе",
+      "description": "Маленькая родина, справедливый командир и первая трещина.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Глава показывает, за что они вообще будут драться. Plac Broni тесный, грязный, между забором и домами. Для них это родина: здесь свои законы, своё знамя и свой клич. Когда Feri Acz уносит chorągiew, он заходит не на чужой пустырь, а в их страну.",
+            "Второй центр главы — Nemeczek. Он не трус перед врагом: он лезет на крепость за Hektorem и потом идёт со всеми, хотя знает, что понесёт чужие плащи. Его слёзы про другое. В группе, где все хотят командовать, самому маленькому достаётся роль того, кем можно помыкать. Смех над beksą делает ему больнее, чем крик Feri Acza. Boka резок: в их игре плачущего рядового не держат. И всё же он не выгоняет Nemeczka, а оставляет ему надежду. Это важнее обещания звания.",
+            "Рядом Boka показывает, какой командир им нужен. Открытую калитку он записывает на себя. Чужой донос не награждает. Три голоса Gereba он не прячет: подходит и говорит в лицо. Запомни этот взгляд Gereba. Он доволен, что его поставили рядом с Boka. Пока это только три голоса. Но человек, которому мало быть вторым, уже сравнивает себя с первым."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-08",
+      "title": "Вопросы",
+      "description": "Сначала ответь сам. Потом открой ответ.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В ответах оставляй польские имена и слова: szeregowiec, chorągiew, czarna księga, Hola ho, Chodźmy."
+          ]
+        }
+      ],
+      "vocabulary": [],
+      "questions": [
+        {
+          "question": "Чем Plac Broni был для мальчиков?",
+          "answer": "Не пустым двором, а их свободой и маленькой родиной. На штабелях дров стояли их крепости."
+        },
+        {
+          "question": "Кто единственный szeregowiec и почему это важно?",
+          "answer": "Nemeczek. Остальные хотят быть офицерами, поэтому приказы и czarna księga почти всегда достаются ему."
+        },
+        {
+          "question": "Кто забрал знамя и какое оно было?",
+          "answer": "Feri Acz забрал małą czerwono-zieloną chorągiew. Её сшила сестра Czelego. После этого Gereb меняет цвета на czerwono-białe."
+        },
+        {
+          "question": "Какой у мальчиков пароль?",
+          "answer": "„Hola ho! Hola ho!”"
+        },
+        {
+          "question": "Кого и за что записали в czarną księgę?",
+          "answer": "Janosza Bokę — за открытую furtkę. Kolnaya — за donosicielstwo. Boka наказал сначала себя."
+        },
+        {
+          "question": "Почему плакал Nemeczek и что сказал Boka?",
+          "answer": "Он просил, чтобы szeregowcem был не только он. Czele назвал это beczy. Boka сказал: „Nie zadajemy się z beksami”, но обещал звание в мае, если Nemeczek его заслужит."
+        },
+        {
+          "question": "Сколько было голосов?",
+          "answer": "Четырнадцать карточек. Janosz Boka — 11, Deżo Gereb — 3. Один голос за Gereba отдал сам Boka."
+        },
+        {
+          "question": "Что противники уже сделали к концу главы?",
+          "answer": "Pastorowie забрали шарики, Feri Acz унёс chorągiew. Czerwone koszule хотят отнять Plac и twierdze."
+        },
+        {
+          "question": "Что решили мальчики?",
+          "answer": "Plac не отдавать и не ждать. Они кричат „Niech żyje Plac!” и „Chodźmy!” — идут в Ogród Botaniczny."
+        },
+        {
+          "question": "Кто такой Hektor и чем кончается разговор Boki с Gerebem?",
+          "answer": "Hektor — пёс сторожа Słowaka. Boka говорит Gerebowi: „Dostałeś trzy głosy”. Gereb отвечает „Tak” и смотрит ему в глаза."
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Проверь главу II",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Кто на Placu единственный szeregowiec?",
+        "options": [
+          "Czonakosz",
+          "Nemeczek",
+          "Kolnay"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Кто унёс chorągiew с крепости?",
+        "options": [
+          "Gereb",
+          "Słowak",
+          "Feri Acz"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Сколько голосов получил Deżo Gereb?",
+        "options": [
+          "Три",
+          "Одиннадцать",
+          "Четырнадцать"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Куда мальчики решили идти сами?",
+        "options": [
+          "В школу",
+          "В Ogród Botaniczny",
+          "К продавцу сладостей"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

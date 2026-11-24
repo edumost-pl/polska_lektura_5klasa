@@ -1,0 +1,68 @@
+{
+  "id": "opowiesc-z-narniji",
+  "title": "Opowieść z Narnii. Lew, czarownica i stara szafa.",
+  "author": "C.S. Lewis",
+  "cover": "../../images/opowiesc-z-narniji/cover.png",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Rozdział I. ŁUCJA ZAGLĄDA DO SZAFY",
+      "file": "chapter-01.json"
+    },
+    {
+      "id": 2,
+      "title": "Rozdział II. CO ŁUCJA TAM ZOBACZYŁA",
+      "file": "chapter-02.json"
+    },
+    {
+      "id": 3,
+      "title": "Rozdział III. EDMUND WCHODZI DO SZAFY",
+      "file": "chapter-03.json"
+    },
+    {
+      "id": 4,
+      "title": "Rozdział IV. PTASIE MLECZKO",
+      "file": "chapter-04.json"
+    },
+    {
+      "id": 5,
+      "title": "Rozdział V. Z POWROTEM PO TEJ STRONIE DRZWI",
+      "file": "chapter-05.json"
+    },
+    {
+      "id": 6,
+      "title": "Rozdział VI. W PUSZCZY",
+      "file": "chapter-06.json"
+    },
+    {
+      "id": 7,
+      "title": "Rozdział VII",
+      "file": "chapter-07.json"
+    },
+    {
+      "id": 8,
+      "title": "Rozdział VIII",
+      "file": "chapter-08.json"
+    },
+    {
+      "id": 9,
+      "title": "Rozdział IX",
+      "file": "chapter-09.json"
+    },
+    {
+      "id": 10,
+      "title": "Rozdział X",
+      "file": "chapter-10.json"
+    },
+    {
+      "id": 11,
+      "title": "Podsumowanie lektury",
+      "file": "chapter-11.json"
+    },
+    {
+      "id": 12,
+      "title": "Test z całej książki",
+      "file": "chapter-12.json"
+    }
+  ]
+}

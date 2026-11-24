@@ -4,6 +4,14 @@
     {
       "id": "chlopcy-z-placu-broni",
       "dir": "data/chlopcy-z-placu-broni"
+    },
+    {
+      "id": "praca-chlopcy",
+      "dir": "data/praca-chlopcy"
+    },
+    {
+      "id": "opowiesc-z-narniji",
+      "dir": "data/opowiesc-z-narniji"
     }
   ]
 }

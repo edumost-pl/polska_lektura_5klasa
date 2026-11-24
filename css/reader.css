@@ -252,6 +252,24 @@ body[data-page="reader"] .back-link {
   width: 100%;
 }
 
+.part-figure.is-lead {
+  width: 30%;
+}
+
+.part-figure.is-lead.is-expanded {
+  width: 100%;
+}
+
+.part-figure.is-lead .part-figure-slot {
+  min-height: 0;
+  aspect-ratio: 4 / 3;
+}
+
+.part-figure.is-lead img {
+  object-fit: contain;
+  background: #f6f1e8;
+}
+
 .part-figure-zoom {
   display: block;
   width: 100%;

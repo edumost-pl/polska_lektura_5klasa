@@ -48,6 +48,10 @@ function finalQuizOf(chapter) {
   };
 }
 
+function audioEnabled(book, chapter) {
+  return book?.audio !== false && chapter?.audio !== false;
+}
+
 function bookAudioFile(book, chapter) {
   const raw = (typeof book?.audio === 'string' && book.audio.trim())
     || (typeof chapter?.audio === 'string' && chapter.audio.trim())
@@ -94,7 +98,9 @@ function paint(root, book, chapter, meta, index) {
   const parts = chapterParts(chapter);
   const finalQuiz = finalQuizOf(chapter);
   const finalQuestions = Array.isArray(finalQuiz.questions) ? finalQuiz.questions : [];
-  const player = createBookAudio(assetUrl(bookAudioFile(book, chapter)));
+  const player = audioEnabled(book, chapter)
+    ? createBookAudio(assetUrl(bookAudioFile(book, chapter)))
+    : null;
   const hasText = parts.some((part) => paragraphItems(part).length);
 
   root.replaceChildren();
@@ -141,12 +147,12 @@ function paint(root, book, chapter, meta, index) {
     root.append(section);
   });
 
-  if (parts.length || finalQuestions.length) {
+  if (finalQuestions.length) {
     root.append(renderFinalQuiz(finalQuiz, meta.id, title));
   }
 
   root.append(chapterNav(book, index));
-  root.append(player.audio);
+  if (player) root.append(player.audio);
   if (navButtons.length && sections.length) watchParts(navButtons, sections);
 }
 
@@ -175,17 +181,20 @@ function renderPart(part, index, parts, player) {
   head.append(switcher);
   section.append(head);
 
-  const audioSlot = el('div', 'part-audio');
-  section.append(audioSlot);
-  const range = part.audio && typeof part.audio === 'object' ? part.audio : {};
-  mountPartAudio(audioSlot, player, {
-    id: part.id || `part-${index + 1}`,
-    start: range.start,
-    end: range.end,
-  });
+  if (player) {
+    const audioSlot = el('div', 'part-audio');
+    section.append(audioSlot);
+    const range = part.audio && typeof part.audio === 'object' ? part.audio : {};
+    mountPartAudio(audioSlot, player, {
+      id: part.id || `part-${index + 1}`,
+      start: range.start,
+      end: range.end,
+    });
+  }
 
   section.append(renderReading(part));
-  section.append(renderPartQuiz(part, index));
+  const quiz = renderPartQuiz(part, index);
+  if (quiz) section.append(quiz);
   return section;
 }
 
@@ -219,8 +228,19 @@ function renderInlineImage(block) {
   return renderImages([{ src, alt: block.alt || '' }]);
 }
 
+function leadFigureOf(part) {
+  if (!part || part.figure == null || part.figure === false) return null;
+  if (typeof part.figure === 'string') return { src: part.figure, alt: '' };
+  if (typeof part.figure === 'object') {
+    return { src: part.figure.src || '', alt: part.figure.alt || '' };
+  }
+  return null;
+}
+
 function renderReading(part) {
   const reading = el('div', 'part-reading');
+  const lead = leadFigureOf(part);
+  if (lead) reading.append(renderImages([{ ...lead, lead: true }]));
   const vocabulary = part.vocabulary || [];
   if (usesContent(part)) {
     part.content.forEach((block) => {
@@ -242,38 +262,74 @@ function renderReading(part) {
   return reading;
 }
 
+function githubRawUrl(raw) {
+  try {
+    const url = new URL(raw);
+    if (url.hostname !== 'github.com') return raw;
+    const parts = url.pathname.split('/').filter(Boolean);
+    const marker = parts.findIndex((part) => part === 'blob' || part === 'raw');
+    if (marker < 2 || parts.length <= marker + 1) return raw;
+    const user = parts[0];
+    const repo = parts[1];
+    const rest = parts.slice(marker + 1).map((part) => encodeURIComponent(decodeURIComponent(part))).join('/');
+    return `https://raw.githubusercontent.com/${user}/${repo}/${rest}`;
+  } catch {
+    return raw;
+  }
+}
+
 function imageUrl(path) {
   const raw = String(path || '').trim();
+  if (/^https?:\/\//i.test(raw)) return githubRawUrl(raw);
   const at = raw.indexOf('images/');
   return assetUrl(at >= 0 ? raw.slice(at) : raw.replace(/^(\.\.\/)+/, ''));
+}
+
+function bindFigureZoom(figure, zoom) {
+  zoom.type = 'button';
+  zoom.setAttribute('aria-expanded', 'false');
+  zoom.setAttribute('aria-label', 'Powiększ ilustrację');
+  zoom.addEventListener('click', () => {
+    const open = figure.classList.toggle('is-expanded');
+    if (figure.classList.contains('is-lead')) figure.style.width = open ? '100%' : '30%';
+    zoom.setAttribute('aria-expanded', open ? 'true' : 'false');
+    zoom.setAttribute('aria-label', open ? 'Pomniejsz ilustrację' : 'Powiększ ilustrację');
+  });
+}
+
+function emptyFigureSlot(label) {
+  const slot = el('div', 'part-figure-slot');
+  slot.append(el('span', 'part-figure-mark', label));
+  return slot;
 }
 
 function renderImages(images) {
   const wrap = el('div', 'part-images');
   images.forEach((image) => {
     const figure = el('figure', 'part-figure');
+    if (image?.lead) {
+      figure.classList.add('is-lead');
+      figure.style.width = '30%';
+    }
     const src = String(image?.src || '').trim();
+    const zoom = el('button', 'part-figure-zoom');
+    bindFigureZoom(figure, zoom);
     if (!src) {
       figure.classList.add('is-empty');
-      const slot = el('div', 'part-figure-slot');
-      slot.append(el('span', 'part-figure-mark', 'Ilustracja'));
-      figure.append(slot);
+      zoom.append(emptyFigureSlot(image?.lead ? 'Рисунок' : 'Ilustracja'));
+      figure.append(zoom);
       wrap.append(figure);
       return;
     }
     const img = document.createElement('img');
     img.src = imageUrl(src);
     img.alt = image.alt || '';
-    const zoom = el('button', 'part-figure-zoom');
-    zoom.type = 'button';
-    zoom.setAttribute('aria-expanded', 'false');
-    zoom.setAttribute('aria-label', 'Powiększ ilustrację');
-    zoom.append(img);
-    zoom.addEventListener('click', () => {
-      const open = figure.classList.toggle('is-expanded');
-      zoom.setAttribute('aria-expanded', open ? 'true' : 'false');
-      zoom.setAttribute('aria-label', open ? 'Pomniejsz ilustrację' : 'Powiększ ilustrację');
+    img.addEventListener('error', () => {
+      img.remove();
+      figure.classList.add('is-empty');
+      zoom.append(emptyFigureSlot('Ссылка не открылась'));
     });
+    zoom.append(img);
     figure.append(zoom);
     wrap.append(figure);
   });
@@ -312,11 +368,7 @@ function renderPartQuiz(part, index) {
     check.append(list);
     return check;
   }
-  if (!questions.length) {
-    check.append(el('h3', 'quiz-title', '🧠 Sprawdź, czy rozumiesz'));
-    check.append(el('p', 'muted part-check-empty', 'Pytania do tej części pojawią się później.'));
-    return check;
-  }
+  if (!questions.length) return null;
   const slot = el('div', 'quiz-slot');
   check.append(slot);
   mountQuiz(slot, questions, {

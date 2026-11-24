@@ -1,0 +1,255 @@
+{
+  "id": 5,
+  "title": "Rozdział V — Собрание czerwonych koszul",
+  "parts": [
+    {
+      "id": "part-01",
+      "title": "Фонарь на острове",
+      "description": "Свет означает: командир уже здесь. В арсенале не хватает знамени.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_05_1.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В четверг, через два дня после ночной вылазки, на острове в Ogrodzie Botanicznym уже темно. Здесь собираются czerwone koszule. На мостике два wartownika. Кто-то идёт. Один кричит: [b][i]„Prezentuj broń!”[/i][/b] Копья поднимаются вверх. Это их командир, Feri Acz.",
+            "Он спрашивает, все ли на месте. Gereb пришёл первым. Пока командира нет, latarnię зажигать нельзя. Свет значит: Feri Acz на острове. Младший из braci Pastorów зажигает фонарь. Czerwone koszule садятся вокруг и молчат.",
+            "Sebenicz, zbrojmistrz, докладывает. Из arsenału пропала czerwono-zielona chorągiew, которую Feri забрал на Placu Broni. Tomahawki и копья на месте, все до одного. Вчера вечером он, по уставу, засыпал руины песком. Сегодня на песке следы маленьких ног: от szczeliny к знамени и обратно. Они меньше, чем у Wendauera, а у того самая маленькая нога в отряде.",
+            "Feri понимает: случайный мальчишка унёс бы хоть одно оружие. Взяли только знамя. Значит, кто-то с Placu Broni пришёл за своим флагом. Feri смотрит на Gereba: тот теперь у них разведчик. Знает ли он, кто это сделал?"
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Prezentuj broń!", "match": "Prezentuj broń!", "uk": "На караул!", "ru": "На караул!" },
+        { "phrase": "latarnia", "match": "latarnię", "uk": "ліхтар", "ru": "фонарь" },
+        { "phrase": "zbrojmistrz", "match": "zbrojmistrz", "uk": "зброяр", "ru": "оружейник" },
+        { "phrase": "arsenał", "match": "arsenału", "uk": "арсенал", "ru": "арсенал" },
+        { "phrase": "Wendauer", "match": "Wendauera", "uk": "Вендауер", "ru": "Wendauer, мальчик из красных рубашек" }
+      ]
+    },
+    {
+      "id": "part-02",
+      "title": "Fora ze dwora",
+      "description": "Feri не покупает победу. Война назначена на завтра.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_05_2.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Gereb говорит, что о знамени ничего не знает. Feri напоминает обиду. Они все были на острове, а на дереве всё равно появилась czerwona kartka. Красные погнались за двумя незнакомыми мальчиками до Urzędnicze Parcele. Те бежали без причины, и гнались за ними зря. Карточка на своём острове для них позор. Захват Placu отложили, пока Gereb не осмотрит место. Теперь пусть доложит.",
+            "Gereb путается. Он когда-то был своим на Placu и не хочет открытой драки. Поэтому подкупил сторожа Słowaka: тот прогонит мальчиков без войны.",
+            "Feri смотрит так, что слова застревают. Czerwone koszule никого не подкупают и ни с кем не торгуются. Если мальчики сами не уйдут с Placu, его возьмут силой. Никакой Słowak ему не нужен и никакая хитрость тоже. Потом тихо и страшно: [b][i]„Jeśli tchórzysz, to fora ze dwora!”[/i][/b]",
+            "Gerebu некуда деться. Если красные его выгонят, своего места не останется. Он поднимает голову: [b][i]„Nie jestem tchórzem!”[/i][/b] Клянётся в верности. Они пожимают руки. С этого дня у него степень podporucznika. Sebenicz выдаст włócznię и tomahawk и впишет фамилию в тайный список.",
+            "Feri назначает день natarcia: завтра после обеда, здесь. Половина отряда войдёт со стороны ulicy Marii и займёт fortece. Вторая пройдёт через открытую furtkę со стороны ulicy Pawła и выгонит мальчиков. Если те отступят между sągami, удар пойдёт уже из занятых крепостей. Им нужен Plac для gry w piłkę. Копья вверх: Niech żyje!",
+            "Feri спрашивает, не подозревают ли свои, что Gereb перешёл к красным. Тот отвечает: в темноте его не узнали, завтра он спокойно к ним пойдёт. Даже если подозревают, никто не скажет, все его боятся. И добавляет: [b][i]„Nie ma wśród nich ani jednego odważnego.”[/i][/b]"
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Jeśli tchórzysz, to fora ze dwora!", "match": "Jeśli tchórzysz, to fora ze dwora!", "uk": "Якщо боїшся — геть звідси!", "ru": "Если трусишь — убирайся!" },
+        { "phrase": "Nie jestem tchórzem!", "match": "Nie jestem tchórzem!", "uk": "Я не боягуз!", "ru": "Я не трус!" },
+        { "phrase": "podporucznik", "match": "podporucznika", "uk": "підпоручник", "ru": "подпоручик" },
+        { "phrase": "natarcie", "match": "natarcia", "uk": "наступ", "ru": "наступление" },
+        { "phrase": "Nie ma wśród nich ani jednego odważnego.", "match": "Nie ma wśród nich ani jednego odważnego.", "uk": "Серед них немає жодного сміливого.", "ru": "Среди них нет ни одного храброго." }
+      ]
+    },
+    {
+      "id": "part-03",
+      "title": "Голос с дерева",
+      "description": "Nemeczek сам выходит, потому что Gereb назвал своих трусами.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_05_3.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Сверху, звонко: [b][i]„Nieprawda! Są tacy!”[/i][/b] Feri спрашивает, кто это сказал. Никто из сидящих. Голос снова: Są tacy! Листья шуршат. С дерева слезает маленький светловолосый мальчик.",
+            "Он отряхивает одежду, выпрямляется и смотрит прямо на czerwone koszule. Те молчат от неожиданности. Gereb белеет: Nemeczek!",
+            "Nemeczek отвечает: да, это я. Не ищите, кто унёс chorągiew из arsenału. Это я, и она у меня в руке. И ноги мои меньше, чем у Wendauera. Он сидел наверху с pół do czwartej и мог бы промолчать, пока все уйдут. Но Gereb сказал, что среди chłopców z Placu Broni нет ни одного храброго. Тогда szeregowiec решил показать себя.",
+            "Он подслушал весь совет, вернул своё знамя и говорит: делайте что хотите. Можете бить и отнять chorągiewkę, но сначала придётся вывернуть мне руки. Сам я её не отдам. Вас десятеро, я один. Начинайте."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Nieprawda! Są tacy!", "match": "Nieprawda! Są tacy!", "uk": "Неправда! Є такі!", "ru": "Неправда! Есть такие!" },
+        { "phrase": "pół do czwartej", "match": "pół do czwartej", "uk": "о пів на четверту", "ru": "половина четвёртого" },
+        { "phrase": "szeregowiec", "match": "szeregowiec", "uk": "рядовий", "ru": "рядовой" },
+        { "phrase": "chorągiewka", "match": "chorągiewkę", "uk": "прапорець", "ru": "маленькое знамя" }
+      ]
+    },
+    {
+      "id": "part-04",
+      "title": "Nigdy",
+      "description": "Feri первый раз зовёт кого-то к себе. Ответ один и тот же, дважды.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_05_4.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Bracia Pastorowie хватают Nemeczka с двух сторон. Младший уже заносит руку на ту, в которой знамя. Feri останавливает: [b][i]„Stać! Zostawcie go!”[/i][/b] Мальчик ему нравится. Он протягивает руку: [b][i]„Oto moja ręka.”[/i][/b] И зовёт к czerwonym koszulom.",
+            "Nemeczek качает головой. Голос дрожит от волнения, не от страха. Он говорит дерзко и дважды: [b][i]„Nigdy!”[/i][/b]",
+            "Feri улыбается. Он никого раньше не звал: все, кто здесь, сами просились. Nemeczek первый, кому он это предложил. Не хочет — его дело. Командир поворачивается спиной и бросает через плечо: заберите знамя. Старший Pastor одним движением вырывает czerwono-zieloną chorągiewkę. Больно, но Nemeczek сжимает зубы и молчит.",
+            "Все ждут страшной кары. Feri говорит: это słabeusz, бить его не годится. И добавляет: [b][i]„wykąpcie go.”[/i][/b] Смеются все, даже Gereb под деревом. Серьёзно только лицо Nemeczka.",
+            "Он уже много дней przeziębiony и кашляет. Сегодня мать запретила выходить. В три часа он всё равно ушёл из дома и до вечера сидел на дереве. Сказать, что он болен? Тогда засмеются громче, и Gereb тоже. Pastorowie опускают его в пруд по шею. С берега пароль красных: [b][i]„Hej hop! Hej hop!”[/i][/b] Мокрый Nemeczek похож на бедную лягушку. Gereb стоит, расставив ноги, и хохочет."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "Stać! Zostawcie go!", "match": "Stać! Zostawcie go!", "uk": "Стій! Залиште його!", "ru": "Стой! Оставьте его!" },
+        { "phrase": "Oto moja ręka.", "match": "Oto moja ręka.", "uk": "Ось моя рука.", "ru": "Вот моя рука." },
+        { "phrase": "Nigdy!", "match": "Nigdy!", "uk": "Ніколи!", "ru": "Никогда!" },
+        { "phrase": "słabeusz", "match": "słabeusz", "uk": "слабак", "ru": "слабак" },
+        { "phrase": "wykąpcie go", "match": "wykąpcie go", "uk": "викупайте його", "ru": "выкупайте его" },
+        { "phrase": "Hej hop! Hej hop!", "match": "Hej hop! Hej hop!", "uk": "Гей гоп! Пароль червоних.", "ru": "Hej hop! Пароль красных рубашек." },
+        { "phrase": "przeziębiony", "match": "przeziębiony", "uk": "застуджений", "ru": "простужен" }
+      ]
+    },
+    {
+      "id": "part-05",
+      "title": "Кара сильных",
+      "description": "Мокрому рядовому — копья вверх. Gereb уходит без почестей.",
+      "figure": { "src": "https://github.com/edumost-pl/polska_lektyra-klasa5_images/blob/main/chlopcy_z_placu_broni/01_05_5.png?raw=true", "alt": "" },
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Gereb подходит и спрашивает, хорошо ли было. Nemeczek смотрит большими синими глазами. Ему было лучше, чем тому, кто на берегу смеялся над слабым. Он скорее просидит в воде по шею до нового года, чем будет замышлять с врагами своих друзей. В прошлый раз, когда сам упал в воду, он уже видел Gereba на этом острове.",
+            "Окунать его можно хоть сто раз: он придёт и завтра. Сейчас он один, поэтому сильный легко побеждает. В Ogrodzie Muzealnym bracia Pastorowie забрали его kulki, потому что были сильнее. Когда на Placu Broni вас будет столько же, сколько нас, разговор будет другой. Достаточно было согласиться и перейти к красным, тогда в воду бы не посадили. Он этого не хочет и показывает на Gereba: я никогда не буду [b][i]zdrajcą[/i][/b], как вон тот.",
+            "Смех у Gereba обрывается. Он опускает голову. Становится тихо, как в костеле. С куртки Nemeczka на землю падают капли. Он спрашивает: [b][i]„Czy mogę odejść?”[/i][/b] И ещё: меня не побьют? Никто не отвечает и никто не держит. Wartownicy у моста видели всё и не смеют к нему прикоснуться.",
+            "Nemeczek ступает на мост. Голос Feri Acza: [b][i]„Prezentuj broń!”[/i][/b] Часовые и весь отряд поднимают копья. Слышны шаги, потом хлюпанье полных воды ботинок. Мальчик исчезает.",
+            "Gereb бледный и пытается что-то сказать. Feri поворачивается к нему спиной. Старший Pastor тоже. Gereb говорит: значит, я могу уйти. Он идёт той же дорогой. Перед ним никто не встаёт смирно и никто не поднимает копьё. Wartownicy опираются на перила и смотрят в воду.",
+            "Когда красные остаются одни, Feri спрашивает старшего Pastora про Ogród Muzealny: это ты забрал kulki? Да. Брат был с тобой? Был. Это был einstand? Да. Своим он запретил отнимать шарики у слабых. Команда: [b][i]„Do wody!”[/i][/b] В одежде, по шею. Кто засмеётся, выкупается сам. Отряду: [b][i]„W tył zwrot!”[/i][/b] Feri тоже отворачивается, потом уводит отряд и велит погасить фонарь. Оба Pastora вылезают и молча идут домой. Им стыдно."
+          ]
+        }
+      ],
+      "vocabulary": [
+        { "phrase": "zdrajca", "match": "zdrajcą", "uk": "зрадник", "ru": "предатель" },
+        { "phrase": "Czy mogę odejść?", "match": "Czy mogę odejść?", "uk": "Чи можу я піти?", "ru": "Можно мне уйти?" },
+        { "phrase": "einstand", "match": "einstand", "uk": "ейнштанд, відібрати кульки", "ru": "эйнштанд: отнять шарики силой" },
+        { "phrase": "Do wody!", "match": "Do wody!", "uk": "У воду!", "ru": "В воду!" },
+        { "phrase": "W tył zwrot!", "match": "W tył zwrot!", "uk": "Кругом!", "ru": "Кругом!" }
+      ]
+    },
+    {
+      "id": "part-06",
+      "title": "Важные моменты",
+      "description": "Собрание красных, план на завтра и один рядовой на дереве.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Четверг, остров. Командир — Feri Acz. Пока его нет, latarnię не зажигают. Из arsenału пропала только czerwono-zielona chorągiew. Следы на песке меньше, чем у Wendauera.",
+            "Gereb подкупил Słowaka. Feri отвечает: „Jeśli tchórzysz, to fora ze dwora!” Gereb клянётся и получает степень podporucznika. Natarcie — завтра после обеда: с ulicy Marii на fortece и через furtkę с ulicy Pawła.",
+            "Gereb говорит: „Nie ma wśród nich ani jednego odważnego.” С дерева, где Nemeczek сидит с pół do czwartej: „Nieprawda! Są tacy!” Знамя забрал он.",
+            "Feri зовёт его к красным. Nemeczek дважды: „Nigdy!” Знамя вырывают. Вместо побоев — купание. Пароль: „Hej hop! Hej hop!” Он уже простужен, мать запретила выходить, но молчит об этом.",
+            "Он называет Gereba zdrajcą. Nemeczka провожают: „Prezentuj broń!” Gereb уходит, и копья для него не поднимают.",
+            "За einstand в Ogrodzie Muzealnym Feri сажает braci Pastorów в ту же воду и командует: „W tył zwrot!”"
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-07",
+      "title": "Самое главное в главе",
+      "description": "Сила копья и сила одного слова.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Feri Acz не берёт купленную победу: подкуп Słowaka для него трусость. Удар он назначает на завтра, открыто. И тут же его новый podporucznik говорит, что на Placu нет ни одного храброго.",
+            "Nemeczek мог промолчать на дереве. Он слез, потому что оскорбили всех своих. Знамя отдаёт только когда руку разжимают силой. На первое в жизни приглашение Feri ответ один: Nigdy.",
+            "Купание — шутка над уже больным мальчиком. Он молчит о кашле, чтобы смех не стал громче. Потом называет Gereba предателем, и смех кончается. Мокрого рядового провожают командой Prezentuj broń. Gereb уходит по тому же мосту без копий. За einstand из главы I Feri сажает в ту же воду уже сильных: braci Pastorów."
+          ]
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": "part-08",
+      "title": "Вопросы",
+      "description": "Сначала ответь сам. Потом открой ответ.",
+      
+      "content": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "В ответах оставляй польские имена и фразы: Prezentuj broń, fora ze dwora, Nigdy, Hej hop, einstand."
+          ]
+        }
+      ],
+      "vocabulary": [],
+      "questions": [
+        {
+          "question": "Что означает зажжённая latarnia на острове?",
+          "answer": "Feri Acz уже на острове. Пока командира нет, фонарь зажигать нельзя."
+        },
+        {
+          "question": "Чего не хватает в arsenale и как это узнали?",
+          "answer": "Пропала только czerwono-zielona chorągiew. Оружие цело. Sebenicz увидел на песке следы меньше, чем у Wendauera."
+        },
+        {
+          "question": "Как Gereb хотел взять Plac и что ответил Feri?",
+          "answer": "Он подкупил Słowaka, чтобы тот прогнал мальчиков без войны. Feri сказал: „Jeśli tchórzysz, to fora ze dwora!”"
+        },
+        {
+          "question": "Что получает Gereb и на когда назначено natarcie?",
+          "answer": "Степень podporucznika, włócznię и tomahawk. Удар завтра после обеда: с ulicy Marii на fortece и через furtkę с ulicy Pawła."
+        },
+        {
+          "question": "Какую фразу Gereba слышат с дерева?",
+          "answer": "„Nie ma wśród nich ani jednego odważnego.” Nemeczek отвечает: „Nieprawda! Są tacy!”"
+        },
+        {
+          "question": "Кто сидел на дереве и что он забрал?",
+          "answer": "Nemeczek, szeregowiec. Он сидел с pół do czwartej и сам унёс chorągiew из арсенала."
+        },
+        {
+          "question": "Что предлагает Feri и что отвечает Nemeczek?",
+          "answer": "Протягивает руку: „Oto moja ręka”, и зовёт к czerwonym koszulom. Nemeczek дважды говорит: „Nigdy!”"
+        },
+        {
+          "question": "Какое наказание вместо побоев и почему Nemeczek молчит о болезни?",
+          "answer": "Feri велит: „wykąpcie go”. Nemeczek уже przeziębiony, мать запретила выходить, но он боится, что смех станет громче. Пароль красных: „Hej hop! Hej hop!”"
+        },
+        {
+          "question": "Как провожают Nemeczka и как уходит Gereb?",
+          "answer": "На мосту Feri командует „Prezentuj broń!” Gereba никто не приветствует: Feri и Pastor поворачиваются спиной, часовые смотрят в воду."
+        },
+        {
+          "question": "За что bracia Pastorowie сами оказываются в пруду?",
+          "answer": "За einstand в Ogrodzie Muzealnym: они забрали у Nemeczka kulki. Feri велит: „Do wody!”, по шею, и командует „W tył zwrot!”"
+        }
+      ]
+    }
+  ],
+  "finalQuiz": {
+    "title": "Проверь главу V",
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Кто командует czerwonymi koszulami?",
+        "options": ["Gereb", "Feri Acz", "Boka"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Чего не хватает в arsenale?",
+        "options": ["Tomahawka", "Czerwono-zielonej chorągwi", "Latarni"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "На когда Feri назначает natarcie?",
+        "options": ["Сегодня ночью", "Завтра после обеда", "В мае"],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Что Nemeczek отвечает на приглашение Feri?",
+        "options": ["Nigdy!", "Tak jest, panie kapitanie!", "Hola ho!"],
+        "answer": 0
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": 3,
   "title": "Rozdział III",
-  "audio": "",
+  "audio": "../../audio/chlopcy-z-placu-broni/videoplayback (2).mp4",
   "parts": [
     {
       "id": "part-01",
@@ -1074,6 +1074,87 @@
   ],
   "finalQuiz": {
     "title": "Mini test — Rozdział III",
-    "questions": []
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Kogo Boka zabiera na wyprawę?",
+        "options": [
+          "Czonakosza i Nemeczka",
+          "Kolnaya i Gereba",
+          "Braci Pastorów"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Kogo Boka uważa za podejrzanego?",
+        "options": [
+          "Nemeczka",
+          "Gereba",
+          "Jana"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Ile tomahawków chłopcy znajdują w arsenale?",
+        "options": [
+          "Dwa",
+          "Cztery",
+          "Osiem"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Dlaczego Boka nie pozwala zabrać tej broni?",
+        "options": [
+          "Bo byłaby to kradzież",
+          "Bo jest za ciężka",
+          "Bo należy do Jana"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Co przydarza się Nemeczkowi przy brzegu?",
+        "options": [
+          "Gubi czapkę",
+          "Wpada do wody",
+          "Spotyka Feriego"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "question": "Kto z chłopców z Placu siedzi wśród czerwonych koszul?",
+        "options": [
+          "Boka",
+          "Weiss",
+          "Gereb"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "question": "Co Gereb obiecuje zostawić otwarte?",
+        "options": [
+          "Furtkę od ulicy Pawła",
+          "Bramę szkoły",
+          "Okno szklarni"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "question": "Gdzie chłopcy chowają się przed pościgiem?",
+        "options": [
+          "W budzie Jana",
+          "W szklarni",
+          "Na Placu Broni"
+        ],
+        "answer": 1
+      }
+    ]
   }
 }
